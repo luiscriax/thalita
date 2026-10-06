@@ -1,0 +1,353 @@
+{
+ "type": "OBJECT",
+ "properties": {
+  "resumo_do_look": {
+   "type": "STRING",
+   "description": "Resumo da make em 1 frase (até 25 palavras). Escreva make, nunca look."
+  },
+  "contexto": {
+   "type": "STRING",
+   "description": "Contexto do atendimento que muda a make (horário e luz do evento, local, pedido da cliente). Até 30 palavras."
+  },
+  "leitura": {
+   "type": "OBJECT",
+   "properties": {
+    "luz_da_foto": {
+     "type": "STRING",
+     "description": "Luz da foto da cliente e se há filtro ou make que atrapalhe a leitura. Até 20 palavras."
+    },
+    "rosto": {
+     "type": "STRING",
+     "description": "Formato do rosto e traço que a make valoriza. Até 20 palavras."
+    },
+    "olhos": {
+     "type": "STRING",
+     "description": "Formato do olho e da pálpebra (com dobra, encapuzada, sem dobra) e o que isso muda na sombra. Até 25 palavras."
+    },
+    "boca": {
+     "type": "STRING",
+     "description": "Formato e cor natural da boca. Até 20 palavras."
+    },
+    "confianca": {
+     "type": "STRING",
+     "enum": [
+      "baixa",
+      "media",
+      "alta"
+     ],
+     "description": "Confiança na leitura de rosto, olhos e boca pela foto."
+    }
+   },
+   "propertyOrdering": [
+    "luz_da_foto",
+    "rosto",
+    "olhos",
+    "boca",
+    "confianca"
+   ],
+   "required": [
+    "luz_da_foto",
+    "rosto",
+    "olhos",
+    "boca",
+    "confianca"
+   ]
+  },
+  "pele": {
+   "type": "OBJECT",
+   "properties": {
+    "tom_estimado": {
+     "type": "STRING",
+     "description": "Só a profundidade (clara, média, escura, retinta…), sem subtom. Até 15 palavras."
+    },
+    "confianca_tom": {
+     "type": "STRING",
+     "enum": [
+      "baixa",
+      "media",
+      "alta"
+     ],
+     "description": "Confiança na leitura da profundidade."
+    },
+    "subtom_estimado": {
+     "type": "STRING",
+     "description": "Só a temperatura ou família (quente, frio, neutro, oliva, dourado, avermelhado). Até 15 palavras."
+    },
+    "confianca": {
+     "type": "STRING",
+     "enum": [
+      "baixa",
+      "media",
+      "alta"
+     ],
+     "description": "Confiança na leitura do subtom."
+    },
+    "preparacao": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "correcao_de_cor": {
+     "type": "STRING",
+     "description": "Corretor de cor: cor + zona, só onde há cor a neutralizar com contraste alto; senão 'Não precisa'. Até 25 palavras."
+    },
+    "base": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "corretivo": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "contorno": {
+     "type": "STRING",
+     "description": "Contorno (sombra matte que recua), separado do bronzer; ou 'Não usar'."
+    },
+    "bronzer": {
+     "type": "STRING",
+     "description": "Bronzer (calor onde o sol bate), separado do contorno; ou 'Não usar'."
+    },
+    "blush": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "iluminador": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "acabamento": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    }
+   },
+   "required": [
+    "tom_estimado",
+    "confianca_tom",
+    "subtom_estimado",
+    "confianca",
+    "preparacao",
+    "correcao_de_cor",
+    "base",
+    "corretivo",
+    "contorno",
+    "bronzer",
+    "blush",
+    "iluminador",
+    "acabamento"
+   ],
+   "propertyOrdering": [
+    "tom_estimado",
+    "confianca_tom",
+    "subtom_estimado",
+    "confianca",
+    "preparacao",
+    "correcao_de_cor",
+    "base",
+    "corretivo",
+    "contorno",
+    "bronzer",
+    "blush",
+    "iluminador",
+    "acabamento"
+   ]
+  },
+  "olhos": {
+   "type": "OBJECT",
+   "properties": {
+    "palpebra": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "cavidade": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "canto_interno": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "linha_inferior": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "delineado": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "cilios": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    }
+   },
+   "required": [
+    "palpebra",
+    "cavidade",
+    "canto_interno",
+    "linha_inferior",
+    "delineado",
+    "cilios"
+   ],
+   "propertyOrdering": [
+    "palpebra",
+    "cavidade",
+    "canto_interno",
+    "linha_inferior",
+    "delineado",
+    "cilios"
+   ]
+  },
+  "sobrancelhas": {
+   "type": "STRING",
+   "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+  },
+  "boca": {
+   "type": "OBJECT",
+   "properties": {
+    "lapis": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "batom": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    },
+    "acabamento": {
+     "type": "STRING",
+     "description": "No máximo 1 frase curta e objetiva (até 30 palavras)."
+    }
+   },
+   "required": [
+    "lapis",
+    "batom",
+    "acabamento"
+   ],
+   "propertyOrdering": [
+    "lapis",
+    "batom",
+    "acabamento"
+   ]
+  },
+  "paleta": {
+   "type": "ARRAY",
+   "items": {
+    "type": "OBJECT",
+    "properties": {
+     "uso": {
+      "type": "STRING",
+      "description": "No máximo 1 frase curta e objetiva (até 25 palavras)."
+     },
+     "nome_da_cor": {
+      "type": "STRING",
+      "description": "Família de cor com a temperatura (ex.: marrom quente). Até 6 palavras."
+     },
+     "hex": {
+      "type": "STRING",
+      "description": "Hex aproximado da cor vista na foto ou na simulação."
+     }
+    },
+    "required": [
+     "uso",
+     "nome_da_cor",
+     "hex"
+    ],
+    "propertyOrdering": [
+     "uso",
+     "nome_da_cor",
+     "hex"
+    ]
+   },
+   "description": "Entre 6 e 10 cores."
+  },
+  "intensidade": {
+   "type": "STRING",
+   "enum": [
+    "leve",
+    "media",
+    "alta"
+   ]
+  },
+  "ordem_de_execucao": {
+   "type": "ARRAY",
+   "items": {
+    "type": "STRING"
+   },
+   "description": "De 5 a 10 passos na ordem de fazer, cada um com até 12 palavras."
+  },
+  "adaptacao": {
+   "type": "ARRAY",
+   "description": "Até 4 itens: o que a simulação mudou em relação à make escolhida ou à referência, e por quê. Vazio se não houve adaptação.",
+   "items": {
+    "type": "OBJECT",
+    "properties": {
+     "parte": {
+      "type": "STRING",
+      "description": "Parte do rosto. Até 4 palavras."
+     },
+     "o_que_mudou": {
+      "type": "STRING",
+      "description": "Até 15 palavras."
+     },
+     "por_que": {
+      "type": "STRING",
+      "description": "Motivo ligado ao rosto, à pele ou à ocasião. Até 15 palavras."
+     }
+    },
+    "required": [
+     "parte",
+     "o_que_mudou",
+     "por_que"
+    ],
+    "propertyOrdering": [
+     "parte",
+     "o_que_mudou",
+     "por_que"
+    ]
+   }
+  },
+  "duracao_e_fixacao": {
+   "type": "STRING",
+   "description": "No máximo 1 frase curta e objetiva (até 25 palavras)."
+  },
+  "confirmar_pessoalmente": {
+   "type": "ARRAY",
+   "items": {
+    "type": "STRING"
+   }
+  },
+  "observacoes_para_a_profissional": {
+   "type": "STRING",
+   "description": "No máximo 1 frase curta e objetiva (até 25 palavras)."
+  }
+ },
+ "required": [
+  "resumo_do_look",
+  "contexto",
+  "leitura",
+  "pele",
+  "olhos",
+  "sobrancelhas",
+  "boca",
+  "paleta",
+  "intensidade",
+  "ordem_de_execucao",
+  "adaptacao",
+  "duracao_e_fixacao",
+  "confirmar_pessoalmente",
+  "observacoes_para_a_profissional"
+ ],
+ "propertyOrdering": [
+  "resumo_do_look",
+  "contexto",
+  "leitura",
+  "pele",
+  "olhos",
+  "sobrancelhas",
+  "boca",
+  "paleta",
+  "intensidade",
+  "ordem_de_execucao",
+  "adaptacao",
+  "duracao_e_fixacao",
+  "confirmar_pessoalmente",
+  "observacoes_para_a_profissional"
+ ]
+}
