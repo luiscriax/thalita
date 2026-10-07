@@ -1,0 +1,123 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Teste da pintura</title>
+<!-- Página de teste visual do motor de pintura (usada por scripts/render-pintura.mjs). -->
+<body style="margin:0;background:#1B1311">
+<script type="module">
+  import { criarPintor } from "../js/pintura.js";
+
+  const tela = document.createElement("canvas");
+  document.body.append(tela);
+  const pintor = criarPintor(tela);
+  const imagens = new Map();
+
+  async function carregar(url) {
+    if (!imagens.has(url)) {
+      const img = new Image();
+      img.src = url;
+      await img.decode();
+      imagens.set(url, img);
+    }
+    return imagens.get(url);
+  }
+
+  /** Recorte ampliado de uma região (x,y,w,h normalizados) do canvas atual. */
+  function recortar(r, largura = 640) {
+    const x = r.x * tela.width, y = r.y * tela.height, w = r.w * tela.width, h = r.h * tela.height;
+    const c = document.createElement("canvas");
+    c.width = largura;
+    c.height = Math.max(1, Math.round((largura * h) / w));
+    const ctx = c.getContext("2d");
+    ctx.imageSmoothingQuality = "high";
+    ctx.drawImage(tela, x, y, w, h, 0, 0, c.width, c.height);
+    return c.toDataURL("image/png");
+  }
+
+  /** Desenha a foto com a make e devolve o PNG (e recortes, se pedidos). */
+  window.renderizar = async (url, pontos, estado, opcoes = {}, recortes = {}) => {
+    const img = await carregar(url);
+    pintor.desenhar(img, pontos, estado, opcoes);
+    const saida = { png: tela.toDataURL("image/png"), largura: tela.width, altura: tela.height, recortes: {} };
+    for (const [nome, r] of Object.entries(recortes)) saida.recortes[nome] = recortar(r);
+    return saida;
+  };
+
+  /** Maior diferença de pixel entre a pintura e a foto pura (para conferir intensidade 0). */
+  window.diferencaDaFoto = async (url, pontos, estado) => {
+    const img = await carregar(url);
+    pintor.desenhar(img, pontos, estado, {});
+    const a = tela.getContext("2d").getImageData(0, 0, tela.width, tela.height).data;
+    const ref = document.createElement("canvas");
+    ref.width = tela.width; ref.height = tela.height;
+    const rc = ref.getContext("2d");
+    rc.drawImage(img, 0, 0, ref.width, ref.height);
+    const b = rc.getImageData(0, 0, ref.width, ref.height).data;
+    let max = 0, soma = 0;
+    for (let i = 0; i < a.length; i++) { const d = Math.abs(a[i] - b[i]); if (d > max) max = d; soma += d; }
+    return { max, media: soma / a.length };
+  };
+
+  /**
+   * Tempo por quadro (ms) numa fonte 1280x720 com a foto centralizada, como a câmera.
+   * Usa um canvas NOVO (sem leituras anteriores) e mede a vazão: N quadros seguidos e uma única
+   * leitura no fim para garantir que tudo foi desenhado. Também mede lotes de 10 para ter p90.
+   */
+  window.medirTempo = async (url, pontos, estado, quadros = 60, espelhar = true) => {
+    const img = await carregar(url);
+    const fonte = document.createElement("canvas");
+    fonte.width = 1280; fonte.height = 720;
+    const fx = fonte.getContext("2d");
+    fx.fillStyle = "#ddd"; fx.fillRect(0, 0, 1280, 720);
+    const lado = 720 * (img.naturalWidth / img.naturalHeight);
+    const x0 = (1280 - lado) / 2;
+    fx.drawImage(img, x0, 0, lado, 720);
+    const pts = pontos.map((p) => ({ x: (x0 + p.x * lado) / 1280, y: p.y, z: p.z }));
+    const alvo = document.createElement("canvas");
+    const p2 = criarPintor(alvo);
+    const quadro = (i) => {
+      const dx = Math.sin(i / 4) * 0.002; // pequeno movimento, como numa câmera de verdade
+      p2.desenhar(fonte, pts.map((p) => ({ x: p.x + dx, y: p.y, z: p.z })), estado, { espelhar });
+    };
+    for (let i = 0; i < 5; i++) quadro(i);
+    alvo.getContext("2d").getImageData(0, 0, 1, 1);
+    const lotes = [];
+    for (let l = 0; l < Math.max(1, Math.round(quadros / 10)); l++) {
+      const t0 = performance.now();
+      for (let i = 0; i < 10; i++) quadro(l * 10 + i);
+      alvo.getContext("2d").getImageData(0, 0, 1, 1);
+      lotes.push((performance.now() - t0) / 10);
+      await new Promise((ok) => setTimeout(ok, 0));
+    }
+    p2.liberar();
+    lotes.sort((a, b) => a - b);
+    return {
+      largura: alvo.width, altura: alvo.height,
+      media: lotes.reduce((s, t) => s + t, 0) / lotes.length,
+      mediana: lotes[lotes.length >> 1],
+      p90: lotes[Math.floor(lotes.length * 0.9)],
+    };
+  };
+
+  /** Mapa de índices dos pontos (para conferir a geometria). */
+  window.mapa = async (url, pontos, indices, r) => {
+    const img = await carregar(url);
+    pintor.desenhar(img, pontos, {}, {});
+    const x = r.x * tela.width, y = r.y * tela.height, w = r.w * tela.width, h = r.h * tela.height;
+    const c = document.createElement("canvas");
+    c.width = 1200; c.height = Math.round((1200 * h) / w);
+    const k = c.width / w;
+    const ctx = c.getContext("2d");
+    ctx.drawImage(tela, x, y, w, h, 0, 0, c.width, c.height);
+    ctx.font = "13px sans-serif";
+    for (const i of indices) {
+      const p = pontos[i];
+      const px = (p.x * tela.width - x) * k, py = (p.y * tela.height - y) * k;
+      ctx.fillStyle = "#0f0"; ctx.beginPath(); ctx.arc(px, py, 3, 0, 7); ctx.fill();
+      ctx.fillStyle = "#ff0"; ctx.fillText(String(i), px + 4, py - 3);
+    }
+    return c.toDataURL("image/png");
+  };
+
+  window.pronto = true;
+</script>
+</body>

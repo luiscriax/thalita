@@ -7,7 +7,7 @@
   "scripts": {
     "servir": "node scripts/servir.mjs",
     "fixtures": "bash scripts/baixar-fixtures.sh && node scripts/extrair-pontos.mjs",
-    "test": "node --test testes/unit/",
+    "test": "node --test \"testes/unit/*.test.mjs\"",
     "test:e2e": "playwright test --config testes/e2e/playwright.config.mjs",
     "artefato": "node scripts/artefato.mjs"
   },
