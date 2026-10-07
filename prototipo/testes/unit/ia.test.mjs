@@ -3,7 +3,7 @@
 import { test, describe } from "node:test";
 import assert from "node:assert/strict";
 import { existsSync, readFileSync } from "node:fs";
-import { instrucaoParaIA, conferirResultado, distanciaRostos, LIMITES_CONFERENCIA } from "../../js/ia.js";
+import { instrucaoParaIA, conferirResultado, distanciaRostos, colarDeVolta, LIMITES_CONFERENCIA } from "../../js/ia.js";
 import { montarReceita } from "../../js/receita.js";
 import { criarAmostrador, medir } from "../../js/medidas.js";
 import { analisarTexto } from "../../js/seguranca.js";
@@ -124,5 +124,28 @@ describe("conferência da foto gerada", { skip: PULAR }, () => {
     const c = conferirResultado({ original: { deteccao: det("rosto-frontal"), medidas: medidasFalsas() }, gerada: { deteccao: { pontos: [], rostos: 0 }, amostrador: null }, receita: {} });
     assert.equal(c.aprovado, false);
     assert.match(c.motivos[0], /Não encontramos um rosto/);
+  });
+});
+
+describe("colar de volta", { skip: PULAR }, () => {
+  test("fora do rosto volta a foto original; dentro do rosto fica a gerada", () => {
+    const d = det("rosto-frontal"), r = raw("rosto-frontal");
+    // "IA" que estragou tudo: imagem inteira tingida de verde (rosto, cabelo e fundo)
+    const gerada = r.dados.map((v, i) => (i % 3 === 1 ? Math.min(255, v + 80) : v));
+    const t0 = performance.now();
+    const final = colarDeVolta({ original: r.dados, gerada, largura: r.largura, altura: r.altura, pontos: d.pontos, canais: 3 });
+    const ms = performance.now() - t0;
+    const px = (x, y) => (Math.floor(y * r.altura) * r.largura + Math.floor(x * r.largura)) * 3;
+    const canto = px(0.02, 0.02), nariz = px(d.pontos[1].x, d.pontos[1].y), testa = px(d.pontos[151].x, d.pontos[151].y);
+    assert.equal(final[canto + 1], r.dados[canto + 1], "fundo intacto");
+    assert.equal(final[nariz + 1], gerada[nariz + 1], "nariz com a geração");
+    assert.equal(final[testa + 1], gerada[testa + 1], "testa com a geração");
+    assert.ok(ms < 2000, `rápido o bastante: ${ms.toFixed(0)} ms`);
+  });
+
+  test("sem pontos ou tamanhos diferentes: devolve a original (nunca a gerada sem conferência)", () => {
+    const a = new Uint8Array([1, 2, 3, 4]), b = new Uint8Array([9, 9, 9, 9]);
+    assert.deepEqual([...colarDeVolta({ original: a, gerada: b, largura: 1, altura: 1, pontos: [] })], [1, 2, 3, 4]);
+    assert.deepEqual([...colarDeVolta({ original: a, gerada: new Uint8Array(8), largura: 1, altura: 1, pontos: det("rosto-frontal").pontos })], [1, 2, 3, 4]);
   });
 });

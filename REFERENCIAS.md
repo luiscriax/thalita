@@ -60,7 +60,8 @@ Ajuda a dar ao Beauty Brief uma medida objetiva, sem depender só da IA.
 
 | | Projeto | O que faz | Uso no app |
 |---|---|---|---|
-| 🟡 | [SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier) | Detecta a pele e classifica o tom (Python) | Medida de tom para a ficha |
+| 🔴 | [SkinToneClassifier](https://github.com/ChenglongMa/SkinToneClassifier) | Detecta a pele e classifica o tom (Python) | **GPL-3.0: só estudo**, não copiar para o app. O protótipo já mede o tom por conta própria (`cor.js`, `medidas.js`) |
+| 🟢 | [culori](https://github.com/Evercoder/culori) (MIT) · [colour-science](https://github.com/colour-science/colour) (BSD-3) | Bibliotecas de cor (CIELAB, ΔE2000) | Usar **nos testes** para conferir o nosso `cor.js` (teste diferencial) |
 | 🟢 | [TensorShade](https://github.com/KaylaKremer/TensorShade) | Sugere tons de base a partir da cor da pele (TensorFlow.js) | Ideia de "qual família de base" |
 | — | [Huematch (método)](https://devmesh.intel.com/projects/huematch) | Mede a cor na região das maçãs do rosto | **Método simples:** pontos do MediaPipe + média de cor na bochecha |
 | — | [Perfect Corp ShadeFinder](https://www.perfectcorp.com/business/showcase/shadefinder) | Comercial, líder de mercado | Benchmark de qualidade |
@@ -93,10 +94,9 @@ Mais avançado; útil no futuro para girar o rosto ou ver a make de lado.
 ## 9. Agendamento e pagamento
 | | Projeto | Uso no app |
 |---|---|---|
-| 🟡 | [Cal.com](https://github.com/calcom/cal.com) · [Cal.diy (MIT)](https://github.com/calcom/cal.diy) | Referência de agenda, disponibilidade e Google Agenda |
+| 🟡 | [Cal.diy (MIT)](https://github.com/calcom/cal.diy) | Referência de agenda, disponibilidade e Google Agenda. Desde 15/04/2026 o código do Cal.com é **fechado**; o que ficou público e MIT é o Cal.diy |
 | 🟡 | [Easy!Appointments](https://github.com/alextselegidis/easyappointments) | Regras de reserva e avisos |
-| 🟡 | [OpenSalon](https://github.com/clawnify/open-salon) | Painel de salão (equivale ao Studio) |
-| 🟢 | [pix-utils](https://github.com/thalesog/pix-utils) · [pixbrasil](https://github.com/ogilvieira/pixbrasil) | Gerar o Pix copia e cola e o QR Code do sinal |
+| 🟢 | [pix-utils](https://github.com/thalesog/pix-utils) · [pix-qrcode-utils](https://github.com/NascentSecureTech/pix-qrcode-utils) (MIT, ativo em 2026) · [pixbrasil](https://github.com/ogilvieira/pixbrasil) | Gerar o Pix copia e cola e o QR Code do sinal |
 
 ---
 
@@ -106,3 +106,5 @@ Mais avançado; útil no futuro para girar o rosto ou ver a make de lado.
 3. **Média de cor na bochecha**: estimativa objetiva de tom e subtom, que vai para o Beauty Brief junto com a leitura da IA.
 4. **OpenMakeupSDK**: provador ao vivo e gratuito, para a cliente brincar.
 5. **Gemini** (ou Qwen-Image-Edit): a simulação realista final, que vira a referência do atendimento.
+
+> **Atualizado em 07/10/2026** com a pesquisa de `pesquisa/11-repositorios-open-source.md` (licenças conferidas no GitHub). Atenção: código MIT não garante que os **pesos** de um modelo sejam livres (ex.: modelos treinados no CelebAMask-HQ e os do InsightFace são não comerciais).

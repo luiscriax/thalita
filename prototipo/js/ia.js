@@ -228,3 +228,55 @@ export function conferirResultado({ original, gerada, receita }) {
   const aprovado = identidade.ok && !(detG.rostos > 1) && cores.every((c) => c.ok);
   return { aprovado, identidade, cores, motivos };
 }
+
+// ───────────────────────────── colar de volta ─────────────────────────────
+
+/**
+ * Protege tudo o que não é make: devolve a foto original fora do rosto (cabelo, fundo, roupa,
+ * orelhas) e mantém a foto gerada só dentro do contorno do rosto, com borda suave. As IAs de imagem
+ * não respeitam mais máscara de verdade (pesquisa/09), então essa garantia é nossa.
+ * Trabalha com pixels crus (RGBA ou RGB), do mesmo tamanho nas duas fotos.
+ * @param {{original:Uint8Array|Uint8ClampedArray, gerada:Uint8Array|Uint8ClampedArray, largura:number, altura:number,
+ *          pontos:{x:number,y:number}[], canais?:3|4, margem?:number, suave?:number}} p
+ *   margem: quanto o contorno do rosto cresce (fração da largura do rosto); suave: largura da borda.
+ * @returns {Uint8ClampedArray} nova imagem (mesmo formato)
+ */
+export function colarDeVolta({ original, gerada, largura: W, altura: H, pontos, canais = 4, margem = 0.04, suave = 0.05 }) {
+  const saida = new Uint8ClampedArray(original);
+  if (!(pontos?.length >= 468) || gerada?.length !== original?.length) return saida;
+  const poli = OVAL.map((i) => ({ x: pontos[i].x * W, y: pontos[i].y * H }));
+  const c = poli.reduce((s, p) => ({ x: s.x + p.x / poli.length, y: s.y + p.y / poli.length }), { x: 0, y: 0 });
+  const larg = Math.hypot(poli[8].x - poli[28].x, poli[8].y - poli[28].y) || W; // 454 ↔ 234
+  const cresce = (p) => { const dx = p.x - c.x, dy = p.y - c.y, d = Math.hypot(dx, dy) || 1; const k = (d + larg * margem) / d; return { x: c.x + dx * k, y: c.y + dy * k }; };
+  const P = poli.map(cresce);
+  const borda = Math.max(1, larg * suave);
+  let x0 = W, y0 = H, x1 = 0, y1 = 0;
+  for (const p of P) { x0 = Math.min(x0, p.x); y0 = Math.min(y0, p.y); x1 = Math.max(x1, p.x); y1 = Math.max(y1, p.y); }
+  x0 = Math.max(0, Math.floor(x0)); y0 = Math.max(0, Math.floor(y0)); x1 = Math.min(W - 1, Math.ceil(x1)); y1 = Math.min(H - 1, Math.ceil(y1));
+  const distBorda = (x, y) => {
+    let m = Infinity;
+    for (let i = 0, j = P.length - 1; i < P.length; j = i++) {
+      const a = P[j], b = P[i], vx = b.x - a.x, vy = b.y - a.y;
+      const t = Math.max(0, Math.min(1, ((x - a.x) * vx + (y - a.y) * vy) / (vx * vx + vy * vy || 1)));
+      m = Math.min(m, Math.hypot(x - a.x - vx * t, y - a.y - vy * t));
+    }
+    return m;
+  };
+  for (let y = y0; y <= y1; y++) {
+    const cy = y + 0.5, xs = [];
+    for (let i = 0, j = P.length - 1; i < P.length; j = i++) {
+      const a = P[j], b = P[i];
+      if (a.y <= cy !== b.y <= cy) xs.push(a.x + ((cy - a.y) * (b.x - a.x)) / (b.y - a.y));
+    }
+    xs.sort((p, q) => p - q);
+    for (let k = 0; k + 1 < xs.length; k += 2) {
+      for (let x = Math.max(x0, Math.ceil(xs[k] - 0.5)); x <= Math.min(x1, Math.ceil(xs[k + 1] - 0.5) - 1); x++) {
+        const d = distBorda(x + 0.5, cy);
+        const t = d >= borda ? 1 : d / borda; // 0 na borda → 1 dentro
+        const i = (y * W + x) * canais;
+        for (let ch = 0; ch < 3; ch++) saida[i + ch] = original[i + ch] + (gerada[i + ch] - original[i + ch]) * t;
+      }
+    }
+  }
+  return saida;
+}

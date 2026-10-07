@@ -1,7 +1,14 @@
 name: Protótipo — testes
 
-# Por enquanto só manual (o motor ainda está sendo montado); vira automático quando os testes estiverem verdes.
+# Roda a cada envio que mexe no protótipo (os testes ficaram verdes em 07/10/2026) e também à mão.
 on:
+  push:
+    paths:
+      - "prototipo/**"
+      - ".github/workflows/prototipo-testes.yml"
+  pull_request:
+    paths:
+      - "prototipo/**"
   workflow_dispatch:
 
 permissions:
