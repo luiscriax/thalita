@@ -1,0 +1,41 @@
+name: Protótipo — testes
+
+# Por enquanto só manual (o motor ainda está sendo montado); vira automático quando os testes estiverem verdes.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: prototipo
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: prototipo/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Fotos de teste (MediaPipe) e pontos reais do rosto
+        run: npm run fixtures && python3 scripts/video-falso.py testes/fixtures/fotos/rosto-frontal.png testes/fixtures/camera-falsa.y4m
+      - name: Testes de unidade
+        run: npm test
+      - name: Testes de ponta a ponta (Chromium, câmera falsa)
+        run: npm run test:e2e
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: telas-e-resultados
+          path: prototipo/testes/resultados
+          retention-days: 7

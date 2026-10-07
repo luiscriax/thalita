@@ -1,0 +1,17 @@
+{
+  "name": "thalita-prototipo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Protótipo do motor de make da Thalita Mariano: leitura do rosto, receita, pintura e Beauty Brief.",
+  "scripts": {
+    "servir": "node scripts/servir.mjs",
+    "fixtures": "bash scripts/baixar-fixtures.sh && node scripts/extrair-pontos.mjs",
+    "test": "node --test testes/unit/",
+    "test:e2e": "playwright test --config testes/e2e/playwright.config.mjs",
+    "artefato": "node scripts/artefato.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1"
+  }
+}

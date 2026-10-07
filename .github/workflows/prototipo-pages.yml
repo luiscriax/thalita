@@ -1,0 +1,36 @@
+# Publica o protótipo no GitHub Pages (a câmera ao vivo funciona lá).
+# Antes da primeira vez: Settings → Pages → Source: "GitHub Actions".
+# Em repositório PRIVADO, o Pages exige plano GitHub Pro/Team, e o site fica PÚBLICO.
+name: Protótipo — publicar no GitHub Pages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Montar a pasta do site (sem testes nem dependências)
+        run: |
+          mkdir -p site
+          cp -r prototipo/index.html prototipo/js prototipo/vendor prototipo/modelos site/
+          touch site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

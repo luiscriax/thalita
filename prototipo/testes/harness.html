@@ -1,0 +1,13 @@
+<!doctype html><meta charset="utf-8"><title>harness</title>
+<script type="module">
+  import { carregarDetector, detectarFoto, infoDetector } from "../js/rosto.js";
+  window.detectarUrl = async (url) => {
+    await carregarDetector();
+    const img = new Image();
+    img.src = url;
+    await img.decode();
+    const d = await detectarFoto(img);
+    return { ...d, delegate: infoDetector().delegate };
+  };
+  window.pronto = true;
+</script>
