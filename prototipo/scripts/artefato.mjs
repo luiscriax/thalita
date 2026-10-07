@@ -16,3 +16,10 @@ const saida = [
 await mkdir(new URL("../dist/artefato/", import.meta.url), { recursive: true });
 await writeFile(new URL("../dist/artefato/index.html", import.meta.url), saida);
 console.log(`dist/artefato/index.html (${(saida.length / 1024).toFixed(1)} KB)`);
+
+// O visualizador de Artifacts não serve ".task": o modelo do rosto vai como ".task.wasm" (só o nome
+// muda; o MediaPipe lê os bytes do mesmo jeito) e a cópia publicada do rosto.js aponta para ele.
+const rosto = await readFile(new URL("../js/rosto.js", import.meta.url), "utf8");
+await mkdir(new URL("../dist/artefato/js/", import.meta.url), { recursive: true });
+await writeFile(new URL("../dist/artefato/js/rosto.js", import.meta.url), rosto.replace("face_landmarker.task\"", "face_landmarker.task.wasm\""));
+console.log("dist/artefato/js/rosto.js (modelo como .task.wasm)");
