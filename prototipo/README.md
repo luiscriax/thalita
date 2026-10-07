@@ -65,7 +65,7 @@ Como levar isso para o app real: `../pesquisa/12-engenharia-e-migracao.md` e a s
 
 ## Publicar
 
-- **GitHub Pages** (workflow `.github/workflows/prototipo-pages.yml`, manual): o GitHub só deixa rodar workflows manuais que estejam na branch principal. Antes, ative em *Settings → Pages → Source: GitHub Actions*. Em repositório privado, o Pages exige plano pago e o site fica público.
+- **GitHub Pages (link no navegador, com câmera):** a raiz do repositório tem um `index.html` que leva direto para `prototipo/`, e um `.nojekyll` para o GitHub servir os arquivos como estão. Em *Settings → Pages*, escolha *Source: Deploy from a branch*, a branch `claude/sharp-hawking-4qgv4q` e a pasta `/ (root)`. O link fica `https://luiscriax.github.io/thalita/`. Repositório privado só publica no Pages com plano pago do GitHub (Pro/Team), e o site fica público.
 - **Página do Claude (Artifact):** `npm run artefato` gera `dist/artefato/index.html`; o resto (js, vendor, modelos) vai junto com os mesmos caminhos. Nessa página a câmera é bloqueada pelo visualizador, então use "Enviar uma foto".
 
 Licenças e créditos: `LICENCAS.md`.
