@@ -106,14 +106,33 @@ test("espelho ao vivo com câmera: pinta, troca cor e tira foto", async ({ page 
   const erros = await abrir(page);
   await page.getByRole("button", { name: /Espelho ao vivo/ }).click();
   await expect(page.locator("#estado-espelho")).toContainText("Ao vivo", { timeout: 60_000 });
+  // começa sem make nenhuma
+  expect(await page.evaluate(() => Object.values(window.__thalita.E.aoVivo.estado).filter(Boolean).length)).toBe(0);
+  await expect(page.locator("#zerar")).toHaveAttribute("aria-pressed", "true");
+  await page.locator("#prontas .chip").nth(2).click();
+  expect(await page.evaluate(() => Object.values(window.__thalita.E.aoVivo.estado).filter(Boolean).length)).toBeGreaterThan(3);
   await page.waitForTimeout(1500);
   await print(page, "11-ao-vivo", info);
+  await page.locator("#zerar").click();
+  expect(await page.evaluate(() => Object.values(window.__thalita.E.aoVivo.estado).filter(Boolean).length)).toBe(0);
   await page.getByRole("tab", { name: "Batom" }).click();
   await page.locator(".cor").nth(5).click();
   await page.getByRole("tab", { name: "Sombra" }).click();
   await page.locator(".cor").nth(3).click();
+  // cor livre: o seletor de cor do aparelho pinta a sombra com qualquer cor
+  const antes = await page.locator("#espelho canvas").screenshot();
+  await page.locator("#cor-livre").evaluate((el) => { el.value = "#1f7a6b"; el.dispatchEvent(new Event("input", { bubbles: true })); el.dispatchEvent(new Event("change", { bubbles: true })); });
+  await expect(page.locator(".cor.outra")).toHaveClass(/escolhida/);
+  await expect(page.locator(".cor.outra")).toContainText("#1F7A6B");
+  expect(await page.evaluate(() => window.__thalita.E.aoVivo.estado.sombra.cor)).toBe("#1F7A6B");
   await page.waitForTimeout(800);
+  expect(Buffer.compare(antes, await page.locator("#espelho canvas").screenshot())).not.toBe(0);
   await print(page, "12-ao-vivo-cores", info);
+  // nada da tela fica escondido atrás do botão da câmera
+  const nota = await page.locator(".nota").last().boundingBox(), barra = await page.locator("#acoes").boundingBox();
+  await page.locator(".nota").last().scrollIntoViewIfNeeded();
+  const notaVisivel = await page.locator(".nota").last().boundingBox(), barra2 = await page.locator("#acoes").boundingBox();
+  expect(notaVisivel.y + notaVisivel.height, `nota ${JSON.stringify(nota)} barra ${JSON.stringify(barra)}`).toBeLessThanOrEqual(barra2.y + 40);
   await page.getByRole("button", { name: "Tirar foto com a make" }).click();
   await expect(page.locator(".sobreposicao img")).toBeVisible({ timeout: 15_000 });
   await print(page, "13-foto-moldura", info);

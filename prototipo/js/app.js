@@ -10,6 +10,7 @@ import { instrucaoParaIA, conferirResultado } from "./ia.js";
 import { prepararFoto, analisarTexto } from "./seguranca.js";
 import { PONTOS_PADRAO } from "./rosto-padrao.js";
 import { VARIACOES, PRECOS, MEDIDAS_PADRAO } from "./vitrine.js";
+import { ajustar } from "./cor.js";
 
 // ---------------------------------------------------------------- estado
 const E = {
@@ -48,6 +49,8 @@ const selo = `<span class="selo" aria-hidden="true">${ICONE.check}</span>`;
 // ---------------------------------------------------------------- navegação
 const fluxo = $("#fluxo");
 const acoes = $("#acoes");
+// o fim da tela reserva a altura real da barra de botões (ela muda: botão, obturador, links)
+new ResizeObserver(() => document.documentElement.style.setProperty("--altura-acoes", `${acoes.hidden ? 0 : Math.ceil(acoes.getBoundingClientRect().height)}px`)).observe(acoes);
 let telaAtual = null;
 let limpeza = [];
 
@@ -781,12 +784,12 @@ const CATEGORIAS_AO_VIVO = [
 
 TELAS.aovivo = () => {
   const AV = E.aoVivo;
-  if (!Object.keys(AV.estado).length && MAKES_PRONTAS[0]) { AV.estado = structuredClone(MAKES_PRONTAS[0].estado); AV.pronta = MAKES_PRONTAS[0].id; }
+  // começa sem make: a pessoa maquia do zero, ou escolhe uma make pronta como ponto de partida
   montar({
     palco: true,
     corpo: `
       <div style="display:flex;justify-content:space-between;align-items:center"><h2>Espelho ao vivo</h2><button class="link" id="trocar-fonte">Usar uma foto</button></div>
-      <div class="chips rolagem" id="prontas" aria-label="Makes prontas">${MAKES_PRONTAS.map((p) => `<button class="chip" data-id="${p.id}" aria-pressed="${AV.pronta === p.id}">${esc(p.nome)}</button>`).join("")}</div>
+      <div class="chips rolagem" id="prontas" aria-label="Makes prontas"><button class="chip" id="zerar" aria-pressed="${!Object.values(AV.estado).some(Boolean)}">Sem make</button>${MAKES_PRONTAS.map((p) => `<button class="chip" data-id="${p.id}" aria-pressed="${AV.pronta === p.id}">${esc(p.nome)}</button>`).join("")}</div>
       <div class="espelho" id="espelho">
         <video playsinline muted autoplay></video><canvas aria-label="Seu rosto com a make"></canvas>
         <span class="estado-espelho" id="estado-espelho">Abrindo a câmera…</span>
@@ -868,7 +871,7 @@ TELAS.aovivo = () => {
 
   $$("#prontas .chip").forEach((c) => c.addEventListener("click", () => {
     const p = MAKES_PRONTAS.find((x) => x.id === c.dataset.id);
-    AV.estado = structuredClone(p.estado); AV.pronta = p.id;
+    AV.estado = p ? structuredClone(p.estado) : {}; AV.pronta = p?.id ?? null; // "Sem make" zera tudo
     $$("#prontas .chip").forEach((x) => x.setAttribute("aria-pressed", x === c));
     renderControles(); desenhar();
   }));
@@ -884,11 +887,15 @@ TELAS.aovivo = () => {
     const cores = PALETAS[cat] ?? [];
     const acabs = (ACABAMENTOS ?? []).filter((a) => !a.categorias || a.categorias.includes(cat));
     const estilos = cat === "sombra" ? ESTILOS_SOMBRA : cat === "delineado" ? ESTILOS_DELINEADO : null;
+    // cor escolhida no seletor do aparelho (não está na paleta da Thalita)
+    const livre = camada?.cor && !cores.some((c) => c.hex.toUpperCase() === camada.cor.toUpperCase()) ? camada.cor.toUpperCase() : null;
+    const nomeCat = (CATEGORIAS_AO_VIVO.find(([id]) => id === cat)?.[1] ?? "make").toLowerCase();
     const nomeEstilo = { palpebra: "Pálpebra", esfumado: "Esfumado", asa: "Asa", fino: "Fino", gatinho: "Gatinho", marcado: "Marcado" };
     $("#controles").innerHTML = `
       <div class="cores" role="listbox" aria-label="Cores">
         <button class="cor nenhuma" data-hex="" aria-pressed="${!camada}"><i></i>Sem</button>
         ${cores.map((c) => `<button class="cor" data-hex="${c.hex}" data-id="${c.id}" aria-pressed="${camada?.cor?.toUpperCase() === c.hex.toUpperCase()}"><i style="background:${c.hex}"></i>${esc(c.nome)}</button>`).join("")}
+        <label class="cor outra${livre ? " escolhida" : ""}" ${livre ? `style="--cor-livre:${livre}"` : ""}><i><b aria-hidden="true">+</b></i>${livre ? livre : "Outra cor"}<input type="color" id="cor-livre" value="${livre ?? cores[0]?.hex?.toLowerCase() ?? "#b5655e"}" aria-label="Escolher outra cor de ${esc(nomeCat)}"></label>
       </div>
       ${camada ? `
         ${acabs.length ? `<div class="chips rolagem" id="acabamentos">${acabs.map((a) => `<button class="chip" data-a="${a.id}" aria-pressed="${(camada.acabamento ?? "matte") === a.id}">${esc(a.nome)}</button>`).join("")}</div>` : ""}
@@ -910,6 +917,19 @@ TELAS.aovivo = () => {
       navigator.vibrate?.(8);
       renderControles(); desenhar();
     }));
+    // seletor de cor do próprio aparelho: pinta enquanto a pessoa arrasta e só redesenha os controles ao fechar
+    const seletor = $("#cor-livre");
+    const aplicarLivre = (hex) => {
+      if (!/^#[0-9a-f]{6}$/i.test(hex)) return;
+      hex = hex.toUpperCase();
+      const acabPadrao = cat === "batom" ? "acetinado" : (ACABAMENTOS.find((a) => a.categorias.includes(cat))?.id ?? "matte");
+      AV.estado[cat] = { intensidade: 0.6, acabamento: acabPadrao, ...(AV.estado[cat] ?? {}), cor: hex };
+      if (cat === "sombra") AV.estado[cat].cores = [ajustar(hex, { dL: 18, croma: 0.7 }), hex, ajustar(hex, { dL: -22, croma: 1.05 })];
+      AV.pronta = null; $$("#prontas .chip").forEach((x) => x.setAttribute("aria-pressed", "false"));
+      desenhar();
+    };
+    seletor.addEventListener("input", (e) => aplicarLivre(e.target.value));
+    seletor.addEventListener("change", (e) => { aplicarLivre(e.target.value); navigator.vibrate?.(8); renderControles(); });
     $$("#acabamentos .chip").forEach((b) => b.addEventListener("click", () => { AV.estado[cat].acabamento = b.dataset.a; renderControles(); desenhar(); }));
     $$("#estilos-av .chip").forEach((b) => b.addEventListener("click", () => { AV.estado[cat].estilo = b.dataset.s; renderControles(); desenhar(); }));
     $("#intensidade")?.addEventListener("input", (e) => { AV.estado[cat].intensidade = e.target.value / 100; desenhar(); });
