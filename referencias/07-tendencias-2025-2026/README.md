@@ -64,6 +64,8 @@ Para ser transparente sobre o que está verificado e o que não está:
 - **Preços:** estimativas de mercado, não confirmadas com fonte. Vale validar com 5 a 10 maquiadoras da região da Thalita.
 - **Faltou encontrar:** links de bancos de imagem livres (Unsplash, Pexels), vídeos e perfis por tendência, e matérias brasileiras de 2025–2026 sobre cada tendência. A seção [Termos para buscar mais imagens](#termos-para-buscar-mais-imagens) deixa as buscas prontas.
 
+- **Revisão de 07/10/2026:** a busca na web voltou e esta pasta ganhou **48 links novos**, distribuídos pelos 14 estilos (marcados como *novo, conferido na busca de 07/10/2026*). Todos apareceram em resultados de busca com o endereço exato; **nenhum foi inventado**. A rede deste ambiente continua bloqueando a abertura direta dos sites, então o que cada link diz vem do resumo da busca, não da leitura da página. **Falta olhar humano:** abrir cada link antes de usar no app, conferir se a página fala mesmo do estilo e trocar os de blog de loja ou de marca por fontes editoriais quando possível. Não foram encontradas fotos de banco livre (Unsplash, Pexels) com licença e autorização de modelo conferidas; preços continuam sem fonte.
+
 ## O que a cliente espera de uma make em alta
 
 A cliente que chega com uma tendência quase sempre traz um vídeo do TikTok ou um post do Instagram. Em geral ela quer:
@@ -186,7 +188,7 @@ Costumam ser cobrados à parte: cílios postiços (às vezes inclusos), deslocam
 | 8 | [Limpinha](#8-limpinha) | Natural | leve (15%) | Luz natural, dia, ar livre, escritório, cartório | Tendência 2022–2026 em evolução (skin-first); a make natural é clássica. |
 | 9 | [Olhar sereia](#9-olhar-sereia) | Olho marcante | alta (70%) | Noite, salão, festa, ensaio com luz dura ou flash | Tendência 2024–2025, provavelmente passageira. |
 | 10 | [Olhar lifting](#10-olhar-lifting) | Olho marcante | média (55%) | Dia e noite; ótimo em fotografia, porque o olhar levantado aparece bem em qualquer luz | Técnica atemporal (lifting); o 'fox eye' exagerado foi tendência passageira de 2020–2021. |
-| 11 | [Traço gráfico](#11-traço-gráfico) | Olho marcante | alta (65%) | Estúdio, flash, festa à noite | Tendência 2019–2026 de editorial e ensaio; forma exata muda a cada temporada. |
+| 11 | [Traço gráfico](#11-traço-gráfico) | Olho marcante | média (65%) | Estúdio, flash, festa à noite | Tendência 2019–2026 de editorial e ensaio; forma exata muda a cada temporada. |
 | 12 | [Pálpebra metálica](#12-pálpebra-metálica) | Glam | alta (70%) | Noite, salão, pista, flash: o metal reflete e aparece muito em foto | Clássico (olho dourado) com toque de tendência 2025–2026 (cromado, furta-cor). |
 | 13 | [Blush esculpido](#13-blush-esculpido) | Soft Glam | média (50%) | Dia, fim de tarde, igreja, jardim, fotografia em luz natural | Tendência 2025–2026 (blush marcado, draping); técnica clássica de editorial. |
 | 14 | [Ponto de luz](#14-ponto-de-luz) | Glam | média (45%) | Noite e salão (o glitter acende com luz pontual e flash); de dia, só glitter fino champanhe | Clássico de festa com atualização 2025–2026 (glitter localizado e fino). |
@@ -247,13 +249,18 @@ Costumam ser cobrados à parte: cílios postiços (às vezes inclusos), deslocam
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; noiva R$ 450–1.500. No app: Convidada R$ 180, Madrinha R$ 220, Formanda R$ 250, Noiva R$ 690.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [Makeup looks for every bridal style and wedding aesthetic](https://thewed.com/magazine/makeup-looks-for-every-bridal-style-and-wedding-aesthetic) — The Wed · *estudo apenas (direitos reservados)*
 - [Bridal trends 2026: a bride with soul, personal style and connection to nature](https://www.firabarcelona.com/en/press-release/uncategorized/bridal-trends-2026-a-bride-with-soul-personal-style-and-connection-to-nature/) — Fira Barcelona (Barcelona Bridal Fashion Week) · *estudo apenas (direitos reservados)*
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop (blog de loja) · *estudo apenas (direitos reservados)*
+- [Latte makeup trend](https://amp.cnn.com/cnn/cnn-underscored/beauty/latte-makeup-trend) — CNN Underscored · o que é a latte makeup · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Latte makeup trend](https://vogue.sg/latte-makeup-trend/) — Vogue Singapura · caramelo, chocolate e café do olho à boca · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [What Is Latte Makeup? The Latest TikTok Trend](https://www.countryandtownhouse.com/style/health-and-beauty/latte-makeup-trend/) — Country & Town House (Reino Unido) · origem: maquiadora Tanielle Jai, 2018; viralizou no TikTok · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Latte makeup](https://dailyvanity.sg/beauty-tips/latte-makeup/) — Daily Vanity (Singapura) · como fazer a latte makeup · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Latte makeup trend](https://www.thezoereport.com/beauty/latte-makeup-trend) — The Zoe Report · a tendência e como adaptar a cada tom de pele · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -317,7 +324,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Luz e horário ideais:** Luz natural, dia, praia, ar livre, golden hour. Com flash e à noite, reduzir o iluminador no centro do rosto.
 
-**Duração e fixação:** 6 a 10h com retoques; o brilho some com a oleosidade e no calor vira suor. Selar a zona T, bruma fixadora, levar papel de seda e bálsamo.
+**Duração e fixação:** 6 a 10h com retoques; o brilho some com a oleosidade e no calor vira suor. Selar a zona T, bruma fixadora, levar papel absorvente (papel de arroz) e bálsamo.
 
 **Para quem costuma favorecer:** Peles secas, normais e mistas, peles jovens e maduras (luz em vez de pó não marca rugas). Em pele muito oleosa ou com acne ativa, fazer a versão 'acetinada' (glow só nas maçãs). Funciona em todos os tons de pele trocando a cor do iluminador.
 
@@ -331,7 +338,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; noiva R$ 450–1.500. No app: Debutante R$ 450, Noiva R$ 690, Noiva no civil R$ 380, Ensaio R$ 280.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) — TNH1 · *estudo apenas (direitos reservados)*
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://catracalivre.com.br/saude-bem-estar/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026/) — Catraca Livre · *estudo apenas (direitos reservados)*
@@ -339,6 +346,8 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)*
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)*
 - [Dicas para apostar na maquiagem natural e surpreender no dia do casamento](https://www.tribunapr.com.br/variedades/dicas-para-apostar-na-maquiagem-natural-e-surpreender-no-dia-do-casamento/) — Tribuna PR · *estudo apenas (direitos reservados)*
+- [Tendências de noivas para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-noivas-para-2026/) — Beleza na Web, blog Loucas por Beleza (site de loja) · Bridal Glow, pele luminosa e preparo de pele · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) — Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -416,12 +425,16 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; debutante R$ 300–900. No app: Debutante R$ 450, Aniversariante R$ 220, Ensaio R$ 280.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
+- [Hailey Bieber strawberry girl makeup](https://www.thezoereport.com/culture/hailey-bieber-strawberry-girl-makeup) — The Zoe Report · blush rosado em camadas, sardas e gloss · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Guia para recriar a make morango](https://in.hellomagazine.com/beauty/20230808303162/guide-to-recreating-hailey-biebers-strawberry-make-up-look/) — Hello! Índia (ago/2023) · passo a passo, verão de 2023 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Strawberry girl makeup: summer beauty trend](https://lofficielusa.com/beauty/strawberry-girl-makeup-hailey-bieber-summer-beauty-trend) — L'Officiel EUA · a tendência de 2023 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Here's How To Nail Hailey Bieber's Strawberry Makeup Look](https://www.countryandtownhouse.com/style/health-and-beauty/strawberry-makeup) — Country & Town House (Reino Unido) · como fazer · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -499,13 +512,17 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; noiva R$ 450–1.500. No app: Convidada R$ 180, Madrinha R$ 220, Formanda R$ 250, Noiva R$ 690.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [Revista do Correio, edição digital de 31/05/2026 (p. R07)](https://edicao.correiobraziliense.com.br/correiobraziliense/2026/05/31/1406f3/pdf/R07-REV-3105-DIG.pdf) — Correio Braziliense (PDF da edição) · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Estas são as principais cores de vestido para madrinha de casamento de 2026](https://elle.com.br/moda/cores-vestido-para-madrinha-de-casamento-2026) — Elle Brasil · *estudo apenas (direitos reservados)*
 - [Top bridesmaids makeup trends for 2026 wedding season](https://www.vega.co.in/blog/post/top-bridesmaids-makeup-trends-for-2026-wedding-season.html) — Vega (blog, Índia) · *estudo apenas (direitos reservados)*
+- [Cherry cola lips](https://vogue.sg/cherry-cola-lips/) — Vogue Singapura · lápis marrom com vermelho e brilho · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Cherry Cola Lips are the new viral beauty trend: 'Lana Del Rey vibes'](https://www.hola.com/us/beauty/20230803348761/cherry-cola-lips-viral-trend/) — Hola! EUA (ago/2023) · a tendência e de onde veio · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Cherry cola lips TikTok makeup trend](https://www.bustle.com/style/cherry-cola-lips-tiktok-makeup-trend) — Bustle · como fazer a boca cereja-cola · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [How to get cherry cola lips](https://in.hellomagazine.com/beauty/20230804303148/how-to-get-cherry-cola-lips/) — Hello! Índia (ago/2023) · passo a passo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -583,11 +600,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400. No app: Debutante R$ 450, Aniversariante R$ 220, Convidada R$ 180, Ensaio R$ 280.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
+- [Blurred lips: batom borrado é tendência](https://www.belezanaweb.com.br/loucas-por-beleza/blurred-lips-batom-borrado-e-tendencia/) — Beleza na Web, blog Loucas por Beleza (site de loja) · cor no centro e borda esfumada, inspiração coreana · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- ['Blurred lips': el maquillaje de labios efecto difuminado más rejuvenecedor](https://www.hola.com/belleza/20250321816584/blurred-lips-maquillaje-labios-difuminados-rejuvenecedor/) — Hola! Espanha (mar/2025) · boca borrada, em espanhol · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Lábios esfumados coreanos com mais volume](https://www.hola.com/belleza/20250904853169/labios-difuminados-coreanos-mas-volumen/) — Hola! Espanha (set/2025) · degradê na boca, em espanhol · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -666,12 +686,16 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; noiva R$ 450–1.500. No app: Convidada R$ 180, Formanda R$ 250, Debutante R$ 450, Noiva R$ 690.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [Olhos esfumados e batons neutros dão charme à make das noivas](https://www.folhavitoria.com.br/geral/olhos-esfumados-e-batons-neutros-dao-charme-ao-make-das-noivas/) — Folha Vitória · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)*
+- [Como aplicar lápis de boca na tendência anos 90, segundo maquiadoras](https://www.bustle.com/style/how-to-apply-lip-liner-90s-trend-makeup-artists) — Bustle · lápis marrom com gloss, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Brown lip liners](https://thezoereport.com/beauty/brown-lip-liners) — The Zoe Report · lápis de boca marrom · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [These are the best lip combinations ever, according to experts](https://www.herworld.com/style/beauty/makeup/best-lip-combinations-experts) — Her World (Singapura) · combinações de lápis e batom · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Getting That '90s Lip Liner/Gloss Look is as Easy as 1-2-3](https://sesimag.com/2023/06/03/lip-liner-and-gloss-black-girl/) — Sesi Magazine (jun/2023) · lápis e gloss anos 90 em meninas e mulheres negras · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -750,7 +774,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; noiva R$ 450–1.500. No app: Noiva R$ 690, Madrinha R$ 220, Mãe dos noivos R$ 220, Debutante R$ 450, Formanda R$ 250.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Olhos esfumados e batons neutros dão charme à make das noivas](https://www.folhavitoria.com.br/geral/olhos-esfumados-e-batons-neutros-dao-charme-ao-make-das-noivas/) — Folha Vitória · *estudo apenas (direitos reservados)*
 - [Tudo sobre maquiagem para casamento: noivas, madrinhas e convidadas](https://www.casamentos.com.br/artigos/tudo-sobre-maquiagem-para-casamento-noivas-madrinhas-e-convidadas--c10149) — Casamentos.com.br · *estudo apenas (direitos reservados)*
@@ -758,6 +782,8 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Maquiagem para noiva: como deve ser, tipos e mais](https://labra.com.br/maquiagem-para-noiva-como-deve-ser-tipos-mais/) — Labra · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [Wedding makeup ideas](https://www.weddingwire.com/wedding-ideas/wedding-makeup-ideas) — WeddingWire · *estudo apenas (direitos reservados)*
+- [Outono-inverno: 4 grupos de cores para usar na maquiagem](https://www.correiobraziliense.com.br/revista-do-correio/2026/04/7400249-outono-inverno-4-grupos-de-cores-para-usar-na-maquiagem.html) — Correio Braziliense, Revista do Correio (abr/2026) · marrom, caramelo e terracota; vinho, bordô e roxo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [7 dicas de maquiagem para pele negra](https://www.casamentos.com.br/artigos/7-dicas-de-maquiagem-para-pele-negra--c5442) — Casamentos.com.br · make de casamento em pele negra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -835,13 +861,15 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social leve R$ 120–300. No app: Noiva no civil R$ 380, Convidada R$ 180, Corporativo R$ 200, Social R$ 200.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) — TNH1 · *estudo apenas (direitos reservados)*
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)*
 - [Dicas para apostar na maquiagem natural e surpreender no dia do casamento](https://www.tribunapr.com.br/variedades/dicas-para-apostar-na-maquiagem-natural-e-surpreender-no-dia-do-casamento/) — Tribuna PR · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
+- [Adiós al clean look: la nueva moda de maquillaje 2026](https://www.ambito.com/lifestyle/adios-al-clean-look-la-nueva-moda-maquillaje-2026-n6287367) — Ámbito (Argentina, jun/2026) · o fim da make 'clean' e o que vem depois, em espanhol · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) — Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -874,7 +902,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **A tendência:** Olhar alongado e sedutor: o delineado sai reto do canto externo (sem subir muito) e tem uma 'asa' no canto interno apontando para baixo, com sombra marrom-fumê esfumada na horizontal. Viralizou no TikTok em 2024.
 
-**Combina com ocasião especial?** Noiva: só para noiva de noite que quer um olhar dramático, numa versão suavizada. 15 anos: não combina (é adulta demais); só versão bem leve. Formatura, festa e ensaio: sim.
+**Combina com ocasião especial?** Noiva: só para noiva de noite que quer um olhar dramático, numa versão suavizada. 15 anos: não é indicada (é adulta demais); se a debutante insistir, só uma versão bem leve, com o traço curto e sem preto na linha d'água. Formatura, festa e ensaio: sim.
 
 **Tendência ou clássico:** Tendência 2024–2025, provavelmente passageira. Passageira como nome; o olhar alongado com delineado no canto interno é técnica que fica no repertório.
 
@@ -919,12 +947,16 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400. No app: Formanda R$ 250, Convidada R$ 180, Ensaio R$ 280.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Olhar marcante é tendência em 2015](https://www.folhavitoria.com.br/geral/olhar-marcante-e-tendencia-em-2015/) — Folha Vitória · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)*
 - [Top bridesmaids makeup trends for 2026 wedding season](https://www.vega.co.in/blog/post/top-bridesmaids-makeup-trends-for-2026-wedding-season.html) — Vega (blog, Índia) · *estudo apenas (direitos reservados)*
+- [How to Get Siren Eyes, the Sultrier Take on a Classic Wing](https://www.makeup.com/makeup-tutorials/trends/what-are-siren-eyes) — Makeup.com · gatinho alongado nos dois cantos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [How To Get Siren Eyes, TikTok's Latest Viral Trend](https://graziadaily.co.uk/beauty-hair/makeup/siren-eyes-tiktok-trend) — Grazia (Reino Unido) · passo a passo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [How to achieve siren eyes, the makeup technique for a sultry, feline gaze](https://www.womanandhome.com/beauty/makeup/siren-eyes/) — Woman & Home (Reino Unido) · funciona em olho encapuçado, amendoado ou redondo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [How to siren eyes](https://www.newbeauty.com/view/how-to-siren-eyes) — NewBeauty · passo a passo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1002,12 +1034,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; noiva R$ 450–1.500. No app: Mãe dos noivos R$ 220, Madrinha R$ 220, Formanda R$ 250, Noiva R$ 690.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Maquiagem para mãe da noiva: 3 pontos essenciais](https://www.belezanaweb.com.br/loucas-por-beleza/maquiagem-para-mae-da-noiva-3-pontos-essenciais/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Aprenda a fazer uma maquiagem ideal para pele madura](https://www.agazeta.com.br/colunas/aline-bretas/aprenda-a-fazer-uma-maquiagem-ideal-para-pele-madura-0720) — A Gazeta (coluna Aline Bretas) · *estudo apenas (direitos reservados)*
 - [Tudo sobre maquiagem para casamento: noivas, madrinhas e convidadas](https://www.casamentos.com.br/artigos/tudo-sobre-maquiagem-para-casamento-noivas-madrinhas-e-convidadas--c10149) — Casamentos.com.br · *estudo apenas (direitos reservados)*
 - [Makeup looks for every bridal style and wedding aesthetic](https://thewed.com/magazine/makeup-looks-for-every-bridal-style-and-wedding-aesthetic) — The Wed · *estudo apenas (direitos reservados)*
+- [Let's talk eye makeup over 40 (trata de olho encapuçado)](https://whoorl.substack.com/p/lets-talk-eye-makeup-over-40) — Whoorl (newsletter) · olho encapuçado depois dos 40: lápis esfumado e tufos em vez de cílio inteiro · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) — Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1034,7 +1068,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 ### 11. Traço gráfico
 
-`id: tend-traco-grafico` · **Categoria:** Olho marcante · **Intensidade:** alta (65%) · **Nome de pesquisa:** *Delineado gráfico (floating liner, double liner, colorido)*
+`id: tend-traco-grafico` · **Categoria:** Olho marcante · **Intensidade:** média (65%) · **Nome de pesquisa:** *Delineado gráfico (floating liner, double liner, colorido)*
 
 > **Para a cliente:** Pálpebra limpa e um traço de efeito no olhar: moderna e cheia de personalidade.
 
@@ -1086,12 +1120,16 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make de ensaio R$ 200–500; social R$ 150–400. No app: Ensaio R$ 280, Aniversariante R$ 220, Formanda R$ 250.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Olhar marcante é tendência em 2015](https://www.folhavitoria.com.br/geral/olhar-marcante-e-tendencia-em-2015/) — Folha Vitória · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [Estas são as principais cores de vestido para madrinha de casamento de 2026](https://elle.com.br/moda/cores-vestido-para-madrinha-de-casamento-2026) — Elle Brasil · *estudo apenas (direitos reservados)*
+- [Como adotar a tendência do delineado colorido?](https://elle.com.br/?p=22692) — Elle Brasil · como usar delineado colorido · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [5 tipos de delineado para torcer pelo Brasil na Copa 2026](https://www.folhavitoria.com.br/beleza/5-tipos-de-delineado-para-torcer-pelo-brasil-na-copa-2026-viral/) — Folha Vitória (2026) · delineados coloridos e gráficos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Revenge eyeliner é a tendência da maquilhagem dos olhos que nos lembra de ousar](https://www.nssgclub.com/pt/beauty/45409/revenge-eyeliner-e-a-tendencia-da-maquilhagem-dos-olhos-que-nos-lembra-de-ousar) — nss G-Club (português de Portugal) · delineado marcado como tendência · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Tendências de maquiagem das Semanas de Moda](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-das-semanas-de-moda-2/) — Beleza na Web, blog Loucas por Beleza (site de loja) · make de passarela · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1170,13 +1208,17 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; debutante R$ 300–900. No app: Debutante R$ 450, Formanda R$ 250, Aniversariante R$ 220.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [Revista do Correio, edição digital de 31/05/2026 (p. R07)](https://edicao.correiobraziliense.com.br/correiobraziliense/2026/05/31/1406f3/pdf/R07-REV-3105-DIG.pdf) — Correio Braziliense (PDF da edição) · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)*
 - [Mesmerizing Makeup Ideas For Bridesmaids](https://charlottetilbury.com/us/secrets/mesmerizing-makeup-ideas-bridesmaids) — Charlotte Tilbury (blog de marca; não citar marca no app) · *estudo apenas (direitos reservados)*
+- [Chrome make-up trend](https://www.stylist.co.uk/beauty/make-up/chrome-make-up-trend/1052715) — Stylist (Reino Unido) · make cromada · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [The 7 Makeup Trends That Will Define 2026, From Color-Drenched Lashes to Cosmic Highlighters](https://www.aol.com/lifestyle/7-makeup-trends-define-2026-170000599.html) — AOL Lifestyle · tendências 2026, inclui pálpebra cromada e brilho furta-cor · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Chrome Eyeliner, il trucco occhi che cambia colore è l'ossessione dell'autunno](https://dilei.it/bellezza/chrome-eyeliner-trend-autunno-2025-prodotti/1951346/amp/) — DiLei (Itália, 2025) · delineado cromado que muda de cor, em italiano · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [The 5 Makeup Trends Set To Be Big In 2025](https://www.countryandtownhouse.com/?p=344980) — Country & Town House (Reino Unido) · metálicos e prata em alta em 2025 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1255,13 +1297,17 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; noiva R$ 450–1.500. No app: Noiva R$ 690, Madrinha R$ 220, Mãe dos noivos R$ 220, Debutante R$ 450.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
 - [Bridal makeup trends to expect in 2026, according to a celebrity MUA](https://globalspaonline.com/beauty/trends/bridal-makeup-up-trends-to-expect-in-2026-according-to-a-celebrity-mua) — Global Spa · *estudo apenas (direitos reservados)*
 - [Maquiagem para mãe da noiva: 3 pontos essenciais](https://www.belezanaweb.com.br/loucas-por-beleza/maquiagem-para-mae-da-noiva-3-pontos-essenciais/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
+- [Essa forma de usar blush está com tudo! Saiba como aderir à tendência chamada blush draping](https://www.purepeople.com.br/noticia/blush-nas-temporas-como-usar-a-nova-tendencia-de-make_a383633/1) — Purepeople Brasil · blush nas têmporas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- ['Blush placement': así debes aplicar el colorete según la tendencia del momento](https://www.hola.com/belleza/20250328819825/donde-aplicar-colorete-truco-blush-placement/) — Hola! Espanha (mar/2025) · onde aplicar o blush, em espanhol · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Transition blush: a técnica para um efeito corado natural e sem marcas](https://www.em.com.br/feminino-e-masculino/2026/06/7452240-transition-blush-a-tecnica-para-um-efeito-corado-natural-e-sem-marcas.html) — Estado de Minas (jun/2026) · blush em degradê, sem marcas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Aprenda uma maquiagem que rejuvenesce com as famosas: a técnica de aplicar blush em camadas](https://catracalivre.com.br/saude-bem-estar/aprenda-uma-maquiagem-que-rejuvenesce-com-as-famosas-a-tecnica-de-aplicar-blush-em-camadas-e-como-ter-uma-postura-elegante/) — Catraca Livre · blush em camadas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1340,13 +1386,15 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Preço de mercado:** Estimativa sem fonte nesta pesquisa: make social R$ 150–400; debutante R$ 300–900. No app: Debutante R$ 450, Aniversariante R$ 220, Formanda R$ 250, Noiva R$ 690.
 
-**Referências para estudo** (só o link; as fotos não são nossas; links de apoio sobre 2026, não específicos desta tendência)
+**Referências para estudo** (só o link; as fotos não são nossas; os sem a marca *novo* são apoio sobre 2026, não específicos desta tendência)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio, maio/2026) · *estudo apenas (direitos reservados)*
 - [Makeup looks for every bridal style and wedding aesthetic](https://thewed.com/magazine/makeup-looks-for-every-bridal-style-and-wedding-aesthetic) — The Wed · *estudo apenas (direitos reservados)*
 - [Bridesmaid makeup ideas](https://beaut.ie/beauty/bridesmaid-makeup-ideas-367389) — Beaut.ie · *estudo apenas (direitos reservados)*
 - [Bridesmaid Makeup Ideas](https://junebugweddings.com/wedding-blog/bridesmaid-makeup-ideas/) — Junebug Weddings · *estudo apenas (direitos reservados)*
+- [Guia prático de maquiagem para o Ano Novo: tendências de brilho para 2026](https://www.band.com.br/lifestyle/noticias/guia-pratico-de-maquiagem-para-o-ano-novo-tendencias-brilho-para-2026-202512151100) — Band (dez/2025) · brilho de Réveillon: dourado, champanhe, ouro rosé e prata · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [The 7 Makeup Trends That Will Define 2026, From Color-Drenched Lashes to Cosmic Highlighters](https://www.aol.com/lifestyle/7-makeup-trends-define-2026-170000599.html) — AOL Lifestyle · tendências 2026, inclui pálpebra cromada e brilho furta-cor · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1412,5 +1460,58 @@ Licença de todas: *estudo apenas (direitos reservados)*. Todas apareceram nas b
 - [Bridesmaid Makeup Ideas](https://junebugweddings.com/wedding-blog/bridesmaid-makeup-ideas/) — Junebug Weddings. Galeria de make de madrinhas.
 
 Base técnica do app: `prototipo/js/catalogo.js` (momentos, papéis, categorias e cores de referência) e `prototipo/js/vitrine.js` (preços por papel).
+
+**Acrescentados na revisão de 07/10/2026** (conferidos na busca; a página não pôde ser aberta porque a rede bloqueia o acesso direto aos sites)
+
+- [Latte makeup trend](https://amp.cnn.com/cnn/cnn-underscored/beauty/latte-makeup-trend) · CNN Underscored · o que é a latte makeup
+- [Latte makeup trend](https://vogue.sg/latte-makeup-trend/) · Vogue Singapura · caramelo, chocolate e café do olho à boca
+- [What Is Latte Makeup? The Latest TikTok Trend](https://www.countryandtownhouse.com/style/health-and-beauty/latte-makeup-trend/) · Country & Town House (Reino Unido) · origem: maquiadora Tanielle Jai, 2018; viralizou no TikTok
+- [Latte makeup](https://dailyvanity.sg/beauty-tips/latte-makeup/) · Daily Vanity (Singapura) · como fazer a latte makeup
+- [Latte makeup trend](https://www.thezoereport.com/beauty/latte-makeup-trend) · The Zoe Report · a tendência e como adaptar a cada tom de pele
+- [Tendências de noivas para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-noivas-para-2026/) · Beleza na Web, blog Loucas por Beleza (site de loja) · Bridal Glow, pele luminosa e preparo de pele
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) · Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026
+- [Hailey Bieber strawberry girl makeup](https://www.thezoereport.com/culture/hailey-bieber-strawberry-girl-makeup) · The Zoe Report · blush rosado em camadas, sardas e gloss
+- [Guia para recriar a make morango](https://in.hellomagazine.com/beauty/20230808303162/guide-to-recreating-hailey-biebers-strawberry-make-up-look/) · Hello! Índia (ago/2023) · passo a passo, verão de 2023
+- [Strawberry girl makeup: summer beauty trend](https://lofficielusa.com/beauty/strawberry-girl-makeup-hailey-bieber-summer-beauty-trend) · L'Officiel EUA · a tendência de 2023
+- [Here's How To Nail Hailey Bieber's Strawberry Makeup Look](https://www.countryandtownhouse.com/style/health-and-beauty/strawberry-makeup) · Country & Town House (Reino Unido) · como fazer
+- [Cherry cola lips](https://vogue.sg/cherry-cola-lips/) · Vogue Singapura · lápis marrom com vermelho e brilho
+- [Cherry Cola Lips are the new viral beauty trend: 'Lana Del Rey vibes'](https://www.hola.com/us/beauty/20230803348761/cherry-cola-lips-viral-trend/) · Hola! EUA (ago/2023) · a tendência e de onde veio
+- [Cherry cola lips TikTok makeup trend](https://www.bustle.com/style/cherry-cola-lips-tiktok-makeup-trend) · Bustle · como fazer a boca cereja-cola
+- [How to get cherry cola lips](https://in.hellomagazine.com/beauty/20230804303148/how-to-get-cherry-cola-lips/) · Hello! Índia (ago/2023) · passo a passo
+- [Blurred lips: batom borrado é tendência](https://www.belezanaweb.com.br/loucas-por-beleza/blurred-lips-batom-borrado-e-tendencia/) · Beleza na Web, blog Loucas por Beleza (site de loja) · cor no centro e borda esfumada, inspiração coreana
+- ['Blurred lips': el maquillaje de labios efecto difuminado más rejuvenecedor](https://www.hola.com/belleza/20250321816584/blurred-lips-maquillaje-labios-difuminados-rejuvenecedor/) · Hola! Espanha (mar/2025) · boca borrada, em espanhol
+- [Lábios esfumados coreanos com mais volume](https://www.hola.com/belleza/20250904853169/labios-difuminados-coreanos-mas-volumen/) · Hola! Espanha (set/2025) · degradê na boca, em espanhol
+- [Como aplicar lápis de boca na tendência anos 90, segundo maquiadoras](https://www.bustle.com/style/how-to-apply-lip-liner-90s-trend-makeup-artists) · Bustle · lápis marrom com gloss, em inglês
+- [Brown lip liners](https://thezoereport.com/beauty/brown-lip-liners) · The Zoe Report · lápis de boca marrom
+- [These are the best lip combinations ever, according to experts](https://www.herworld.com/style/beauty/makeup/best-lip-combinations-experts) · Her World (Singapura) · combinações de lápis e batom
+- [Getting That '90s Lip Liner/Gloss Look is as Easy as 1-2-3](https://sesimag.com/2023/06/03/lip-liner-and-gloss-black-girl/) · Sesi Magazine (jun/2023) · lápis e gloss anos 90 em meninas e mulheres negras
+- [Outono-inverno: 4 grupos de cores para usar na maquiagem](https://www.correiobraziliense.com.br/revista-do-correio/2026/04/7400249-outono-inverno-4-grupos-de-cores-para-usar-na-maquiagem.html) · Correio Braziliense, Revista do Correio (abr/2026) · marrom, caramelo e terracota; vinho, bordô e roxo
+- [7 dicas de maquiagem para pele negra](https://www.casamentos.com.br/artigos/7-dicas-de-maquiagem-para-pele-negra--c5442) · Casamentos.com.br · make de casamento em pele negra
+- [Adiós al clean look: la nueva moda de maquillaje 2026](https://www.ambito.com/lifestyle/adios-al-clean-look-la-nueva-moda-maquillaje-2026-n6287367) · Ámbito (Argentina, jun/2026) · o fim da make 'clean' e o que vem depois, em espanhol
+- [How to Get Siren Eyes, the Sultrier Take on a Classic Wing](https://www.makeup.com/makeup-tutorials/trends/what-are-siren-eyes) · Makeup.com · gatinho alongado nos dois cantos
+- [How To Get Siren Eyes, TikTok's Latest Viral Trend](https://graziadaily.co.uk/beauty-hair/makeup/siren-eyes-tiktok-trend) · Grazia (Reino Unido) · passo a passo
+- [How to achieve siren eyes, the makeup technique for a sultry, feline gaze](https://www.womanandhome.com/beauty/makeup/siren-eyes/) · Woman & Home (Reino Unido) · funciona em olho encapuçado, amendoado ou redondo
+- [How to siren eyes](https://www.newbeauty.com/view/how-to-siren-eyes) · NewBeauty · passo a passo
+- [Let's talk eye makeup over 40 (trata de olho encapuçado)](https://whoorl.substack.com/p/lets-talk-eye-makeup-over-40) · Whoorl (newsletter) · olho encapuçado depois dos 40: lápis esfumado e tufos em vez de cílio inteiro
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) · Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos
+- [Como adotar a tendência do delineado colorido?](https://elle.com.br/?p=22692) · Elle Brasil · como usar delineado colorido
+- [5 tipos de delineado para torcer pelo Brasil na Copa 2026](https://www.folhavitoria.com.br/beleza/5-tipos-de-delineado-para-torcer-pelo-brasil-na-copa-2026-viral/) · Folha Vitória (2026) · delineados coloridos e gráficos
+- [Revenge eyeliner é a tendência da maquilhagem dos olhos que nos lembra de ousar](https://www.nssgclub.com/pt/beauty/45409/revenge-eyeliner-e-a-tendencia-da-maquilhagem-dos-olhos-que-nos-lembra-de-ousar) · nss G-Club (português de Portugal) · delineado marcado como tendência
+- [Tendências de maquiagem das Semanas de Moda](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-das-semanas-de-moda-2/) · Beleza na Web, blog Loucas por Beleza (site de loja) · make de passarela
+- [Chrome make-up trend](https://www.stylist.co.uk/beauty/make-up/chrome-make-up-trend/1052715) · Stylist (Reino Unido) · make cromada
+- [The 7 Makeup Trends That Will Define 2026, From Color-Drenched Lashes to Cosmic Highlighters](https://www.aol.com/lifestyle/7-makeup-trends-define-2026-170000599.html) · AOL Lifestyle · tendências 2026, inclui pálpebra cromada e brilho furta-cor
+- [Chrome Eyeliner, il trucco occhi che cambia colore è l'ossessione dell'autunno](https://dilei.it/bellezza/chrome-eyeliner-trend-autunno-2025-prodotti/1951346/amp/) · DiLei (Itália, 2025) · delineado cromado que muda de cor, em italiano
+- [The 5 Makeup Trends Set To Be Big In 2025](https://www.countryandtownhouse.com/?p=344980) · Country & Town House (Reino Unido) · metálicos e prata em alta em 2025
+- [Essa forma de usar blush está com tudo! Saiba como aderir à tendência chamada blush draping](https://www.purepeople.com.br/noticia/blush-nas-temporas-como-usar-a-nova-tendencia-de-make_a383633/1) · Purepeople Brasil · blush nas têmporas
+- ['Blush placement': así debes aplicar el colorete según la tendencia del momento](https://www.hola.com/belleza/20250328819825/donde-aplicar-colorete-truco-blush-placement/) · Hola! Espanha (mar/2025) · onde aplicar o blush, em espanhol
+- [Transition blush: a técnica para um efeito corado natural e sem marcas](https://www.em.com.br/feminino-e-masculino/2026/06/7452240-transition-blush-a-tecnica-para-um-efeito-corado-natural-e-sem-marcas.html) · Estado de Minas (jun/2026) · blush em degradê, sem marcas
+- [Aprenda uma maquiagem que rejuvenesce com as famosas: a técnica de aplicar blush em camadas](https://catracalivre.com.br/saude-bem-estar/aprenda-uma-maquiagem-que-rejuvenesce-com-as-famosas-a-tecnica-de-aplicar-blush-em-camadas-e-como-ter-uma-postura-elegante/) · Catraca Livre · blush em camadas
+- [Guia prático de maquiagem para o Ano Novo: tendências de brilho para 2026](https://www.band.com.br/lifestyle/noticias/guia-pratico-de-maquiagem-para-o-ano-novo-tendencias-brilho-para-2026-202512151100) · Band (dez/2025) · brilho de Réveillon: dourado, champanhe, ouro rosé e prata
+- [Maquiagem para pele negra: 7 dicas para escolher os produtos ideais](https://www.tribunapr.com.br/variedades/maquiagem-para-pele-negra-7-dicas-para-escolher-os-produtos-ideais/) · Tribuna PR · base no subtom, cores que valorizam a pele negra
+- [Maquiagem para pele negra: 7 dicas para escolher os produtos ideais](https://catracalivre.com.br/saude-bem-estar/maquiagem-para-pele-negra-7-dicas-para-escolher-os-produtos-ideais/) · Catraca Livre · base no subtom, cores que valorizam a pele negra
+- [Make-up trends 2026](https://www.nssgclub.com/en/beauty/43794/make-up-trends-2026) · nss G-Club · tendências de make 2026, em inglês
+- [Cloud Dancer na maquiagem: 7 dicas para usar a cor tendência de 2026](https://www.tribunapr.com.br/variedades/cloud-dancer-na-maquiagem-7-dicas-para-usar-a-cor-tendencia-de-2026/) · Tribuna PR (2026) · o branco suave, cor de 2026, na make
+
+Quando a busca não trouxe um título legível, o texto do link é uma descrição curta do assunto.
 
 Os títulos das fontes estão como foram publicados (alguns em inglês usam "looks"; no app a palavra é sempre "make"). Quadradinhos de cor gerados por placehold.co, só para visualizar o hex.

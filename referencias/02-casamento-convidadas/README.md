@@ -5,6 +5,8 @@
 Este grupo cobre quem **não é a noiva** num casamento: a **madrinha**, a **mãe dos noivos**, a **convidada** (de dia e de noite) e a **daminha**. Pajem fica de fora. São 11 estilos, cada um com ficha técnica para a Thalita, paleta em hex, ajustes por tom de pele e por formato de olho, e uma instrução para gerar uma imagem original com IA.
 
 > **Revisado em 07/10/2026** por uma revisora técnica (maquiagem e edição). Veja o que mudou em *Revisão técnica*, perto do fim do arquivo.
+>
+> **Segunda revisão (07/10/2026, à tarde):** com a busca de volta, cada estilo ganhou links conferidos na busca (marcados como *novo*), e a *Glam bronze* ganhou a orientação de blush que faltava. Ver *Limites desta pesquisa*.
 
 ## O que a cliente espera
 
@@ -54,6 +56,8 @@ A busca de preços **não chegou a rodar** nesta rodada (ver *Limites desta pesq
 - O que é técnica de maquiagem nas fichas (ordem, texturas, ajustes por formato de olho e por tom de pele) é conhecimento profissional consolidado, e a Thalita deve revisar.
 - Sugestões para a próxima rodada estão em *Próximas buscas*, no fim deste arquivo.
 - **Na revisão (07/10/2026)** também não foi possível reconferir os links: a cota de buscas da rodada já estava esgotada e os sites continuam bloqueados pela rede (todos voltaram sem resposta). Os links foram mantidos porque vieram de resultados de busca da pesquisa original, mas **ainda precisam ser abertos por uma pessoa** antes de ir para o app. Nenhum link novo foi acrescentado.
+
+- **Revisão de 07/10/2026:** a busca na web voltou e esta pasta ganhou **18 links novos**, distribuídos pelos 11 estilos (marcados como *novo, conferido na busca de 07/10/2026*). Todos apareceram em resultados de busca com o endereço exato; **nenhum foi inventado**. A rede deste ambiente continua bloqueando a abertura direta dos sites, então o que cada link diz vem do resumo da busca, não da leitura da página. **Falta olhar humano:** abrir cada link antes de usar no app, conferir se a página fala mesmo do estilo e trocar os de blog de loja ou de marca por fontes editoriais quando possível. Não foram encontradas fotos de banco livre (Unsplash, Pexels) com licença e autorização de modelo conferidas; preços continuam sem fonte.
 
 ## Tabela-resumo
 
@@ -137,6 +141,8 @@ Os nomes de categoria seguem o app: `natural`, `soft-glam`, `glam`, `olho-marcan
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) · Elle Brasil · *estudo apenas (direitos reservados)*
 - [Top bridesmaids makeup trends for 2026 wedding season](https://www.vega.co.in/blog/post/top-bridesmaids-makeup-trends-for-2026-wedding-season.html) · Vega (blog, Índia) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [Mesmerizing Makeup Ideas For Bridesmaids](https://charlottetilbury.com/us/secrets/mesmerizing-makeup-ideas-bridesmaids) · Charlotte Tilbury (blog de marca) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
+- [Dicas para a maquiagem das madrinhas](https://www.casamentos.com.br/artigos/dicas-para-a-maquiagem-das-madrinhas--c4730) · Casamentos.com.br · make de madrinha · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquilhagem das madrinhas: dicas de ouro para as amigas da noiva](https://www.casamentos.pt/artigos/maquilhagem-das-madrinhas-dicas-de-ouro-para-as-amigas-da-noiva--c9869) · Casamentos.pt (Portugal) · make de madrinha · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -228,6 +234,7 @@ terracotta blush, chocolate-nude #7A4A3A lips with a deep brown liner. Label the
 - [Bridesmaid makeup ideas](https://beaut.ie/beauty/bridesmaid-makeup-ideas-367389) · Beaut.ie · *estudo apenas (direitos reservados)*
 - [Bridesmaid Makeup Ideas](https://junebugweddings.com/wedding-blog/bridesmaid-makeup-ideas/) · Junebug Weddings · *estudo apenas (direitos reservados)*
 - [Tudo sobre maquiagem para casamento: noivas, madrinhas e convidadas](https://www.casamentos.com.br/artigos/tudo-sobre-maquiagem-para-casamento-noivas-madrinhas-e-convidadas--c10149) · Casamentos.com.br · *estudo apenas (direitos reservados)*
+- [Dicas para a maquiagem das madrinhas](https://www.casamentos.com.br/artigos/dicas-para-a-maquiagem-das-madrinhas--c4730) · Casamentos.com.br · make de madrinha · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -325,6 +332,8 @@ liner. Label the result in the app as 'Inspiração com IA' (do not render any t
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) · Elle Brasil · *estudo apenas (direitos reservados)*
 - [Mesmerizing Makeup Ideas For Bridesmaids](https://charlottetilbury.com/us/secrets/mesmerizing-makeup-ideas-bridesmaids) · Charlotte Tilbury (blog de marca) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [Top bridesmaids makeup trends for 2026 wedding season](https://www.vega.co.in/blog/post/top-bridesmaids-makeup-trends-for-2026-wedding-season.html) · Vega (blog, Índia) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
+- [Maquiagem de convidada de casamento: maquiador indica cores neutras em vez de sombra da cor da roupa](https://www.purepeople.com.br/noticia/maquiagem-convidada-casamento-combinar-sombra-com-a-cor-da-roupa-e-muito-anos-200-melhor-optar-por-cores-neutras-diz-maquiador-profissional_a422033/1) · Purepeople Brasil · evitar sombra da mesma cor do vestido chamativo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagens para casamentos durante o dia: 9 inspirações que merecem ser reproduzidas](https://elle.com.br/?p=192968) · Elle Brasil · make de casamento de dia: luminosa e leve · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -363,6 +372,7 @@ render any text inside the image).
 
 - **Pele:** cobertura média a alta, acabamento natural-acetinado (não opaco); corretivo iluminando o centro do rosto; pó só nas áreas oleosas.
 - **Contorno:** marcado e bem esfumado (maçãs, têmporas, mandíbula); bronzer terracota (#B5603F) aquecendo.
+- **Blush:** pêssego queimado ou terracota rosado, por cima do bronzer, só no alto das maçãs (sem blush, o glam bronze deixa o rosto chapado no flash).
 - **Olhos:** transição em marrom médio; chocolate (#4A2C21) no canto externo e côncavo (esfumado ou cut crease suave); bronze metálico (#A86F3C) e ouro velho (#C9A15A) em creme ou pigmento no centro da pálpebra; ponto de luz dourado (#F0D9A8) no canto interno; chocolate esfumado na linha inferior.
 - **Delineado:** gatinho alongado preto-amarronzado (#2B1D17).
 - **Cílios:** postiços em tufos ou em fita leve, com volume no canto externo.
@@ -411,6 +421,8 @@ render any text inside the image).
 - [Flawless bridal makeup](https://www.theknot.com/content/flawless-bridal-makeup) · The Knot (artigo sobre noiva; serve aqui para a técnica de durabilidade e foto) · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) · Elle Brasil · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) · Correio Braziliense — Revista do Correio (maio/2026) · *estudo apenas (direitos reservados)*
+- [Dicas de maquiagem para um casamento noturno](https://www.casamentos.com.br/artigos/dicas-de-maquiagem-para-um-casamento-noturno--c5711) · Casamentos.com.br · make de casamento à noite · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [7 dicas de maquiagem para pele negra](https://www.casamentos.com.br/artigos/7-dicas-de-maquiagem-para-pele-negra--c5442) · Casamentos.com.br · make de casamento em pele negra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -502,6 +514,10 @@ image).
 - [Especialista ensina truques para maquiar peles maduras](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/especialista-ensina-truques-para-maquiar-peles-maduras) · Instituto de Longevidade · *estudo apenas (direitos reservados)*
 - [7 dicas simples para a maquiagem perfeita em mulheres maduras](https://istoe.com.br/7-dicas-simples-para-a-maquiagem-perfeita-em-mulheres-maduras) · IstoÉ · *estudo apenas (direitos reservados)*
 - [9 dicas para realçar sua beleza em todas as fases da vida](https://www.tribunapr.com.br/variedades/9-dicas-para-realcar-sua-beleza-em-todas-as-fases-da-vida/) · Tribuna PR · *estudo apenas (direitos reservados)*
+- [Mother of the bride makeup in 12 flawless steps](https://www.theweddingedition.co.uk/mother-of-the-bride-makeup-in-12-flawless-steps) · The Wedding Edition (Reino Unido) · make de mãe da noiva: pouco pó, primer de pálpebra, marrons em vez de preto · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Let's talk eye makeup over 40 (trata de olho encapuçado)](https://whoorl.substack.com/p/lets-talk-eye-makeup-over-40) · Whoorl (newsletter) · olho encapuçado depois dos 40: lápis esfumado e tufos em vez de cílio inteiro · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) · Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiadores espanhóis concordam: depois dos 50, a técnica de blush em creme é a melhor para devolver o viço ao rosto](https://catracalivre.com.br/saude-bem-estar/maquiadores-espanhois-concordam-depois-dos-50-a-tecnica-de-blush-em-creme-e-a-melhor-para-devolver-o-vico-ao-rosto/) · Catraca Livre · blush em creme não marca linhas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -594,6 +610,8 @@ inside the image).
 - [7 dicas simples para a maquiagem perfeita em mulheres maduras](https://istoe.com.br/7-dicas-simples-para-a-maquiagem-perfeita-em-mulheres-maduras) · IstoÉ · *estudo apenas (direitos reservados)*
 - [Especialista ensina truques para maquiar peles maduras](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/especialista-ensina-truques-para-maquiar-peles-maduras) · Instituto de Longevidade · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) · Correio Braziliense — Revista do Correio (maio/2026) · *estudo apenas (direitos reservados)*
+- [Mother of the bride makeup in 12 flawless steps](https://www.theweddingedition.co.uk/mother-of-the-bride-makeup-in-12-flawless-steps) · The Wedding Edition (Reino Unido) · make de mãe da noiva: pouco pó, primer de pálpebra, marrons em vez de preto · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Mother of the groom makeup](https://www.couturecandy.com/blogs/fashion/mother-of-the-groom-makeup) · Couture Candy (blog de loja, EUA) · make de mãe do noivo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -679,6 +697,9 @@ highlight. Label the result in the app as 'Inspiração com IA' (do not render a
 - [Bridesmaid makeup ideas](https://beaut.ie/beauty/bridesmaid-makeup-ideas-367389) · Beaut.ie · *estudo apenas (direitos reservados)*
 - [Top bridesmaids makeup trends for 2026 wedding season](https://www.vega.co.in/blog/post/top-bridesmaids-makeup-trends-for-2026-wedding-season.html) · Vega (blog, Índia) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [Maio, mês das noivas: as principais tendências de casamento de 2026](https://www.agazeta.com.br/hz/moda/maio-mes-das-noivas-confira-as-principais-tendencias-de-casamento-em-0526) · A Gazeta (HZ) · *estudo apenas (direitos reservados)*
+- [Maquiagens para casamentos durante o dia: 9 inspirações que merecem ser reproduzidas](https://elle.com.br/?p=192968) · Elle Brasil · make de casamento de dia: luminosa e leve · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem simples para casamento: 5 inspirações que dão conta do recado](https://elle.com.br/beleza/maquiagem-simples-para-casamento) · Elle Brasil · makes simples para casamento · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem de convidada de casamento: maquiador indica cores neutras em vez de sombra da cor da roupa](https://www.purepeople.com.br/noticia/maquiagem-convidada-casamento-combinar-sombra-com-a-cor-da-roupa-e-muito-anos-200-melhor-optar-por-cores-neutras-diz-maquiador-profissional_a422033/1) · Purepeople Brasil · evitar sombra da mesma cor do vestido chamativo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -723,6 +744,7 @@ result in the app as 'Inspiração com IA' (do not render any text inside the im
 - **Cílios:** postiços em tufos ou fita natural.
 - **Sobrancelha:** definida.
 - **Blush:** terroso (#C27D66), discreto.
+- **Contorno e iluminador:** contorno suave abaixo das maçãs; iluminador acetinado só no alto das maçãs, sem glitter (com o olho escuro, brilho no rosto todo pesa e vira oleosidade no flash). Em pele escura ou retinta, iluminador dourado ou bronze.
 - **Boca:** nude rosado (#B98478) com lápis no mesmo tom.
 
 ### Paleta
@@ -765,6 +787,7 @@ result in the app as 'Inspiração com IA' (do not render any text inside the im
 - [Bridesmaid Makeup Ideas](https://junebugweddings.com/wedding-blog/bridesmaid-makeup-ideas/) · Junebug Weddings · *estudo apenas (direitos reservados)*
 - [Bridesmaid makeup ideas](https://beaut.ie/beauty/bridesmaid-makeup-ideas-367389) · Beaut.ie · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) · Elle Brasil · *estudo apenas (direitos reservados)*
+- [Dicas de maquiagem para um casamento noturno](https://www.casamentos.com.br/artigos/dicas-de-maquiagem-para-um-casamento-noturno--c5711) · Casamentos.com.br · make de casamento à noite · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -852,6 +875,8 @@ com IA' (do not render any text inside the image).
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) · Elle Brasil · *estudo apenas (direitos reservados)*
 - [Mesmerizing Makeup Ideas For Bridesmaids](https://charlottetilbury.com/us/secrets/mesmerizing-makeup-ideas-bridesmaids) · Charlotte Tilbury (blog de marca) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [Bridesmaid Makeup Ideas](https://junebugweddings.com/wedding-blog/bridesmaid-makeup-ideas/) · Junebug Weddings · *estudo apenas (direitos reservados)*
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) · Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Red lips: 5 secrets for brides](https://thewed.com/magazine/red-lips-5-secrets-for-brides) · The Wed · boca vermelha de noiva, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -926,7 +951,9 @@ render any text inside the image).
 
 ### Referências
 
-- Nenhum link específico: as buscas sobre daminha não chegaram a rodar. Aqui a referência é a regra ética, não uma foto. **Não procurar nem guardar fotos de crianças maquiadas.**
+- [Maquiagem para criança: dermatologista não recomenda o uso](https://www.drogasil.com.br/blog/beleza/maquiagem/maquiagem-para-crianca) · Drogasil (blog; site de loja) · risco de dermatite de contato; se usar, produto infantil com registro na Anvisa · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Dermatologista faz alerta sobre o uso de maquiagem e esmaltes por crianças](https://www.folhavitoria.com.br/saude/dermatologista-faz-alerta-sobre-o-uso-de-maquiagem-e-esmaltes-por-criancas/) · Folha Vitória · make em crianças · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Orientações da Sociedade Brasileira de Pediatria sobre cosméticos para crianças e adolescentes, jul/2025](https://www.sbp.com.br/cosmeticos-para-criancas-e-adolescentes-conheca-as-orientacoes-da-sociedade-brasileira-de-pediatria/) · Sociedade Brasileira de Pediatria (SBP) · uso moderado, produtos próprios para a idade e hipoalergênicos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -1006,6 +1033,7 @@ inside the image).
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) · Correio Braziliense — Revista do Correio (maio/2026) · *estudo apenas (direitos reservados)*
 - [Revista do Correio, edição digital de 31/05/2026 (p. R07)](https://edicao.correiobraziliense.com.br/correiobraziliense/2026/05/31/1406f3/pdf/R07-REV-3105-DIG.pdf) · Correio Braziliense (PDF da edição) · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) · Elle Brasil · *estudo apenas (direitos reservados)*
+- [The 7 Makeup Trends That Will Define 2026, From Color-Drenched Lashes to Cosmic Highlighters](https://www.aol.com/lifestyle/7-makeup-trends-define-2026-170000599.html) · AOL Lifestyle · tendências 2026, inclui pálpebra cromada e brilho furta-cor · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 ### Instrução para gerar imagem original com IA
 
@@ -1053,7 +1081,7 @@ O que a revisora mudou e por quê:
 - **Olhos encapuçados e pele madura:** ganharam regra no grupo e ajustes nas fichas de madrinha e convidada (não só nas da mãe), e modelos com pálpebra encapuçada em *Clássica luminosa*, *Esfumado da noite* e *Brilho furta-cor*.
 - **Peles negras e retintas:** acrescentado o cuidado com o reflexo branco do flash (pó com cor no tom da pele) e com o estoque de bases e corretivos nos tons mais escuros.
 - **Correções técnicas:** sálvia e verde-oliva estavam com o mesmo hex (são cores diferentes; a sálvia ganhou orientação própria); azul-marinho ganhou hex de referência; transições e côncavo marcados como matte; bronzer terracota suavizado para pele clara; sobrancelha com fios brancos; lápis anti-borrão na boca madura; "papel de seda" trocado por papel absorvente (papel de arroz); produtos da daminha regularizados na Anvisa e próprios para criança.
-- **Links:** nenhum link foi removido nem acrescentado. Não foi possível reconferir (busca esgotada e rede bloqueada). Ficou anotado que o artigo do The Knot trata de noiva. Todos continuam com a licença *estudo apenas (direitos reservados)*, e os sites de marca seguem com o aviso para não citar a marca no app.
+- **Links:** nesta primeira revisão nenhum link foi removido nem acrescentado; na segunda revisão do mesmo dia entraram os links novos (ver *Limites desta pesquisa*). Ficou anotado que o artigo do The Knot trata de noiva. Todos continuam com a licença *estudo apenas (direitos reservados)*, e os sites de marca seguem com o aviso para não citar a marca no app.
 - **Vocabulário:** conferido que o arquivo usa sempre "make" (nunca o termo em inglês proibido pela marca).
 
 **Lacunas para a próxima rodada** (estilos fortes no Brasil hoje que ainda não têm ficha, por falta de fonte encontrada nesta rodada): delineado gráfico ou gatinho marcado como protagonista; boca com lápis marrom e gloss (combinação de inspiração anos 90); make monocromática completa (hoje só citada no guia de cor do vestido); pele matte de longa duração para casamento de verão ao ar livre; e uma versão de make para madrinha de **casamento civil**.
@@ -1086,5 +1114,28 @@ Todas com licença **estudo apenas (direitos reservados)**. Nenhuma imagem foi c
 - [7 dicas simples para a maquiagem perfeita em mulheres maduras](https://istoe.com.br/7-dicas-simples-para-a-maquiagem-perfeita-em-mulheres-maduras) · IstoÉ
 - [9 dicas para realçar sua beleza em todas as fases da vida](https://www.tribunapr.com.br/variedades/9-dicas-para-realcar-sua-beleza-em-todas-as-fases-da-vida/) · Tribuna PR
 - [Pele madura requer mais cuidados](https://auniao.pb.gov.br/noticias/caderno_diversidade/pele-madura-requer-mais-cuidados) · A União (PB)
+
+**Acrescentados na revisão de 07/10/2026** (conferidos na busca; a página não pôde ser aberta porque a rede bloqueia o acesso direto aos sites)
+
+- [Dicas para a maquiagem das madrinhas](https://www.casamentos.com.br/artigos/dicas-para-a-maquiagem-das-madrinhas--c4730) · Casamentos.com.br · make de madrinha
+- [Maquilhagem das madrinhas: dicas de ouro para as amigas da noiva](https://www.casamentos.pt/artigos/maquilhagem-das-madrinhas-dicas-de-ouro-para-as-amigas-da-noiva--c9869) · Casamentos.pt (Portugal) · make de madrinha
+- [Maquiagem de convidada de casamento: maquiador indica cores neutras em vez de sombra da cor da roupa](https://www.purepeople.com.br/noticia/maquiagem-convidada-casamento-combinar-sombra-com-a-cor-da-roupa-e-muito-anos-200-melhor-optar-por-cores-neutras-diz-maquiador-profissional_a422033/1) · Purepeople Brasil · evitar sombra da mesma cor do vestido chamativo
+- [Maquiagens para casamentos durante o dia: 9 inspirações que merecem ser reproduzidas](https://elle.com.br/?p=192968) · Elle Brasil · make de casamento de dia: luminosa e leve
+- [Dicas de maquiagem para um casamento noturno](https://www.casamentos.com.br/artigos/dicas-de-maquiagem-para-um-casamento-noturno--c5711) · Casamentos.com.br · make de casamento à noite
+- [7 dicas de maquiagem para pele negra](https://www.casamentos.com.br/artigos/7-dicas-de-maquiagem-para-pele-negra--c5442) · Casamentos.com.br · make de casamento em pele negra
+- [Mother of the bride makeup in 12 flawless steps](https://www.theweddingedition.co.uk/mother-of-the-bride-makeup-in-12-flawless-steps) · The Wedding Edition (Reino Unido) · make de mãe da noiva: pouco pó, primer de pálpebra, marrons em vez de preto
+- [Let's talk eye makeup over 40 (trata de olho encapuçado)](https://whoorl.substack.com/p/lets-talk-eye-makeup-over-40) · Whoorl (newsletter) · olho encapuçado depois dos 40: lápis esfumado e tufos em vez de cílio inteiro
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) · Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos
+- [Maquiadores espanhóis concordam: depois dos 50, a técnica de blush em creme é a melhor para devolver o viço ao rosto](https://catracalivre.com.br/saude-bem-estar/maquiadores-espanhois-concordam-depois-dos-50-a-tecnica-de-blush-em-creme-e-a-melhor-para-devolver-o-vico-ao-rosto/) · Catraca Livre · blush em creme não marca linhas
+- [Mother of the groom makeup](https://www.couturecandy.com/blogs/fashion/mother-of-the-groom-makeup) · Couture Candy (blog de loja, EUA) · make de mãe do noivo
+- [Maquiagem simples para casamento: 5 inspirações que dão conta do recado](https://elle.com.br/beleza/maquiagem-simples-para-casamento) · Elle Brasil · makes simples para casamento
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) · Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura
+- [Red lips: 5 secrets for brides](https://thewed.com/magazine/red-lips-5-secrets-for-brides) · The Wed · boca vermelha de noiva, em inglês
+- [Maquiagem para criança: dermatologista não recomenda o uso](https://www.drogasil.com.br/blog/beleza/maquiagem/maquiagem-para-crianca) · Drogasil (blog; site de loja) · risco de dermatite de contato; se usar, produto infantil com registro na Anvisa
+- [Dermatologista faz alerta sobre o uso de maquiagem e esmaltes por crianças](https://www.folhavitoria.com.br/saude/dermatologista-faz-alerta-sobre-o-uso-de-maquiagem-e-esmaltes-por-criancas/) · Folha Vitória · make em crianças
+- [Orientações da Sociedade Brasileira de Pediatria sobre cosméticos para crianças e adolescentes, jul/2025](https://www.sbp.com.br/cosmeticos-para-criancas-e-adolescentes-conheca-as-orientacoes-da-sociedade-brasileira-de-pediatria/) · Sociedade Brasileira de Pediatria (SBP) · uso moderado, produtos próprios para a idade e hipoalergênicos
+- [The 7 Makeup Trends That Will Define 2026, From Color-Drenched Lashes to Cosmic Highlighters](https://www.aol.com/lifestyle/7-makeup-trends-define-2026-170000599.html) · AOL Lifestyle · tendências 2026, inclui pálpebra cromada e brilho furta-cor
+
+Quando a busca não trouxe um título legível, o texto do link é uma descrição curta do assunto.
 
 Os quadradinhos de cor são imagens geradas pelo serviço placehold.co a partir do código hex; o código também aparece em texto ao lado.

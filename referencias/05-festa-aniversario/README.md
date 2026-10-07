@@ -4,7 +4,7 @@
 
 Pesquisa de outubro de 2026 · 10 estilos · balada, festa de dia, aniversário (inclusive 30, 40, 50 anos ou mais), Réveillon, Carnaval, festa junina e festa temática.
 
-> **Leia antes:** nesta rodada, **nenhuma busca na web deste grupo chegou a rodar** (o limite de 200 buscas, compartilhado entre todos os agentes, já tinha acabado) e a rede bloqueou a abertura direta dos sites. Por isso **não há links específicos de festa, Carnaval, Réveillon ou festa junina** aqui. As fichas trazem técnica profissional consolidada; os poucos links são de apoio, encontrados pelos grupos 01 (noiva) e 02 (casamento) nesta mesma rodada, e cada um diz de onde veio. **Nenhum link foi inventado.** As buscas prontas para a próxima rodada estão em cada ficha e em [Próximas buscas](#proximas-buscas).
+> **Leia antes:** na primeira rodada nenhuma busca deste grupo chegou a rodar. **Na revisão de 07/10/2026 a busca voltou** e cada estilo ganhou links específicos (balada, Réveillon, Carnaval com cuidados de glitter e cola, festa junina, anos 60, pele madura, boca vermelha), marcados como *novo, conferido na busca de 07/10/2026*. A rede ainda bloqueia a abertura dos sites: abrir cada link antes de usar no app. Detalhes em [Limites desta pesquisa](#limites-desta-pesquisa).
 
 ## Sumário
 
@@ -50,7 +50,7 @@ No protótipo do app, o momento *Festa* já está descrito como: "Aniversário, 
 
 ## Cuidados do grupo
 
-- **Durabilidade e transferência:** festa é calor, dança, bebida, comida, abraço e beijo. Primer, produtos à prova d'água, batom de longa duração (ou selado com pó pelo lenço) e bruma fixadora. Sugerir sempre um **kit de retoque** pequeno (batom, papel de seda, pó compacto).
+- **Durabilidade e transferência:** festa é calor, dança, bebida, comida, abraço e beijo. Primer, produtos à prova d'água, batom de longa duração (ou selado com pó pelo lenço) e bruma fixadora. Sugerir sempre um **kit de retoque** pequeno (batom, papel absorvente, pó compacto).
 - **Flash de celular e luz colorida:** pó claro com muita sílica e base com FPS alto podem deixar o rosto branco no flash (efeito fantasma). Luz colorida "come" a cor da make: os tons precisam de um pouco mais de intensidade que de dia.
 - **Glitter e pedrarias:** usar só **glitter cosmético** (de preferência biodegradável) e **cola própria** para glitter ou cola de cílios para pedraria. **Nunca** glitter ou cola de artesanato, nem perto da linha d'água. Remover com óleo ou bálsamo demaquilante, sem esfregar o olho.
 - **Sol (Carnaval, festa de dia, Réveillon na praia):** protetor solar como primeiro passo, camadas finas, tudo à prova d'água.
@@ -111,6 +111,8 @@ Para ser transparente sobre o que está verificado e o que falta:
 - **Preços:** estimativas sem fonte; validar com maquiadoras da região.
 - **Para continuar:** basta pedir uma nova rodada de pesquisa (ou aumentar o limite de buscas). As buscas prontas estão em cada ficha e em [Próximas buscas](#proximas-buscas).
 
+- **Revisão de 07/10/2026:** a busca na web voltou e esta pasta ganhou **36 links novos**, distribuídos pelos 10 estilos (marcados como *novo, conferido na busca de 07/10/2026*). Todos apareceram em resultados de busca com o endereço exato; **nenhum foi inventado**. A rede deste ambiente continua bloqueando a abertura direta dos sites, então o que cada link diz vem do resumo da busca, não da leitura da página. **Falta olhar humano:** abrir cada link antes de usar no app, conferir se a página fala mesmo do estilo e trocar os de blog de loja ou de marca por fontes editoriais quando possível. Não foram encontradas fotos de banco livre (Unsplash, Pexels) com licença e autorização de modelo conferidas; preços continuam sem fonte.
+
 <a id="tabela-resumo"></a>
 
 ## Tabela-resumo
@@ -122,9 +124,9 @@ Para ser transparente sobre o que está verificado e o que falta:
 | 3 | [Glam da aniversariante](#festa-glam-da-aniversariante) | Glam | alta (70%) | Noite, salão, flash, velas | Clássico (toque 2026) |
 | 4 | [Réveillon pérola e ouro](#festa-reveillon-perola-dourada) | Soft Glam | média (55%) | Noite ao ar livre, praia, fogos, flash | Clássico brasileiro (toque 2026) |
 | 5 | [Carnaval brilho e pedraria](#festa-carnaval-brilho-e-pedraria) | Olho marcante | alta (85%) | Sol forte (bloco) e noite (baile) | Clássico brasileiro (tendência forte) |
-| 6 | [Delineado em cor](#festa-delineado-colorido) | Olho marcante | alta (65%) | Noite, festival, LED ou luz negra; bloco de dia | Tendência 2025–2026 (percepção de mercado) |
+| 6 | [Delineado em cor](#festa-delineado-colorido) | Olho marcante | média (65%) | Noite, festival, LED ou luz negra; bloco de dia | Tendência 2025–2026 (percepção de mercado) |
 | 7 | [Arraiá charmoso](#festa-arraia-charmoso) | Natural | leve (35%) | Noite ao ar livre, fogueira, luz amarela | Clássico brasileiro (toque 2025–2026) |
-| 8 | [Retrô anos 60](#festa-tematica-retro-anos-60) | Olho marcante | alta (65%) | Noite, salão, estúdio com flash | Clássico retrô (em alta 2025–2026) |
+| 8 | [Retrô anos 60](#festa-tematica-retro-anos-60) | Olho marcante | alta (70%) | Noite, salão, estúdio com flash | Clássico retrô (em alta 2025–2026) |
 | 9 | [Elegância luminosa](#festa-elegancia-luminosa-pele-madura) | Soft Glam | média (45%) | Noite, restaurante, luz quente, flash de perto | Clássico (toque 2026) |
 | 10 | [Vermelho de festa](#festa-vermelho-de-festa) | Boca marcante | média (60%) | Noite e dia, salão, restaurante, flash | Clássico atemporal |
 
@@ -169,7 +171,7 @@ Hoje o protótipo sugere *Boca marcante* como make típica do momento Festa. Com
 #### Para a Thalita (ficha técnica)
 
 - **Pele:** primer de controle de oleosidade na zona T; base de longa duração, cobertura média, acabamento aveludado (glow só no alto das maçãs); corretivo iluminador em pouca quantidade; pó translúcido fino na zona T e ao redor da boca. Fazer o olho antes da pele para limpar a queda de sombra.
-- **Olhos:** primer de pálpebra; transição caramelo (#8A5A44) bem esfumada acima do côncavo; chocolate quase preto (#2E211C) na metade externa da pálpebra móvel e na linha inferior, esfumado para fora e para cima; grafite quente cintilante (#6B5B57) aplicado com o dedo no centro da pálpebra; ponto de luz champanhe (#E8CFAE) no canto interno.
+- **Olhos:** primer de pálpebra; transição canela (#8A5A44) bem esfumada acima do côncavo; chocolate quase preto (#2E211C) na metade externa da pálpebra móvel e na linha inferior, esfumado para fora e para cima; grafite quente cintilante (#6B5B57) aplicado com o dedo no centro da pálpebra; ponto de luz champanhe (#E8CFAE) no canto interno.
 - **Delineado:** lápis preto à prova d'água na raiz dos cílios de cima e na linha d'água, esfumado com pincel (delineado esfumado, sem traço gráfico).
 - **Cílios:** curvex, máscara preta à prova d'água e tufos médios do meio para o canto externo.
 - **Sobrancelha:** definida e penteada para cima com gel com cor; preencher falhas, sem bloco duro.
@@ -182,7 +184,7 @@ Hoje o protótipo sugere *Boca marcante* como make típica do momento Festa. Com
 | Cor | Nome | Hex | Uso |
 |---|---|---|---|
 | ![#E8CFAE](https://placehold.co/16x16/E8CFAE/E8CFAE.png) | Champanhe | `#E8CFAE` | Canto interno |
-| ![#8A5A44](https://placehold.co/16x16/8A5A44/8A5A44.png) | Caramelo | `#8A5A44` | Transição |
+| ![#8A5A44](https://placehold.co/16x16/8A5A44/8A5A44.png) | Canela | `#8A5A44` | Transição |
 | ![#2E211C](https://placehold.co/16x16/2E211C/2E211C.png) | Chocolate noturno | `#2E211C` | Esfumado externo e linha inferior |
 | ![#6B5B57](https://placehold.co/16x16/6B5B57/6B5B57.png) | Grafite quente | `#6B5B57` | Brilho no centro da pálpebra |
 | ![#B9736A](https://placehold.co/16x16/B9736A/B9736A.png) | Terracota rosada | `#B9736A` | Blush |
@@ -192,12 +194,12 @@ Hoje o protótipo sugere *Boca marcante* como make típica do momento Festa. Com
 #### Luz, duração e para quem
 
 - **Luz ideal:** Noite: balada, luz baixa e colorida, foto de celular com flash. De dia fica pesada; para festa de tarde, preferir o Glow de brunch ou o Glam da aniversariante mais leve.
-- **Durabilidade e fixação:** 6 a 8 h com calor, suor e dança. Primer de pálpebra, lápis e máscara à prova d'água, pó só onde oleosa e bruma fixadora em camadas. Retoque na bolsa: papel de seda, cotonete com um pouco de corretivo e o batom.
+- **Durabilidade e fixação:** 6 a 8 h com calor, suor e dança. Primer de pálpebra, lápis e máscara à prova d'água, pó só onde oleosa e bruma fixadora em camadas. Retoque na bolsa: papel absorvente (papel de arroz), cotonete com um pouco de corretivo e o batom.
 - **Costuma favorecer:** Quem gosta de olho protagonista. Funciona em todos os formatos de olho: em olho encapuçado, esfumar mais alto, acima da dobra, para a cor aparecer de olho aberto; em olho pequeno, deixar o canto interno claro e a linha d'água de baixo só na metade externa. Lindo em todos os tons de pele, ajustando a transição (ver variações).
 
 #### Variações por tom de pele
 
-- **Clara:** transição em taupe (#9B8273) no lugar do caramelo, para não avermelhar; boca nude rosada (#C98E86); cuidado com o preto muito espalhado na linha de baixo, que pode parecer olheira.
+- **Clara:** transição em taupe (#9B8273) no lugar da canela, para não avermelhar; boca nude rosada (#C98E86); cuidado com o preto muito espalhado na linha de baixo, que pode parecer olheira.
 - **Média:** paleta como está; com subtom oliva, transição um pouco mais dourada (#B07A52).
 - **Escura/retinta:** transição em cobre-bronze (#8C5A2B), esfumado em preto de verdade (#151313), centro da pálpebra em ouro (#D4A562) no lugar do grafite, canto interno dourado e não champanhe claro (que acinzenta); boca cacau ou ameixa (#6E3A2C) com lápis chocolate.
 
@@ -215,6 +217,8 @@ Hoje o protótipo sugere *Boca marcante* como make típica do momento Festa. Com
 
 - [Olhar marcante é tendência em 2015](https://www.folhavitoria.com.br/geral/olhar-marcante-e-tendencia-em-2015/) · Folha Vitória — referência histórica do olho marcante como clássico; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Outono-inverno: 4 grupos de cores para usar na maquiagem](https://www.correiobraziliense.com.br/revista-do-correio/2026/04/7400249-outono-inverno-4-grupos-de-cores-para-usar-na-maquiagem.html) · Correio Braziliense, Revista do Correio (abr/2026) · marrom, caramelo e terracota; vinho, bordô e roxo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Aprenda as dicas de uma make duradoura pro fim de ano](https://diariodopara.com.br/noticias/aprenda-as-dicas-de-uma-make-duradoura-pro-fim-de-ano/) · Diário do Pará · make de festa que dura a noite toda · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem esfumada balada", "smoky eye para festa 2026", "smudged liner smoky eye", "smoky eye on dark skin", "maquiagem esfumada pele negra".
 
 #### Instrução para gerar imagem original com IA
@@ -227,7 +231,7 @@ Photorealistic editorial beauty photo, head-and-shoulders portrait of a fictiona
 sleek straight or softly waved hair, black satin slip top, small gold hoop earrings. Lighting: low-key warm
 key light from the front-left with a subtle on-camera flash fill, colored rim light from behind. Makeup (smoky
 night eye, high intensity, eyes as the statement): medium-coverage velvety skin with a natural glow only on
-the high cheekbones; caramel #8A5A44 transition shade diffused above the crease; near-black chocolate #2E211C
+the high cheekbones; cinnamon #8A5A44 transition shade diffused above the crease; near-black chocolate #2E211C
 on the outer half of the lid and the lower lash line, blended outward and upward with no harsh edges; warm
 graphite shimmer #6B5B57 pressed on the center of the lid; champagne #E8CFAE on the inner corners; smudged
 black kohl in the upper lash line and waterline (no graphic wing); curled lashes with black mascara and medium
@@ -238,7 +242,7 @@ focus, aspect ratio 4:5. Real skin texture with visible pores, no heavy retouchi
 features unaltered (no slimming, no skin lightening or darkening). No brand logos, no product packaging, no
 text, no numbers, no watermark. Fictional model only: not a real person, no celebrity likeness. Generate 3
 variations with the same makeup adapted to skin tone: (1) fair skin with a cool-neutral undertone, straight
-light-brown hair: taupe #9B8273 transition instead of caramel, rosy nude lips #C98E86; (2) medium skin with an
+light-brown hair: taupe #9B8273 transition instead of cinnamon, rosy nude lips #C98E86; (2) medium skin with an
 olive-golden undertone, wavy dark-brown hair: slightly more golden transition #B07A52; (3) deep brown skin
 (retinta) with a warm undertone, natural coily hair in a sleek high puff: copper-bronze #8C5A2B transition,
 true black #151313 smoke, gold #D4A562 shimmer on the lid center, golden inner corners, cocoa-plum #6E3A2C
@@ -286,7 +290,7 @@ the image).
 #### Luz, duração e para quem
 
 - **Luz ideal:** Dia: luz natural, ar livre, varanda, restaurante claro, foto de celular sem flash. À noite, sobe para o Glam da aniversariante ou ganha um delineado.
-- **Durabilidade e fixação:** 4 a 5 h. Calor e sol: protetor solar como primeiro passo, fórmulas em creme em camadas finas (duram mais que o pó em pele hidratada), bruma fixadora. Retoque: papel de seda e o gloss.
+- **Durabilidade e fixação:** 4 a 5 h. Calor e sol: protetor solar como primeiro passo, fórmulas em creme em camadas finas (duram mais que o pó em pele hidratada), bruma fixadora. Retoque: papel absorvente (papel de arroz) e o gloss.
 - **Costuma favorecer:** Quem quer parecer descansada e bonita sem cara de produção, quem usa pouca make no dia a dia e peles com textura (menos produto marca menos). Funciona em todas as idades e tons de pele.
 
 #### Variações por tom de pele
@@ -310,6 +314,8 @@ the image).
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) · TNH1 — pele luminosa, menos cobertura e mais viço em 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://catracalivre.com.br/saude-bem-estar/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026/) · Catraca Livre — mesma pauta de pele luminosa em 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Tendências de maquiagem que estão dominando 2026](https://www.folhavitoria.com.br/beleza/tendencias-de-maquiagem-que-estao-dominando-2026-viral/) · Folha Vitória (2026) · pele translúcida com textura real e cores de 2026 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) · Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem para brunch", "maquiagem leve festa de dia", "sunkissed makeup 2026", "daytime party makeup glowy", "glowy makeup dark skin".
 
 #### Instrução para gerar imagem original com IA
@@ -380,7 +386,7 @@ resulting image as 'Inspiração com IA' in the interface (do not render any lab
 #### Luz, duração e para quem
 
 - **Luz ideal:** Noite: salão, restaurante, festa em casa com luz quente; muitas fotos com flash e a foto do parabéns à luz de velas.
-- **Durabilidade e fixação:** 6 a 8 h com abraços, beijos, emoção no parabéns e dança. Primer de pálpebra, máscara à prova d'água, batom de longa duração ou fixado com pó por cima do lenço, bruma fixadora. Kit de retoque para a aniversariante: batom, papel de seda e um pó compacto.
+- **Durabilidade e fixação:** 6 a 8 h com abraços, beijos, emoção no parabéns e dança. Primer de pálpebra, máscara à prova d'água, batom de longa duração ou fixado com pó por cima do lenço, bruma fixadora. Kit de retoque para a aniversariante: batom, papel absorvente (papel de arroz) e um pó compacto.
 - **Costuma favorecer:** Aniversariante que quer ser a estrela, em qualquer idade. Funciona em todos os tons de pele (o dourado ilumina peles claras e fica luxuoso em peles negras e retintas). Em olho encapuçado, metálico no centro e gatinho levantado, desenhado com o olho aberto.
 
 #### Variações por tom de pele
@@ -403,6 +409,8 @@ resulting image as 'Inspiração com IA' in the interface (do not render any lab
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) · TNH1 — pele luminosa, menos cobertura e mais viço em 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Aprenda as dicas de uma make duradoura pro fim de ano](https://diariodopara.com.br/noticias/aprenda-as-dicas-de-uma-make-duradoura-pro-fim-de-ano/) · Diário do Pará · make de festa que dura a noite toda · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [50 fotos de maquiagem para festa](https://www.purepeople.com.br/noticia/essas-50-fotos-de-maquiagem-para-festa-vao-garantir-o-seu-look_a275564/1) · Purepeople Brasil · galeria com sombra colorida, delineado neon e batom escuro · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem aniversariante", "maquiagem dourada festa", "birthday glam makeup gold", "gold glam makeup dark skin", "maquiagem para aniversário à noite".
 
 #### Instrução para gerar imagem original com IA
@@ -452,7 +460,7 @@ label inside the image).
 
 - **Pele:** preparo leve; base à prova d'água e de longa duração, cobertura leve a média, acabamento luminoso porém selado (umidade e maresia); bronzer leve onde o sol bateria; pó translúcido fino na zona T; bruma fixadora.
 - **Olhos:** primer; branco-pérola acetinado (#F3EDE6) na pálpebra toda; ouro claro cintilante (#D9B784) no centro da pálpebra móvel; transição bronze suave (#B8864B) no côncavo, sem esfumado escuro; canto interno pérola.
-- **Delineado:** gatinho delicado em marrom dourado (#7A5A48) ou bronze, à prova d'água.
+- **Delineado:** gatinho delicado em marrom dourado (#8A6A3E) ou bronze, à prova d'água.
 - **Cílios:** máscara à prova d'água e tufos curtos no canto externo.
 - **Sobrancelha:** natural, penteada e fixada com gel (vento).
 - **Blush:** pêssego dourado (#E39E84) em creme, selado com pó da mesma cor.
@@ -467,14 +475,14 @@ label inside the image).
 | ![#F3EDE6](https://placehold.co/16x16/F3EDE6/F3EDE6.png) | Branco pérola | `#F3EDE6` | Pálpebra e canto interno |
 | ![#D9B784](https://placehold.co/16x16/D9B784/D9B784.png) | Ouro claro | `#D9B784` | Centro da pálpebra |
 | ![#B8864B](https://placehold.co/16x16/B8864B/B8864B.png) | Bronze suave | `#B8864B` | Transição e bronzer |
-| ![#7A5A48](https://placehold.co/16x16/7A5A48/7A5A48.png) | Marrom dourado | `#7A5A48` | Gatinho |
+| ![#8A6A3E](https://placehold.co/16x16/8A6A3E/8A6A3E.png) | Marrom dourado | `#8A6A3E` | Gatinho |
 | ![#E39E84](https://placehold.co/16x16/E39E84/E39E84.png) | Pêssego dourado | `#E39E84` | Blush |
 | ![#C98878](https://placehold.co/16x16/C98878/C98878.png) | Nude pêssego | `#C98878` | Boca |
 
 #### Luz, duração e para quem
 
 - **Luz ideal:** Noite ao ar livre: praia, terraço, clube; luz dos fogos (forte e piscando) e muita foto de celular com flash. Também serve para a ceia em casa.
-- **Durabilidade e fixação:** 6 a 8 h com calor, umidade, maresia, vento, champanhe e, às vezes, pés no mar. Tudo à prova d'água, camadas finas, bruma fixadora e pó só onde oleosa. Retoque: gloss e papel de seda.
+- **Durabilidade e fixação:** 6 a 8 h com calor, umidade, maresia, vento, champanhe e, às vezes, pés no mar. Tudo à prova d'água, camadas finas, bruma fixadora e pó só onde oleosa. Retoque: gloss e papel absorvente (papel de arroz).
 - **Costuma favorecer:** Quem vai de branco e quer brilho sem exagero. Para todos os tons de pele, com ajuste do branco (ver variações). Em olho encapuçado, o ouro fica no centro da pálpebra que aparece de olho aberto.
 
 #### Variações por tom de pele
@@ -497,6 +505,11 @@ label inside the image).
 
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) · The Wed — tendências de beleza 2026 (de noiva), em inglês; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Guia prático de maquiagem para o Ano Novo: tendências de brilho para 2026](https://www.band.com.br/lifestyle/noticias/guia-pratico-de-maquiagem-para-o-ano-novo-tendencias-brilho-para-2026-202512151100) · Band (dez/2025) · brilho de Réveillon: dourado, champanhe, ouro rosé e prata · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem para o Ano-Novo: 7 dicas para brilhar na virada](https://www.tribunapr.com.br/variedades/maquiagem-para-o-ano-novo-7-dicas-para-brilhar-na-virada/) · Tribuna PR · dicas de make de Réveillon · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem para o Ano-Novo: 7 dicas para brilhar na virada](https://catracalivre.com.br/saude-bem-estar/maquiagem-para-o-ano-novo-7-dicas-para-brilhar-na-virada/) · Catraca Livre · dicas de make de Réveillon · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Batom cintilante volta à moda: como usar](https://www.folhavitoria.com.br/beleza/batom-cintilante-volta-moda-como-usar/) · Folha Vitória · batom cintilante com brilho perolado mais quente e discreto · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Inspirações de make para arrasar no Ano Novo](https://www.em.com.br/feminino-e-masculino/2024/12/7022478-inspiracoes-de-make-para-arrasar-no-ano-novo.html) · Estado de Minas (dez/2024) · inspirações de make de Réveillon · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem réveillon", "maquiagem para o ano novo branco e dourado", "maquiagem para festa na praia à noite", "New Year's Eve makeup gold pearl", "maquiagem réveillon pele negra".
 
 #### Instrução para gerar imagem original com IA
@@ -512,7 +525,7 @@ the front-left mixed with a soft on-camera flash, golden rim light from behind. 
 glam, medium intensity): light-to-medium coverage luminous yet set waterproof skin, soft bronzer where the sun
 would hit; satin pearl white #F3EDE6 across the lid; fine golden #D9B784 shimmer on the lid center; soft
 bronze #B8864B transition in the crease (no dark smoke); pearl on the inner corners; delicate golden-brown
-#7A5A48 kitten wing; waterproof mascara and short lash clusters on the outer corners; three tiny half-pearls
+#8A6A3E kitten wing; waterproof mascara and short lash clusters on the outer corners; three tiny half-pearls
 placed at the outer corner of each eye; natural brushed brows; golden peach #E39E84 blush; gold-pearl
 highlight on the cheekbones and collarbones; peachy nude #C98878 lips with gloss. Expression: natural and
 relaxed, soft happy smile. Framing: head-and-shoulders, eyes in sharp focus, aspect ratio 4:5. Real skin
@@ -568,7 +581,7 @@ render any label inside the image).
 #### Luz, duração e para quem
 
 - **Luz ideal:** Dia de sol forte na rua (bloco) e noite com luz colorida no baile ou camarote; foto de celular com e sem flash. O glitter fotografa melhor com luz direta.
-- **Durabilidade e fixação:** 6 a 10 h com sol, calor, suor, chuva, multidão e beijo. Protetor solar, tudo à prova d'água, cola própria para glitter, bruma fixadora. Kit de retoque pequeno: cola de cílios, 2 ou 3 strass extras, gloss e papel de seda. Remoção com óleo ou bálsamo demaquilante (e fita adesiva para o glitter), sem esfregar o olho.
+- **Durabilidade e fixação:** 6 a 10 h com sol, calor, suor, chuva, multidão e beijo. Protetor solar, tudo à prova d'água, cola própria para glitter, bruma fixadora. Kit de retoque pequeno: cola de cílios, 2 ou 3 strass extras, gloss e papel absorvente (papel de arroz). Remoção com óleo ou bálsamo demaquilante (e fita adesiva para o glitter), sem esfregar o olho.
 - **Costuma favorecer:** Quem quer brilhar e se divertir, em qualquer idade. As cores saturadas e o dourado ficam lindos em peles negras e retintas; em pele clara, prata e lilás ficam mais suaves. Em olho encapuçado, colocar o glitter no centro da pálpebra móvel e as pedrarias acima da dobra.
 
 #### Variações por tom de pele
@@ -591,6 +604,11 @@ render any label inside the image).
 #### Referências
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Glitter no Carnaval: saiba como usar, cuidados e como retirar da pele](https://www.oliberal.com/variedades/glitter-no-carnaval-saiba-como-usar-cuidados-e-como-retirar-da-pele-1.1085364) · O Liberal (PA) · glitter cosmético aprovado pela Anvisa, longe das mucosas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Médicos alertam sobre riscos para a saúde ocular durante o Carnaval](https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/02/medicos-alertam-sobre-riscos-para-a-saude-ocular-durante-o-carnaval.html) · Diario de Pernambuco (fev/2024) · cola de cílios e glitter perto dos olhos; o que fazer se cair no olho · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Carnaval, calor e multidão: cuidados ao usar cosméticos na folia](https://www.diariodepernambuco.com.br/noticia/vidaurbana/2024/01/carnaval-calor-e-multidao-cuidados-ao-usar-cosmeticos-na-folia.html) · Diario de Pernambuco (jan/2024) · cosméticos no calor do Carnaval · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [5 cuidados importantes com os olhos no Carnaval](https://www.tribunapr.com.br/variedades/5-cuidados-importantes-com-os-olhos-no-carnaval/) · Tribuna PR · cuidados com os olhos na folia · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [7 dicas para arrasar na maquiagem de Carnaval em 2026](https://www.tnh1.com.br/noticia/nid/7-dicas-para-arrasar-na-maquiagem-de-carnaval-em-2026-5437/) · TNH1 (2026) · make de Carnaval 2026, inclui delineado gráfico e colorido · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem de carnaval 2026", "maquiagem carnaval pedrarias", "glitter biodegradável carnaval", "maquiagem carnaval pele negra", "maquiagem para bloco de carnaval que dura", "Brazil carnival makeup glitter rhinestones".
 
 #### Instrução para gerar imagem original com IA
@@ -628,7 +646,7 @@ not render any label inside the image).
 
 ### 6. Delineado em cor
 
-`festa-delineado-colorido` · **Olho marcante** · intensidade **alta (65%)**
+`festa-delineado-colorido` · **Olho marcante** · intensidade **média (65%)**
 
 > **Para a cliente:** Um traço de cor que faz todo o efeito, com pele leve e boca suave: moderna e fácil de usar a noite toda.
 
@@ -640,7 +658,7 @@ not render any label inside the image).
 
 - **Pele:** leve e de longa duração, acabamento natural; corretivo pontual; pó na zona T.
 - **Olhos:** pálpebra limpa com uma sombra neutra bege (#E6CBB0) para uniformizar; se a cor for neon, uma base branca fina por baixo do traço faz a cor acender.
-- **Delineado:** gatinho em azul cobalto (#1F5FBF) com um segundo traço flutuante em pink (#FF3EA5) acima da dobra, ou em laranja (#FF7A2F); delineador à prova d'água ou ativado com água, selado com sombra da mesma cor.
+- **Delineado:** gatinho em azul cobalto (#1F5FBF) com um segundo traço flutuante em pink (#FF3EA5) acima da dobra, ou em laranja (#FF7A2F); delineador à prova d'água ou ativado com água, selado com sombra da mesma cor. Só delineadores regularizados na Anvisa e liberados para a área dos olhos; muitos pigmentos neon e de luz negra vendidos para festa não são.
 - **Cílios:** máscara preta ou azul à prova d'água; sem postiço pesado, para não cobrir o traço.
 - **Sobrancelha:** natural, penteada com gel transparente.
 - **Blush:** suave, rosado ou pêssego, para não competir com o olho.
@@ -683,6 +701,10 @@ not render any label inside the image).
 #### Referências
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Como adotar a tendência do delineado colorido?](https://elle.com.br/?p=22692) · Elle Brasil · como usar delineado colorido · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Delineador colorido](https://www.folhavitoria.com.br/cultura/delineador-colorido/) · Folha Vitória · delineado colorido · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [5 tipos de delineado para torcer pelo Brasil na Copa 2026](https://www.folhavitoria.com.br/beleza/5-tipos-de-delineado-para-torcer-pelo-brasil-na-copa-2026-viral/) · Folha Vitória (2026) · delineados coloridos e gráficos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [7 dicas para arrasar na maquiagem de Carnaval em 2026](https://www.tribunapr.com.br/variedades/7-dicas-para-arrasar-na-maquiagem-de-carnaval-em-2026/) · Tribuna PR (2026) · make de Carnaval 2026, inclui delineado flutuante e degradê · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "delineado colorido 2026", "delineado gráfico festa", "graphic eyeliner trend 2026", "colored eyeliner on dark skin", "maquiagem neon festival".
 
 #### Instrução para gerar imagem original com IA
@@ -773,6 +795,11 @@ in the interface (do not render any label inside the image).
 #### Referências
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [5 tendências de maquiagem para arrasar nas festas juninas](https://www.tribunapr.com.br/variedades/5-tendencias-de-maquiagem-para-arrasar-nas-festas-juninas/) · Tribuna PR · sardinhas, blush marcado e pele bem preparada · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem junina com sardas? Veja truques para deixar o visual poderoso](https://www.cnnbrasil.com.br/lifestyle/maquiagem-junina-com-sardas-veja-truques-para-deixar-o-visual-poderoso/) · CNN Brasil · sardas desenhadas com lápis marrom, irregulares e espaçadas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem para festa junina: 3 visuais para copiar já](https://belezanaweb.com.br/loucas-por-beleza/maquiagem-para-festa-junina-3-visuais-para-copiar-ja) · Beleza na Web, blog Loucas por Beleza (site de loja) · três makes de festa junina · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Festa Junina: sugestões de penteado e maquiagem para curtir o arraial](https://www.drogasil.com.br/blog/beleza/cabelo/festa-junina-sugestoes-de-penteado-e-maquiagem-para-curtir-o-arraial) · Drogasil (blog; site de loja) · penteado e make de arraiá · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Make de São João: veja dicas e tendências para 2025](https://www.dgabc.com.br/Noticia/4236759/make-de-sao-joao-veja-dicas-e-tendencias-para-2025) · Diário do Grande ABC (2025) · sardas em coração, sardas com brilho · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem festa junina 2026", "maquiagem caipira delicada", "maquiagem junina pele negra", "sardas falsas maquiagem", "faux freckles makeup".
 
 #### Instrução para gerar imagem original com IA
@@ -808,7 +835,7 @@ image).
 
 ### 8. Retrô anos 60
 
-`festa-tematica-retro-anos-60` · **Olho marcante** · intensidade **alta (65%)**
+`festa-tematica-retro-anos-60` · **Olho marcante** · intensidade **alta (70%)**
 
 > **Para a cliente:** Gatinho gráfico, côncavo desenhado e cílios de boneca: a make retrô que entra no tema sem virar fantasia.
 
@@ -861,7 +888,7 @@ image).
 | Anos 80 | cor na pálpebra em degradê (pink, roxo ou azul), blush marcado puxado para as têmporas: partir do Delineado em cor. |
 | Tropical ou havaiana | pele dourada, sombra coral e pêssego, delineado turquesa: partir do Glow de brunch com o Delineado em cor. |
 | Hollywood ou glamour | pele impecável, gatinho, cílios e boca vermelha: Vermelho de festa. |
-| Neon ou luz negra | Delineado em cor com neon reativo à luz UV. |
+| Neon ou luz negra | Delineado em cor com neon reativo à luz UV, só com delineador regularizado na Anvisa e liberado para a área dos olhos (muitos pigmentos de luz negra não são). |
 
 #### Erros comuns
 
@@ -876,6 +903,9 @@ image).
 
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) · The Wed — tendências de beleza 2026 (de noiva), em inglês; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) · Paperlust — guia 2026 de estilos de make, em inglês; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Historia del maquillaje: el look de los 60](https://www.charlottetilbury.com/es/secrets/history-of-makeup/60s) · Charlotte Tilbury (blog de marca, em espanhol; não citar a marca no app) · côncavo gráfico e cílios de baixo marcados dos anos 60 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Delineado banana é a tendência para você copiar](https://www.belezanaweb.com.br/loucas-por-beleza/delineado-banana-e-a-tendencia-para-voce-copiar/) · Beleza na Web, blog Loucas por Beleza (site de loja) · o côncavo desenhado em arco ('banana') · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Como fazer delineado em diferentes formatos](https://elle.com.br/?p=72579) · Elle Brasil · formatos de delineado, inclui o duplo dos anos 60 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem anos 60", "60s mod eye makeup", "graphic crease makeup", "maquiagem festa temática anos 20", "60s makeup dark skin".
 
 #### Instrução para gerar imagem original com IA
@@ -945,7 +975,7 @@ interface (do not render any label inside the image).
 #### Luz, duração e para quem
 
 - **Luz ideal:** Noite em restaurante, salão ou casa, com luz quente e foto com flash de perto; funciona também de dia, com menos esfumado.
-- **Durabilidade e fixação:** 5 a 7 h, com emoção e abraços. Primer de pálpebra, máscara à prova d'água, lápis de boca por inteiro, bruma fixadora (no lugar de muito pó). Retoque: batom e papel de seda.
+- **Durabilidade e fixação:** 5 a 7 h, com emoção e abraços. Primer de pálpebra, máscara à prova d'água, lápis de boca por inteiro, bruma fixadora (no lugar de muito pó). Retoque: batom e papel absorvente (papel de arroz).
 - **Costuma favorecer:** Aniversariantes de 40, 50, 60 anos ou mais, e qualquer pele com textura, linhas finas, pálpebra com dobra caída ou pele mais seca. Também é ótima para quem quer elegância sem excesso, em qualquer idade. Funciona em todos os tons de pele.
 
 #### Variações por tom de pele
@@ -973,6 +1003,12 @@ interface (do not render any label inside the image).
 - [7 dicas simples para a maquiagem perfeita em mulheres maduras](https://istoe.com.br/7-dicas-simples-para-a-maquiagem-perfeita-em-mulheres-maduras) · IstoÉ — dicas para mulheres maduras; link de apoio encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [9 dicas para realçar sua beleza em todas as fases da vida](https://www.tribunapr.com.br/variedades/9-dicas-para-realcar-sua-beleza-em-todas-as-fases-da-vida/) · Tribuna PR — beleza em cada fase da vida; link de apoio encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) · TNH1 — pele luminosa, menos cobertura e mais viço em 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) · Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Como preparar a pele na maquiagem depois dos 50 anos](https://viva.com.br/estilo-de-vida/como-preparar-a-pele-na-maquiagem-depois-dos-50-anos.html) · Viva · hidratação e base leve depois dos 50 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Erros de maquiagem](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/erros-de-maquiagem) · Instituto de Longevidade · corretivo com esponja e pouco pó na pele madura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [+50 Faz Muito Bem dá dicas de maquiagem para pele madura](https://www.saopaulo.sp.leg.br/blog/50-faz-muito-bem-da-dicas-de-maquiagem-para-pele-madura/) · Câmara Municipal de São Paulo (blog) · make para pele madura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiadores espanhóis concordam: depois dos 50, a técnica de blush em creme é a melhor para devolver o viço ao rosto](https://catracalivre.com.br/saude-bem-estar/maquiadores-espanhois-concordam-depois-dos-50-a-tecnica-de-blush-em-creme-e-a-melhor-para-devolver-o-vico-ao-rosto/) · Catraca Livre · blush em creme não marca linhas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiadora do Baile do Met dá dicas de maquiagem para mulheres mais velhas](https://www.bahianoticias.com.br/estadao/noticia/232968-maquiadora-do-baile-do-met-da-dicas-de-maquiagem-para-mulheres-mais-velhas) · Bahia Notícias / Estadão · make para mulheres mais velhas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem para aniversário de 50 anos", "maquiagem pele madura festa", "mature skin party makeup", "makeup for women over 50 evening", "maquiagem pele madura negra".
 
 #### Instrução para gerar imagem original com IA
@@ -1067,6 +1103,9 @@ com IA' in the interface (do not render any label inside the image).
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) · Beleza na Web (blog Loucas por Beleza) — tendências gerais de make 2026; link de apoio encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
 - [Tudo sobre maquiagem para casamento: noivas, madrinhas e convidadas](https://www.casamentos.com.br/artigos/tudo-sobre-maquiagem-para-casamento-noivas-madrinhas-e-convidadas--c10149) · Casamentos.com.br — inclui a make de convidada de festa; link de apoio encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de festa · *estudo apenas (direitos reservados)*
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) · Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Conversa sobre batom vermelho com maquiadora](https://hypebae.com/pt/2025/12/red-lipstick-conversation-tiktok-makeup-artist-interview-beauty-trend-explainer) · Hypebae (dez/2025) · o batom vermelho em alta · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem para pele negra: 7 dicas para escolher os produtos ideais](https://www.tribunapr.com.br/variedades/maquiagem-para-pele-negra-7-dicas-para-escolher-os-produtos-ideais/) · Tribuna PR · base no subtom, cores que valorizam a pele negra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem boca vermelha festa", "batom vermelho para cada tom de pele", "red lipstick for dark skin", "classic red lip makeup 2026", "maquiagem aniversário de 30 anos".
 
 #### Instrução para gerar imagem original com IA
@@ -1128,5 +1167,46 @@ Nenhuma fonte foi encontrada **por este grupo** (as buscas não rodaram). As aba
 - [9 dicas para realçar sua beleza em todas as fases da vida](https://www.tribunapr.com.br/variedades/9-dicas-para-realcar-sua-beleza-em-todas-as-fases-da-vida/) · Tribuna PR — beleza em cada fase da vida; link de apoio encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de festa
 - [Tudo sobre maquiagem para casamento: noivas, madrinhas e convidadas](https://www.casamentos.com.br/artigos/tudo-sobre-maquiagem-para-casamento-noivas-madrinhas-e-convidadas--c10149) · Casamentos.com.br — inclui a make de convidada de festa; link de apoio encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de festa
 - Protótipo do app (`prototipo/js/catalogo.js` e `prototipo/js/vitrine.js`): descrição do momento Festa, papéis Aniversariante e Convidada e preços de referência.
+
+**Acrescentados na revisão de 07/10/2026** (conferidos na busca; a página não pôde ser aberta porque a rede bloqueia o acesso direto aos sites)
+
+- [Outono-inverno: 4 grupos de cores para usar na maquiagem](https://www.correiobraziliense.com.br/revista-do-correio/2026/04/7400249-outono-inverno-4-grupos-de-cores-para-usar-na-maquiagem.html) · Correio Braziliense, Revista do Correio (abr/2026) · marrom, caramelo e terracota; vinho, bordô e roxo
+- [Aprenda as dicas de uma make duradoura pro fim de ano](https://diariodopara.com.br/noticias/aprenda-as-dicas-de-uma-make-duradoura-pro-fim-de-ano/) · Diário do Pará · make de festa que dura a noite toda
+- [Tendências de maquiagem que estão dominando 2026](https://www.folhavitoria.com.br/beleza/tendencias-de-maquiagem-que-estao-dominando-2026-viral/) · Folha Vitória (2026) · pele translúcida com textura real e cores de 2026
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) · Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026
+- [50 fotos de maquiagem para festa](https://www.purepeople.com.br/noticia/essas-50-fotos-de-maquiagem-para-festa-vao-garantir-o-seu-look_a275564/1) · Purepeople Brasil · galeria com sombra colorida, delineado neon e batom escuro
+- [Guia prático de maquiagem para o Ano Novo: tendências de brilho para 2026](https://www.band.com.br/lifestyle/noticias/guia-pratico-de-maquiagem-para-o-ano-novo-tendencias-brilho-para-2026-202512151100) · Band (dez/2025) · brilho de Réveillon: dourado, champanhe, ouro rosé e prata
+- [Maquiagem para o Ano-Novo: 7 dicas para brilhar na virada](https://www.tribunapr.com.br/variedades/maquiagem-para-o-ano-novo-7-dicas-para-brilhar-na-virada/) · Tribuna PR · dicas de make de Réveillon
+- [Maquiagem para o Ano-Novo: 7 dicas para brilhar na virada](https://catracalivre.com.br/saude-bem-estar/maquiagem-para-o-ano-novo-7-dicas-para-brilhar-na-virada/) · Catraca Livre · dicas de make de Réveillon
+- [Batom cintilante volta à moda: como usar](https://www.folhavitoria.com.br/beleza/batom-cintilante-volta-moda-como-usar/) · Folha Vitória · batom cintilante com brilho perolado mais quente e discreto
+- [Inspirações de make para arrasar no Ano Novo](https://www.em.com.br/feminino-e-masculino/2024/12/7022478-inspiracoes-de-make-para-arrasar-no-ano-novo.html) · Estado de Minas (dez/2024) · inspirações de make de Réveillon
+- [Glitter no Carnaval: saiba como usar, cuidados e como retirar da pele](https://www.oliberal.com/variedades/glitter-no-carnaval-saiba-como-usar-cuidados-e-como-retirar-da-pele-1.1085364) · O Liberal (PA) · glitter cosmético aprovado pela Anvisa, longe das mucosas
+- [Médicos alertam sobre riscos para a saúde ocular durante o Carnaval](https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/02/medicos-alertam-sobre-riscos-para-a-saude-ocular-durante-o-carnaval.html) · Diario de Pernambuco (fev/2024) · cola de cílios e glitter perto dos olhos; o que fazer se cair no olho
+- [Carnaval, calor e multidão: cuidados ao usar cosméticos na folia](https://www.diariodepernambuco.com.br/noticia/vidaurbana/2024/01/carnaval-calor-e-multidao-cuidados-ao-usar-cosmeticos-na-folia.html) · Diario de Pernambuco (jan/2024) · cosméticos no calor do Carnaval
+- [5 cuidados importantes com os olhos no Carnaval](https://www.tribunapr.com.br/variedades/5-cuidados-importantes-com-os-olhos-no-carnaval/) · Tribuna PR · cuidados com os olhos na folia
+- [7 dicas para arrasar na maquiagem de Carnaval em 2026](https://www.tnh1.com.br/noticia/nid/7-dicas-para-arrasar-na-maquiagem-de-carnaval-em-2026-5437/) · TNH1 (2026) · make de Carnaval 2026, inclui delineado gráfico e colorido
+- [Como adotar a tendência do delineado colorido?](https://elle.com.br/?p=22692) · Elle Brasil · como usar delineado colorido
+- [Delineador colorido](https://www.folhavitoria.com.br/cultura/delineador-colorido/) · Folha Vitória · delineado colorido
+- [5 tipos de delineado para torcer pelo Brasil na Copa 2026](https://www.folhavitoria.com.br/beleza/5-tipos-de-delineado-para-torcer-pelo-brasil-na-copa-2026-viral/) · Folha Vitória (2026) · delineados coloridos e gráficos
+- [7 dicas para arrasar na maquiagem de Carnaval em 2026](https://www.tribunapr.com.br/variedades/7-dicas-para-arrasar-na-maquiagem-de-carnaval-em-2026/) · Tribuna PR (2026) · make de Carnaval 2026, inclui delineado flutuante e degradê
+- [5 tendências de maquiagem para arrasar nas festas juninas](https://www.tribunapr.com.br/variedades/5-tendencias-de-maquiagem-para-arrasar-nas-festas-juninas/) · Tribuna PR · sardinhas, blush marcado e pele bem preparada
+- [Maquiagem junina com sardas? Veja truques para deixar o visual poderoso](https://www.cnnbrasil.com.br/lifestyle/maquiagem-junina-com-sardas-veja-truques-para-deixar-o-visual-poderoso/) · CNN Brasil · sardas desenhadas com lápis marrom, irregulares e espaçadas
+- [Maquiagem para festa junina: 3 visuais para copiar já](https://belezanaweb.com.br/loucas-por-beleza/maquiagem-para-festa-junina-3-visuais-para-copiar-ja) · Beleza na Web, blog Loucas por Beleza (site de loja) · três makes de festa junina
+- [Festa Junina: sugestões de penteado e maquiagem para curtir o arraial](https://www.drogasil.com.br/blog/beleza/cabelo/festa-junina-sugestoes-de-penteado-e-maquiagem-para-curtir-o-arraial) · Drogasil (blog; site de loja) · penteado e make de arraiá
+- [Make de São João: veja dicas e tendências para 2025](https://www.dgabc.com.br/Noticia/4236759/make-de-sao-joao-veja-dicas-e-tendencias-para-2025) · Diário do Grande ABC (2025) · sardas em coração, sardas com brilho
+- [Historia del maquillaje: el look de los 60](https://www.charlottetilbury.com/es/secrets/history-of-makeup/60s) · Charlotte Tilbury (blog de marca, em espanhol; não citar a marca no app) · côncavo gráfico e cílios de baixo marcados dos anos 60
+- [Delineado banana é a tendência para você copiar](https://www.belezanaweb.com.br/loucas-por-beleza/delineado-banana-e-a-tendencia-para-voce-copiar/) · Beleza na Web, blog Loucas por Beleza (site de loja) · o côncavo desenhado em arco ('banana')
+- [Como fazer delineado em diferentes formatos](https://elle.com.br/?p=72579) · Elle Brasil · formatos de delineado, inclui o duplo dos anos 60
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) · Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos
+- [Como preparar a pele na maquiagem depois dos 50 anos](https://viva.com.br/estilo-de-vida/como-preparar-a-pele-na-maquiagem-depois-dos-50-anos.html) · Viva · hidratação e base leve depois dos 50
+- [Erros de maquiagem](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/erros-de-maquiagem) · Instituto de Longevidade · corretivo com esponja e pouco pó na pele madura
+- [+50 Faz Muito Bem dá dicas de maquiagem para pele madura](https://www.saopaulo.sp.leg.br/blog/50-faz-muito-bem-da-dicas-de-maquiagem-para-pele-madura/) · Câmara Municipal de São Paulo (blog) · make para pele madura
+- [Maquiadores espanhóis concordam: depois dos 50, a técnica de blush em creme é a melhor para devolver o viço ao rosto](https://catracalivre.com.br/saude-bem-estar/maquiadores-espanhois-concordam-depois-dos-50-a-tecnica-de-blush-em-creme-e-a-melhor-para-devolver-o-vico-ao-rosto/) · Catraca Livre · blush em creme não marca linhas
+- [Maquiadora do Baile do Met dá dicas de maquiagem para mulheres mais velhas](https://www.bahianoticias.com.br/estadao/noticia/232968-maquiadora-do-baile-do-met-da-dicas-de-maquiagem-para-mulheres-mais-velhas) · Bahia Notícias / Estadão · make para mulheres mais velhas
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) · Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura
+- [Conversa sobre batom vermelho com maquiadora](https://hypebae.com/pt/2025/12/red-lipstick-conversation-tiktok-makeup-artist-interview-beauty-trend-explainer) · Hypebae (dez/2025) · o batom vermelho em alta
+- [Maquiagem para pele negra: 7 dicas para escolher os produtos ideais](https://www.tribunapr.com.br/variedades/maquiagem-para-pele-negra-7-dicas-para-escolher-os-produtos-ideais/) · Tribuna PR · base no subtom, cores que valorizam a pele negra
+
+Quando a busca não trouxe um título legível, o texto do link é uma descrição curta do assunto.
 
 Os títulos das fontes estão como foram publicados (alguns em inglês usam "looks"; no app a palavra é sempre "make"). Quadradinhos de cor gerados por placehold.co, só para visualizar o hex.

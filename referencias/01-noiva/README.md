@@ -55,6 +55,8 @@ Para ser transparente sobre o que está verificado e o que ainda falta:
 - **Faltou encontrar:** links de **bancos de imagem livres** (Unsplash, Pexels), **perfis de maquiadoras brasileiras** (em especial especialistas em pele negra e retinta e em pele madura) e **tabelas de preço** com fonte. A seção [Termos para buscar mais imagens](#termos-para-buscar-mais-imagens) deixa as buscas prontas para a próxima rodada.
 - **Preços:** são estimativas de mercado, não confirmadas com fonte nesta pesquisa. Vale validar com 5 a 10 maquiadoras da região da Thalita.
 
+- **Revisão de 07/10/2026:** a busca na web voltou e esta pasta ganhou **15 links novos**, distribuídos pelos 13 estilos (marcados como *novo, conferido na busca de 07/10/2026*). Todos apareceram em resultados de busca com o endereço exato; **nenhum foi inventado**. A rede deste ambiente continua bloqueando a abertura direta dos sites, então o que cada link diz vem do resumo da busca, não da leitura da página. **Falta olhar humano:** abrir cada link antes de usar no app, conferir se a página fala mesmo do estilo e trocar os de blog de loja ou de marca por fontes editoriais quando possível. Não foram encontradas fotos de banco livre (Unsplash, Pexels) com licença e autorização de modelo conferidas; preços continuam sem fonte.
+
 ## A noiva: o que ela espera
 
 A noiva quer **se reconhecer nas fotos**, só que na sua melhor versão. Em geral ela espera uma make que:
@@ -87,7 +89,7 @@ A noiva quer **se reconhecer nas fotos**, só que na sua melhor versão. Em gera
 - **Spray fixador** entre etapas e no final.
 - **Olhos à prova d'água:** máscara, delineado em gel ou lápis à prova d'água, cílios com cola de boa fixação (com teste de alergia antes).
 - **Boca:** lápis preenchendo toda a boca e batom de longa duração.
-- **Kit de retoque** (com a madrinha ou a assessoria): batom e lápis, papel de seda, pó no tom da pele, cotonetes, corretivo e lenços.
+- **Kit de retoque** (com a madrinha ou a assessoria): batom e lápis, papel absorvente (papel de arroz), pó no tom da pele, cotonetes, corretivo e lenços.
 - **Tempo de make da noiva:** em média 1h30 a 2h, sem contar o penteado.
 
 ### Fotografia com flash ("flashback")
@@ -213,7 +215,7 @@ Madrinhas, mães dos noivos e convidadas têm um estudo próprio em `../02-casam
 
 **Luz e horário ideais:** Versátil: igreja, salão e ar livre, de dia ou à noite. Vai bem com fotografia com flash, porque não tem brilho em excesso.
 
-**Duração e fixação:** 12h ou mais: primer, base de longa duração em camadas finas, selagem leve, máscara à prova d'água e spray fixador. Kit de retoque com batom, lápis, papel de seda e pó.
+**Duração e fixação:** 12h ou mais: primer, base de longa duração em camadas finas, selagem leve, máscara à prova d'água e spray fixador. Kit de retoque com batom, lápis, papel absorvente (papel de arroz) e pó.
 
 **Para quem costuma favorecer:** Qualquer tom de pele e formato de olho; boa escolha para quem quer se reconhecer nas fotos. Em olhos encapuzados (pálpebra coberta pela dobra), esfumar o côncavo um pouco acima da dobra natural para aparecer de olhos abertos.
 
@@ -235,6 +237,8 @@ Madrinhas, mães dos noivos e convidadas têm um estudo próprio em `../02-casam
 - [Caderno Noivas 2024 (PDF)](https://gaz.com.br/uploads/2024/04/Caderno-Noivas-2024.pdf?amp=1) — Gazeta do Sul · *estudo apenas (direitos reservados)*
 - [Bridal makeup essentials](https://www.theknot.com/content/birchbox-bridal-makeup-essentials) — The Knot · *estudo apenas (direitos reservados)*
 - [Wedding Makeup Looks Inspired by Real Brides and Their Weddings](https://www.maggiesottero.com/blog/wedding-day-makeup-inspiration/) — Maggie Sottero (blog) · *estudo apenas (direitos reservados)*
+- [20 dicas simples para todas as noivas](https://www.casamentos.com.br/artigos/20-dicas-simples-para-todas-as-noivas--c6119) — Casamentos.com.br · dicas gerais para a noiva, inclui teste de make · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Os maiores erros de maquilhagem que as noivas cometem](https://www.casamentos.pt/artigos/os-maiores-erros-de-maquilhagem-que-as-noivas-cometem--c6645) — Casamentos.pt (Portugal) · teste de make cerca de 1 mês antes · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -290,7 +294,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Luz e horário ideais:** Luz do dia: ar livre, campo, cerimônia de manhã ou à tarde, fotografia com luz natural. À noite com flash pode parecer 'sem make' demais; nesse caso, sugerir o Glow de noiva.
 
-**Duração e fixação:** Precisa durar 10 a 12h com pouco produto: primer adequado à pele, produtos em creme selados com pouquíssimo pó, spray fixador e máscara à prova d'água. Retoque com balm e papel de seda.
+**Duração e fixação:** Precisa durar 10 a 12h com pouco produto: primer adequado à pele, produtos em creme selados com pouquíssimo pó, spray fixador e máscara à prova d'água. Retoque com balm e papel absorvente (papel de arroz).
 
 **Para quem costuma favorecer:** Peles de todos os tons, em especial quem não se reconhece com muita make. Em pele com manchas ou acne ativa, trocar 'só corretivo' por uma base leve, sem perder o efeito de pele real.
 
@@ -312,6 +316,8 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)*
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)*
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
+- [Tendências de noivas para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-noivas-para-2026/) — Beleza na Web, blog Loucas por Beleza (site de loja) · Bridal Glow, pele luminosa e preparo de pele · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) — Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -446,7 +452,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Luz e horário ideais:** Luz natural, praia, cerimônia de dia ou golden hour, fotografia com luz suave. À noite com flash, reduzir o iluminador no centro do rosto.
 
-**Duração e fixação:** 8 a 12h com retoques: o brilho 'some' com a oleosidade. Selar a zona T, spray fixador; levar gloss e papel de seda.
+**Duração e fixação:** 8 a 12h com retoques: o brilho 'some' com a oleosidade. Selar a zona T, spray fixador; levar gloss e papel absorvente (papel de arroz).
 
 **Para quem costuma favorecer:** Peles secas, normais e mistas; olhos de todos os formatos (em olhos encapuzados, o brilho no centro da pálpebra aparece mais do que sombra escura). Em pele muito oleosa ou com textura marcada, o Glow de noiva costuma funcionar melhor.
 
@@ -467,6 +473,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Wedding makeup ideas](https://www.weddingwire.com/wedding-ideas/wedding-makeup-ideas) — WeddingWire · *estudo apenas (direitos reservados)*
+- [Tendências de noivas para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-noivas-para-2026/) — Beleza na Web, blog Loucas por Beleza (site de loja) · Bridal Glow, pele luminosa e preparo de pele · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -544,6 +551,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Tendências de noivas para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-noivas-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)*
 - [Wedding Makeup Looks Inspired by Real Brides and Their Weddings](https://www.maggiesottero.com/blog/wedding-day-makeup-inspiration/) — Maggie Sottero (blog) · *estudo apenas (direitos reservados)*
 - [Wedding makeup ideas (beleza e estilo)](https://www.weddingwire.com/wedding-ideas/beauty-and-style/wedding-makeup-ideas) — WeddingWire · *estudo apenas (direitos reservados)*
+- [Transition blush: a técnica para um efeito corado natural e sem marcas](https://www.em.com.br/feminino-e-masculino/2026/06/7452240-transition-blush-a-tecnica-para-um-efeito-corado-natural-e-sem-marcas.html) — Estado de Minas (jun/2026) · blush em degradê, sem marcas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -621,6 +629,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop · *estudo apenas (direitos reservados)*
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
 - [Best bridal make-up ideas](https://www.thewoomag.com/article/best-bridal-make-up-ideas) — The Woo Mag · *estudo apenas (direitos reservados)*
+- [Outono-inverno: 4 grupos de cores para usar na maquiagem](https://www.correiobraziliense.com.br/revista-do-correio/2026/04/7400249-outono-inverno-4-grupos-de-cores-para-usar-na-maquiagem.html) — Correio Braziliense, Revista do Correio (abr/2026) · marrom, caramelo e terracota; vinho, bordô e roxo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -677,7 +686,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Luz e horário ideais:** Luz do dia forte, praia, pôr do sol e contraluz. Evitar pele muito brilhante sob sol do meio-dia.
 
-**Duração e fixação:** Alta resistência a calor, umidade, vento e lágrimas: tudo à prova d'água, camadas finas, spray fixador resistente ao suor; papel de seda e pó para retoque.
+**Duração e fixação:** Alta resistência a calor, umidade, vento e lágrimas: tudo à prova d'água, camadas finas, spray fixador resistente ao suor; papel absorvente (papel de arroz) e pó para retoque.
 
 **Para quem costuma favorecer:** Todos os tons de pele, com destaque para subtons quentes. Em subtom frio, trocar o coral por rosa-pêssego.
 
@@ -698,6 +707,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
 - [Best bridal make-up ideas](https://www.thewoomag.com/article/best-bridal-make-up-ideas) — The Woo Mag · *estudo apenas (direitos reservados)*
 - [Maquiagem para noiva: como deve ser, tipos e mais](https://labra.com.br/maquiagem-para-noiva-como-deve-ser-tipos-mais/) — Labra · *estudo apenas (direitos reservados)*
+- [Tendências de noivas para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-noivas-para-2026/) — Beleza na Web, blog Loucas por Beleza (site de loja) · Bridal Glow, pele luminosa e preparo de pele · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -777,6 +787,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Wedding Makeup Looks Inspired by Real Brides and Their Weddings](https://www.maggiesottero.com/blog/wedding-day-makeup-inspiration/) — Maggie Sottero (blog) · *estudo apenas (direitos reservados)*
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop · *estudo apenas (direitos reservados)*
 - [Wedding makeup ideas (beleza e estilo)](https://www.weddingwire.com/wedding-ideas/beauty-and-style/wedding-makeup-ideas) — WeddingWire · *estudo apenas (direitos reservados)*
+- [Dicas de maquiagem para um casamento noturno](https://www.casamentos.com.br/artigos/dicas-de-maquiagem-para-um-casamento-noturno--c5711) — Casamentos.com.br · make de casamento à noite · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -854,6 +865,8 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Olhar marcante é tendência em 2015](https://www.folhavitoria.com.br/geral/olhar-marcante-e-tendencia-em-2015/) — Folha Vitória · *estudo apenas (direitos reservados)*
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop · *estudo apenas (direitos reservados)*
+- [Dicas de maquiagem para um casamento noturno](https://www.casamentos.com.br/artigos/dicas-de-maquiagem-para-um-casamento-noturno--c5711) — Casamentos.com.br · make de casamento à noite · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Como fazer delineado em diferentes formatos](https://elle.com.br/?p=72579) — Elle Brasil · formatos de delineado, inclui o duplo dos anos 60 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -895,7 +908,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - **Sobrancelha:** bem desenhada e penteada.
 - **Blush:** discreto, rosa-nude.
 - **Contorno e iluminador:** leves.
-- **Boca:** vermelho escolhido pelo subtom (cereja azulado para subtom frio, vermelho clássico para neutro, tijolo para quente); lápis do mesmo tom preenchendo toda a boca, batom de longa duração em camadas com papel de seda entre elas, corretivo em volta do contorno para a borda ficar nítida.
+- **Boca:** vermelho escolhido pelo subtom (cereja azulado para subtom frio, vermelho clássico para neutro, tijolo para quente); lápis do mesmo tom preenchendo toda a boca, batom de longa duração em camadas com lenço de papel entre elas, corretivo em volta do contorno para a borda ficar nítida.
 
 **Paleta**
 
@@ -931,6 +944,9 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
 - [Wedding makeup ideas](https://www.weddingwire.com/wedding-ideas/wedding-makeup-ideas) — WeddingWire · *estudo apenas (direitos reservados)*
+- [Red lips: 5 secrets for brides](https://thewed.com/magazine/red-lips-5-secrets-for-brides) — The Wed · boca vermelha de noiva, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Bridal Beauty On Your Wedding Day: The Makeup Pros Give Us Their Top Tips](https://graziadaily.co.uk/beauty-hair/makeup/bridal-beauty-wedding-day-makeup-pros-give-us-top-tips) — Grazia (Reino Unido) · dicas de maquiadoras para noiva: preparo, fixação, boca vermelha de longa duração · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) — Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1008,6 +1024,8 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Bridal trends 2026: a bride with soul, personal style and connection to nature](https://www.firabarcelona.com/en/press-release/uncategorized/bridal-trends-2026-a-bride-with-soul-personal-style-and-connection-to-nature/) — Fira Barcelona (Barcelona Bridal Fashion Week) · *estudo apenas (direitos reservados)*
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop · *estudo apenas (direitos reservados)*
 - [Best bridal make-up ideas](https://www.thewoomag.com/article/best-bridal-make-up-ideas) — The Woo Mag · *estudo apenas (direitos reservados)*
+- [Tendências de maquiagem das Semanas de Moda](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-das-semanas-de-moda-2/) — Beleza na Web, blog Loucas por Beleza (site de loja) · make de passarela · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Como fazer delineado em diferentes formatos](https://elle.com.br/?p=72579) — Elle Brasil · formatos de delineado, inclui o duplo dos anos 60 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1080,6 +1098,9 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Referências para estudo** (só o link; as fotos não são nossas)
 
+- [7 dicas de maquiagem para pele negra](https://www.casamentos.com.br/artigos/7-dicas-de-maquiagem-para-pele-negra--c5442) — Casamentos.com.br · make de casamento em pele negra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [É sobre se ver: especialista dá dicas para make em pele negra](https://www.em.com.br/feminino-e-masculino/2025/07/7194531-e-sobre-se-ver-especialista-da-dicas-para-make-em-pele-negra.html) — Estado de Minas (jul/2025) · maquiadora especialista em pele negra: subtom quente, não copiar técnica feita para pele branca · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [7 dicas incríveis de maquiagem para pele negra](https://www.tribunapr.com.br/variedades/7-dicas-incriveis-de-maquiagem-para-pele-negra/) — Tribuna PR · iluminador dourado ou bronze, blush terracota, vinho ou marrom avermelhado · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 > Atenção: nenhuma referência específica de noivas negras ou retintas brasileiras apareceu nas buscas desta rodada; os links abaixo são galerias e guias gerais. É a prioridade da próxima busca (maquiadoras brasileiras especialistas em pele negra, hashtags em Termos para buscar mais imagens).
 
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
@@ -1159,6 +1180,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Referências para estudo** (só o link; as fotos não são nossas)
 
+- [Bridal Beauty On Your Wedding Day: The Makeup Pros Give Us Their Top Tips](https://graziadaily.co.uk/beauty-hair/makeup/bridal-beauty-wedding-day-makeup-pros-give-us-top-tips) — Grazia (Reino Unido) · dicas de maquiadoras para noiva: preparo, fixação, boca vermelha de longa duração · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 > Atenção: nenhuma referência específica de noivas maduras apareceu nas buscas desta rodada; os links abaixo são guias gerais. Completar na próxima busca.
 
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
@@ -1242,6 +1264,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - [Maquiagem para noiva: como deve ser, tipos e mais](https://labra.com.br/maquiagem-para-noiva-como-deve-ser-tipos-mais/) — Labra · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)*
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)*
+- [20 dicas simples para todas as noivas](https://www.casamentos.com.br/artigos/20-dicas-simples-para-todas-as-noivas--c6119) — Casamentos.com.br · dicas gerais para a noiva, inclui teste de make · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1321,5 +1344,25 @@ Todas encontradas nas buscas desta pesquisa (outubro de 2026). Licença de todas
 - [Maio, mês das noivas: confira as principais tendências de casamento](https://www.agazeta.com.br/hz/moda/maio-mes-das-noivas-confira-as-principais-tendencias-de-casamento-em-0526) — A Gazeta (ES). Tendências de casamento 2026 (maio, mês das noivas).
 - [Adeus, branco: cada vez mais noivas casam de cor-de-rosa, de amarelo e até de preto](https://observador.pt/2022/09/03/adeus-branco-cada-vez-mais-noivas-casam-de-cor-de-rosa-de-amarelo-e-ate-mesmo-de-preto-para-fugirem-a-tradicao/) — Observador (Portugal). Noivas que casam de cor (vestido não branco).
 - [Arquivo de posts sobre make de noiva](https://www.fancyface.ca/tag/bridal-makeup) — Fancy Face (Canadá). Arquivo de posts de make de noiva.
+
+**Acrescentados na revisão de 07/10/2026** (conferidos na busca; a página não pôde ser aberta porque a rede bloqueia o acesso direto aos sites)
+
+- [20 dicas simples para todas as noivas](https://www.casamentos.com.br/artigos/20-dicas-simples-para-todas-as-noivas--c6119) · Casamentos.com.br · dicas gerais para a noiva, inclui teste de make
+- [Os maiores erros de maquilhagem que as noivas cometem](https://www.casamentos.pt/artigos/os-maiores-erros-de-maquilhagem-que-as-noivas-cometem--c6645) · Casamentos.pt (Portugal) · teste de make cerca de 1 mês antes
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) · Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026
+- [Transition blush: a técnica para um efeito corado natural e sem marcas](https://www.em.com.br/feminino-e-masculino/2026/06/7452240-transition-blush-a-tecnica-para-um-efeito-corado-natural-e-sem-marcas.html) · Estado de Minas (jun/2026) · blush em degradê, sem marcas
+- [Outono-inverno: 4 grupos de cores para usar na maquiagem](https://www.correiobraziliense.com.br/revista-do-correio/2026/04/7400249-outono-inverno-4-grupos-de-cores-para-usar-na-maquiagem.html) · Correio Braziliense, Revista do Correio (abr/2026) · marrom, caramelo e terracota; vinho, bordô e roxo
+- [Dicas de maquiagem para um casamento noturno](https://www.casamentos.com.br/artigos/dicas-de-maquiagem-para-um-casamento-noturno--c5711) · Casamentos.com.br · make de casamento à noite
+- [Como fazer delineado em diferentes formatos](https://elle.com.br/?p=72579) · Elle Brasil · formatos de delineado, inclui o duplo dos anos 60
+- [Red lips: 5 secrets for brides](https://thewed.com/magazine/red-lips-5-secrets-for-brides) · The Wed · boca vermelha de noiva, em inglês
+- [Bridal Beauty On Your Wedding Day: The Makeup Pros Give Us Their Top Tips](https://graziadaily.co.uk/beauty-hair/makeup/bridal-beauty-wedding-day-makeup-pros-give-us-top-tips) · Grazia (Reino Unido) · dicas de maquiadoras para noiva: preparo, fixação, boca vermelha de longa duração
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) · Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura
+- [Tendências de maquiagem das Semanas de Moda](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-das-semanas-de-moda-2/) · Beleza na Web, blog Loucas por Beleza (site de loja) · make de passarela
+- [7 dicas de maquiagem para pele negra](https://www.casamentos.com.br/artigos/7-dicas-de-maquiagem-para-pele-negra--c5442) · Casamentos.com.br · make de casamento em pele negra
+- [É sobre se ver: especialista dá dicas para make em pele negra](https://www.em.com.br/feminino-e-masculino/2025/07/7194531-e-sobre-se-ver-especialista-da-dicas-para-make-em-pele-negra.html) · Estado de Minas (jul/2025) · maquiadora especialista em pele negra: subtom quente, não copiar técnica feita para pele branca
+- [7 dicas incríveis de maquiagem para pele negra](https://www.tribunapr.com.br/variedades/7-dicas-incriveis-de-maquiagem-para-pele-negra/) · Tribuna PR · iluminador dourado ou bronze, blush terracota, vinho ou marrom avermelhado
+- [Conselhos infalíveis para escolher o seu maquiador](https://www.casamentos.com.br/artigos/conselhos-infaliveis-para-escolher-o-seu-maquiador--c8796) · Casamentos.com.br · como escolher a maquiadora e quando fazer o teste
+
+Quando a busca não trouxe um título legível, o texto do link é uma descrição curta do assunto.
 
 Os títulos das fontes estão como foram publicados (alguns em inglês usam "looks"; no app a palavra é sempre "make"). Quadradinhos de cor gerados por placehold.co, só para visualizar o hex.

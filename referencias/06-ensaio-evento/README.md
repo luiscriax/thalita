@@ -4,7 +4,7 @@
 
 Pesquisa de outubro de 2026 · 11 estilos · categorias do app: Natural, Soft Glam, Glam, Olho marcante e Boca marcante.
 
-> **Atenção:** este grupo **não conseguiu fazer buscas próprias** (o limite de buscas da rodada já tinha acabado) e a rede bloqueou a abertura das páginas. As fichas são técnicas e prontas para uso, mas os links são emprestados das pesquisas dos grupos de noiva e de convidadas e **nenhum é específico de ensaio ou de evento corporativo**. Detalhes em [Limites desta pesquisa](#limites-desta-pesquisa).
+> **Atenção:** na primeira rodada este grupo não conseguiu fazer buscas próprias. **Na revisão de 07/10/2026** cada estilo ganhou links específicos (foto e flash, headshot, vídeo, gestante, ensaio de 15 anos, latte), marcados como *novo, conferido na busca de 07/10/2026*; os links antigos continuam como apoio. A rede ainda bloqueia a abertura dos sites: abrir cada link antes de usar no app. Detalhes em [Limites desta pesquisa](#limites-desta-pesquisa).
 
 ## Sumário
 
@@ -65,6 +65,8 @@ Para ser transparente sobre o que está verificado e o que falta:
 - **Faltou encontrar:** referências específicas de ensaio (gestante, pré-wedding, 15 anos, headshot, editorial), de make para vídeo e TV, **bancos de imagem livres** (Unsplash, Pexels), **perfis de maquiadoras brasileiras** (em especial especialistas em pele negra e retinta e em pele madura) e **tabelas de preço** com fonte. A seção [Termos para buscar mais imagens](#termos-para-buscar-mais-imagens) deixa as buscas prontas para a próxima rodada.
 - **Preços:** todos são **estimativas sem fonte**, a validar com 5 a 10 maquiadoras da região da Thalita. O protótipo do app ainda **não tem preço** para os papéis deste momento.
 
+- **Revisão de 07/10/2026:** a busca na web voltou e esta pasta ganhou **15 links novos**, distribuídos pelos 11 estilos (marcados como *novo, conferido na busca de 07/10/2026*). Todos apareceram em resultados de busca com o endereço exato; **nenhum foi inventado**. A rede deste ambiente continua bloqueando a abertura direta dos sites, então o que cada link diz vem do resumo da busca, não da leitura da página. **Falta olhar humano:** abrir cada link antes de usar no app, conferir se a página fala mesmo do estilo e trocar os de blog de loja ou de marca por fontes editoriais quando possível. Não foram encontradas fotos de banco livre (Unsplash, Pexels) com licença e autorização de modelo conferidas; preços continuam sem fonte. Também foram revistos os cuidados com a gestante (ativos de pele a evitar no preparo).
+
 ## Ensaio ou evento: o que a cliente espera
 
 No protótipo, o momento **Ensaio ou evento** ("Câmera, palco ou reunião: make pensada para onde você vai estar") tem três papéis:
@@ -80,7 +82,7 @@ O que vale para os três:
 - **Ensaio é para a câmera; evento é para a câmera e para quem está perto.** No ensaio dá para ir um pouco mais intenso, porque a câmera tira cor e contraste. No evento, a make precisa ficar bonita a um metro de distância.
 - **Conversar com o fotógrafo** antes do ensaio: tipo de luz (natural, contínua, flash), cenário, roupas, trocas de make, se haverá P&B. Se possível, pedir 2 ou 3 fotos de referência do trabalho dele.
 - **Trocas de roupa = trocas de make?** Muitos ensaios têm 2 ou 3 makes (de natural para glam, por exemplo). Combinar antes e cobrar o acompanhamento no set por hora.
-- **Retoque no set:** papel de seda, pó com cor, batom e lápis, cotonete e corretivo.
+- **Retoque no set:** papel absorvente (papel de arroz), pó com cor, batom e lápis, cotonete e corretivo.
 
 ## Câmera x presencial: o que muda
 
@@ -189,7 +191,7 @@ O papel **Evento corporativo** tem intensidade máxima *média* no app. Os estil
 
 **Luz e horário ideais:** Dia; estúdio com softbox, luz de janela, escritório e luz contínua de LED. Funciona com flash se o pó for fino e com cor.
 
-**Duração e fixação:** 4 a 6 horas. Primer na zona T, spray fixador no fim e papel de seda para tirar brilho entre as fotos (no headshot, o brilho na testa é o que mais aparece).
+**Duração e fixação:** 4 a 6 horas. Primer na zona T, spray fixador no fim e papel absorvente (papel de arroz) para tirar brilho entre as fotos (no headshot, o brilho na testa é o que mais aparece).
 
 **Para quem costuma favorecer:** Qualquer tom de pele e idade; ótima para quem não usa make no dia a dia e quer se reconhecer na foto. Pele madura: menos pó e mais hidratação, corretivo fino. Peles negras e retintas: base no subtom certo (dourado, avermelhado ou neutro) e pó com cor, nunca translúcido branco. Óculos: corretivo bem selado e cílios sem postiço.
 
@@ -210,12 +212,14 @@ O papel **Evento corporativo** tem intensidade máxima *média* no app. Os estil
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 150 a R$ 300 por make de headshot; para equipes de empresa, make express de 20 a 30 minutos por pessoa, R$ 80 a R$ 150. No app: preço do papel a definir com a Thalita (o protótipo ainda não tem preço para este momento).
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)*
 - [Dicas para apostar na maquiagem natural e surpreender no dia do casamento](https://www.tribunapr.com.br/variedades/dicas-para-apostar-na-maquiagem-natural-e-surpreender-no-dia-do-casamento/) — Tribuna PR · *estudo apenas (direitos reservados)*
 - [7 dicas simples para a maquiagem perfeita em mulheres maduras](https://istoe.com.br/7-dicas-simples-para-a-maquiagem-perfeita-em-mulheres-maduras) — IstoÉ · *estudo apenas (direitos reservados)*
+- [3 dicas para caprichar na maquiagem para fotos](https://www.belezanaweb.com.br/loucas-por-beleza/3-dicas-para-caprichar-na-maquiagem-para-fotos) — Beleza na Web, blog Loucas por Beleza (site de loja) · make para foto: saber a luz, matte na zona T e glow nas maçãs · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [How to Look Good in Your Professional Headshot](https://marieclaire.com/career-advice/tips/a8222/how-to-look-good-professional-headshot) — Marie Claire (EUA) · foto profissional: make mínima e sem filtro · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -267,7 +271,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Luz e horário ideais:** Palco com luz frontal forte e telão, sala com luz fria de escritório, hotel de congresso; dia e noite. Fica bem em foto de evento com flash.
 
-**Duração e fixação:** 8 a 10 horas (congresso começa cedo e termina com coquetel). Primer, batom de longa duração, spray fixador e kit de retoque discreto (batom, papel de seda, pó).
+**Duração e fixação:** 8 a 10 horas (congresso começa cedo e termina com coquetel). Primer, batom de longa duração, spray fixador e kit de retoque discreto (batom, papel absorvente, pó).
 
 **Para quem costuma favorecer:** Todos os tons de pele, dos 20 aos 70+. Pele madura: acetinado cremoso em vez de matte seco, pouco pó nas linhas, sombra matte na dobra. Olhos encapuzados: esfumar acima da dobra com os olhos abertos. Óculos: delineado contido e corretivo bem selado. No app, o papel Evento corporativo limita a intensidade a média; este estilo já respeita o limite.
 
@@ -275,7 +279,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 - **Clara:** taupe mais frio, boca rosa amadeirado ![#B5737A](https://placehold.co/16x16/B5737A/B5737A.png) `#B5737A`, blush rosa queimado ![#C4867A](https://placehold.co/16x16/C4867A/C4867A.png) `#C4867A`.
 - **Média:** bronze suave na pálpebra, boca terracota rosada ![#A8614F](https://placehold.co/16x16/A8614F/A8614F.png) `#A8614F`, blush rosa-telha ![#C9785A](https://placehold.co/16x16/C9785A/C9785A.png) `#C9785A`.
-- **Escura/retinta:** pálpebra cobre-chocolate ![#8E5A3E](https://placehold.co/16x16/8E5A3E/8E5A3E.png) `#8E5A3E`, boca ameixa amadeirada ![#6E3A2C](https://placehold.co/16x16/6E3A2C/6E3A2C.png) `#6E3A2C` ou berry fechado ![#7A4A3A](https://placehold.co/16x16/7A4A3A/7A4A3A.png) `#7A4A3A` com lápis no mesmo tom, blush ameixa-telha ![#9E6457](https://placehold.co/16x16/9E6457/9E6457.png) `#9E6457`; pó com cor dourado ou bronze.
+- **Escura/retinta:** pálpebra cobre-chocolate ![#8E5A3E](https://placehold.co/16x16/8E5A3E/8E5A3E.png) `#8E5A3E`, boca ameixa amadeirada ![#6E3A2C](https://placehold.co/16x16/6E3A2C/6E3A2C.png) `#6E3A2C` ou berry fechado ![#6E2A3F](https://placehold.co/16x16/6E2A3F/6E2A3F.png) `#6E2A3F` com lápis no mesmo tom, blush ameixa-telha ![#9E6457](https://placehold.co/16x16/9E6457/9E6457.png) `#9E6457`; pó com cor dourado ou bronze.
 
 **Erros comuns a evitar**
 
@@ -287,13 +291,14 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 150 a R$ 350 por pessoa, mais deslocamento até a empresa ou o hotel. Horário antes das 7h entra com o adicional de madrugada do app.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Olhos esfumados e batons neutros dão charme à make das noivas](https://www.folhavitoria.com.br/geral/olhos-esfumados-e-batons-neutros-dao-charme-ao-make-das-noivas/) — Folha Vitória · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)*
 - [6 dicas de maquiagem para pele madura](https://www.agazeta.com.br/revista-ag/moda-e-beleza/6-dicas-de-maquiagem-para-pele-madura-0720) — A Gazeta (Revista AG) · *estudo apenas (direitos reservados)*
 - [Especialista ensina truques para maquiar peles maduras](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/especialista-ensina-truques-para-maquiar-peles-maduras) — Instituto de Longevidade · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
+- [How to Look Good in Your Professional Headshot](https://marieclaire.com/career-advice/tips/a8222/how-to-look-good-professional-headshot) — Marie Claire (EUA) · foto profissional: make mínima e sem filtro · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -331,7 +336,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 - **Blush:** um tom acima do que ela usaria ao vivo, porque a câmera de vídeo tira cor.
 - **Contorno/iluminador:** contorno neutro-frio suave (a luz frontal achata o rosto); sem iluminador no centro do rosto.
 - **Boca:** rosa malva ou nude rosado com lápis, acetinado; gloss só no centro, ou nenhum (reflete o ring light).
-- **Set:** retoque entre os takes com papel de seda e pó; conferir orelhas, pescoço e mãos, que aparecem no vídeo.
+- **Set:** retoque entre os takes com papel absorvente (papel de arroz) e pó; conferir orelhas, pescoço e mãos, que aparecem no vídeo.
 
 **Paleta**
 
@@ -346,7 +351,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Luz e horário ideais:** Luz contínua de estúdio (LED, softbox), ring light, set de TV, luz fria de escritório; câmera de perto e por muito tempo. Não é pensada para flash.
 
-**Duração e fixação:** 4 a 8 horas sob luz quente. Primer controlador de oleosidade, spray fixador, papel de seda e pó com cor no set para retoque entre os takes.
+**Duração e fixação:** 4 a 8 horas sob luz quente. Primer controlador de oleosidade, spray fixador, papel absorvente (papel de arroz) e pó com cor no set para retoque entre os takes.
 
 **Para quem costuma favorecer:** Todos os tons de pele e idades. Peles oleosas pedem mais controle de brilho. Peles negras e retintas: pó com cor (dourado, bronze), nunca branco; a luz de LED fria pode acinzentar, então a base precisa estar no subtom exato. Pele madura: matte cremoso, não pó seco.
 
@@ -367,11 +372,12 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 180 a R$ 400 por make; acompanhar a gravação para retoques costuma ser cobrado por hora ou diária (estimativa de R$ 600 a R$ 1.500 a diária).
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Flawless bridal makeup](https://www.theknot.com/content/flawless-bridal-makeup) — The Knot · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
+- [Event makeup that photographs beautifully: what professionals do differently](https://glamsquad.com/blog/event-makeup-that-photographs-beautifully-what-professionals-do-differently) — Glamsquad (blog de serviço de beleza, EUA) · base sem FPS para flash e contorno que o flash não apaga · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -444,13 +450,14 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 200 a R$ 450 para ensaio externo, mais deslocamento. No pré-wedding, algumas maquiadoras fecham pacote com a make do casamento.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://catracalivre.com.br/saude-bem-estar/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026/) — Catraca Livre · *estudo apenas (direitos reservados)*
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) — TNH1 · *estudo apenas (direitos reservados)*
 - [Makeup looks for every bridal style and wedding aesthetic](https://thewed.com/magazine/makeup-looks-for-every-bridal-style-and-wedding-aesthetic) — The Wed · *estudo apenas (direitos reservados)*
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)*
 - [Bridal trends 2026: a bride with soul, personal style and connection to nature](https://www.firabarcelona.com/en/press-release/uncategorized/bridal-trends-2026-a-bride-with-soul-personal-style-and-connection-to-nature/) — Fira Barcelona (Barcelona Bridal Fashion Week) · *estudo apenas (direitos reservados)*
+- [How to photograph well](https://fashionmagazine.com/beauty-grooming/how-to-photograph-well/) — Fashion Magazine (Canadá) · make para sair bem em foto · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -480,7 +487,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Ficha técnica para a Thalita**
 
-- **Pele/acabamento:** preparo com hidratante; base leve acetinada; corretivo localizado em manchas (em vez de camada grossa no rosto todo); pó mínimo. A pele pode estar mais seca, mais sensível ou com manchas nesta fase: confirmar pessoalmente e usar produtos sem fragrância.
+- **Pele/acabamento:** preparo com hidratante; base leve acetinada; corretivo localizado em manchas (em vez de camada grossa no rosto todo); pó mínimo. A pele pode estar mais seca, mais sensível ou com manchas nesta fase: confirmar pessoalmente e usar produtos sem fragrância. No preparo, nada de ácido retinoico, retinol, adapaleno ou hidroquinona, que ficam fora na gravidez; ácido salicílico, só se o médico dela liberar ([Drogasil, blog](https://www.drogasil.com.br/blog/maternidade/gestacao/beleza-na-gestacao-maquiagem-cosmeticos)).
 - **Olhos:** bege rosado na pálpebra; marrom-ameixa suave esfumado rente aos cílios; ponto de luz rosé no canto interno.
 - **Delineado:** só esfumado com sombra.
 - **Cílios:** máscara (à prova d'água se o ensaio for emotivo ou com o parceiro e filhos); tufos leves opcionais.
@@ -496,7 +503,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 | Cor | Nome | Hex | Uso |
 |---|---|---|---|
 | ![#D9B8A4](https://placehold.co/16x16/D9B8A4/D9B8A4.png) | Bege rosado | `#D9B8A4` | pálpebra |
-| ![#6B4E3F](https://placehold.co/16x16/6B4E3F/6B4E3F.png) | Marrom-ameixa suave | `#6B4E3F` | rente aos cílios |
+| ![#6B4A4E](https://placehold.co/16x16/6B4A4E/6B4A4E.png) | Marrom-ameixa suave | `#6B4A4E` | rente aos cílios |
 | ![#EED3C8](https://placehold.co/16x16/EED3C8/EED3C8.png) | Champanhe rosé | `#EED3C8` | iluminador e canto interno |
 | ![#E4A9A8](https://placehold.co/16x16/E4A9A8/E4A9A8.png) | Rosa pétala | `#E4A9A8` | blush |
 | ![#8C6E62](https://placehold.co/16x16/8C6E62/8C6E62.png) | Taupe | `#8C6E62` | sobrancelha |
@@ -525,12 +532,15 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 150 a R$ 350; em casa, mais a taxa de deslocamento do app.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) — TNH1 · *estudo apenas (direitos reservados)*
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)*
 - [Dicas para apostar na maquiagem natural e surpreender no dia do casamento](https://www.tribunapr.com.br/variedades/dicas-para-apostar-na-maquiagem-natural-e-surpreender-no-dia-do-casamento/) — Tribuna PR · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
+- [Beleza na gestação: pode usar maquiagens e cosméticos?](https://www.drogasil.com.br/blog/maternidade/gestacao/beleza-na-gestacao-maquiagem-cosmeticos) — Drogasil (blog; site de loja) · make liberada; ácido retinoico, retinol e hidroquinona fora na gravidez · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Cuidados faciais na gravidez: o que usar e evitar](https://em.com.br/emfoco/2025/04/06/cuidados-faciais-na-gravidez-o-que-usar-e-evitar) — Estado de Minas (abr/2025) · o que usar e evitar na pele durante a gravidez · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Com cuidado, não podemos esquecer a vaidade e o bem-estar na gestação](https://www.correiobraziliense.com.br/revista-do-correio/2023/05/amp/5093275-com-cuidado-nao-podemos-esquecer-a-vaidade-e-o-bem-estar-na-gestacao.html) — Correio Braziliense, Revista do Correio (mai/2023) · beleza na gestação · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -538,7 +548,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 Photorealistic editorial beauty photo of a fictional pregnant adult woman in her early 30s, visible baby bump (AI-generated person, not resembling any real person, model or celebrity). Head-and-shoulders framing, eye level, 85mm portrait lens, sharp focus on the eyes, real skin texture with visible pores, no airbrushing, no beauty filter.
 Setting: bright minimalist studio with a cream backdrop and sheer fabric; soft off-shoulder knit or flowing dress, no logos. Override the framing: from head to the top of the belly, hands resting gently on the bump.
 Lighting: large soft window-like key light, gentle fill, airy high-key style; no harsh flash.
-Makeup: "luminous maternity natural". Light satin skin with spot concealing, almost no powder; soft beige-pink #D9B8A4 lid; soft plum-brown #6B4E3F smudged at the lash line; rosy champagne #EED3C8 on the inner corners and cheekbone tops; mascara only; natural brushed brows #8C6E62; petal-pink cream blush #E4A9A8 swept up; soft earthy-rose lips #C7837B.
+Makeup: "luminous maternity natural". Light satin skin with spot concealing, almost no powder; soft beige-pink #D9B8A4 lid; soft plum-brown #6B4A4E smudged at the lash line; rosy champagne #EED3C8 on the inner corners and cheekbone tops; mascara only; natural brushed brows #8C6E62; petal-pink cream blush #E4A9A8 swept up; soft earthy-rose lips #C7837B.
 Expression: serene and tender, soft smile, looking down at the belly or gently at the camera.
 Generate 3 separate images with the same makeup, adapting only the shades to the skin tone:
   1) fair/light skin — petal-pink blush, earthy-rose lips;
@@ -569,7 +579,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 - **Contorno/iluminador:** sem contorno marcado (envelhece); iluminador perolado rosé fino no alto das maçãs.
 - **Boca:** lápis rosado e gloss ou lip oil rosado.
 - **Mais menina ou mais mulher:** combinar com a debutante e a família. Na versão 'mais mulher', esfumado rosa amarronzado mais profundo, gatinho um pouco maior e boca rosa queimado acetinada.
-- **Menor de idade:** o app já pede autorização de um responsável no agendamento.
+- **Menor de idade:** o app já pede autorização de um responsável no agendamento; responsável presente no ensaio; produtos oil-free e não comedogênicos; cílios postiços e cola só com o sim do responsável e teste de sensibilidade antes.
 
 **Paleta**
 
@@ -587,12 +597,12 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Duração e fixação:** 3 a 5 horas. Fixação leve com spray; gloss para retocar com ela.
 
-**Para quem costuma favorecer:** Debutantes de todos os tons de pele e formatos de olho. Peles negras e retintas: rosas e lavandas viram tons mais profundos (framboesa, ameixa-lilás) para aparecer. Olhos encapuzados ou asiáticos: ponto de luz no centro e delineado bem rente, sem gatinho longo.
+**Para quem costuma favorecer:** Debutantes de todos os tons de pele e formatos de olho. Peles negras e retintas: rosas e lavandas viram tons mais profundos (framboesa, ameixa-lilás) para aparecer. Olhos encapuzados ou sem dobra: ponto de luz no centro e delineado bem rente, sem gatinho longo.
 
 **Variações por tom de pele**
 
 - **Clara:** blush rosa-morango suave ![#E07A80](https://placehold.co/16x16/E07A80/E07A80.png) `#E07A80`, gloss rosado ![#D97A86](https://placehold.co/16x16/D97A86/D97A86.png) `#D97A86`, lavanda ![#CDB8D8](https://placehold.co/16x16/CDB8D8/CDB8D8.png) `#CDB8D8`.
-- **Média:** blush rosa-coral ![#D97A86](https://placehold.co/16x16/D97A86/D97A86.png) `#D97A86`, gloss rosa-mel, perolado champanhe no canto interno.
+- **Média:** blush rosa-coral ![#E5837A](https://placehold.co/16x16/E5837A/E5837A.png) `#E5837A`, gloss rosa-mel, perolado champanhe no canto interno.
 - **Escura/retinta:** blush framboesa ![#A35060](https://placehold.co/16x16/A35060/A35060.png) `#A35060`, lavanda trocada por ameixa-lilás cintilante ![#7A4FA0](https://placehold.co/16x16/7A4FA0/7A4FA0.png) `#7A4FA0`, gloss transparente sobre lápis cacau-rosado ![#7A4A3A](https://placehold.co/16x16/7A4A3A/7A4A3A.png) `#7A4A3A`, iluminador dourado-rosé.
 
 **Erros comuns a evitar**
@@ -606,12 +616,15 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 150 a R$ 350 pela make do ensaio, muitas vezes em pacote com a festa. No protótipo, a make de Debutante para a festa está em R$ 450 (a confirmar com a Thalita).
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)*
 - [Estas são as principais cores de vestido para madrinha de casamento de 2026](https://elle.com.br/moda/cores-vestido-para-madrinha-de-casamento-2026) — Elle Brasil · *estudo apenas (direitos reservados)*
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://catracalivre.com.br/saude-bem-estar/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026/) — Catraca Livre · *estudo apenas (direitos reservados)*
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
+- [Guia em 6 passos para uma make jovem de debutante](https://qbydavinci.com/blog/your-6-step-guide-to-beautiful-youthful-quinceanera-makeup/) — Q by Davinci (blog de vestidos de XV años; site de marca) · make jovem para debutante, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [I have acne! Is it okay to wear makeup?](https://www.aad.org/public/diseases/acne/causes/makeup) — Academia Americana de Dermatologia (AAD) · make em pele com acne: produtos oil-free e não comedogênicos, pincéis limpos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Orientações da Sociedade Brasileira de Pediatria sobre cosméticos para crianças e adolescentes, jul/2025](https://www.sbp.com.br/cosmeticos-para-criancas-e-adolescentes-conheca-as-orientacoes-da-sociedade-brasileira-de-pediatria/) — Sociedade Brasileira de Pediatria (SBP) · uso moderado, produtos próprios para a idade e hipoalergênicos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -656,7 +669,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 |---|---|---|---|
 | ![#151313](https://placehold.co/16x16/151313/151313.png) | Preto ônix | `#151313` | delineado gráfico |
 | ![#F2ECE4](https://placehold.co/16x16/F2ECE4/F2ECE4.png) | Pérola | `#F2ECE4` | pálpebra móvel |
-| ![#9B8273](https://placehold.co/16x16/9B8273/9B8273.png) | Taupe frio | `#9B8273` | dobra |
+| ![#8B8580](https://placehold.co/16x16/8B8580/8B8580.png) | Taupe frio | `#8B8580` | dobra |
 | ![#6B6B3A](https://placehold.co/16x16/6B6B3A/6B6B3A.png) | Verde-oliva | `#6B6B3A` | toque opcional no canto externo |
 | ![#A8705A](https://placehold.co/16x16/A8705A/A8705A.png) | Terroso | `#A8705A` | blush em draping |
 | ![#B9866E](https://placehold.co/16x16/B9866E/B9866E.png) | Nude acetinado | `#B9866E` | boca |
@@ -665,11 +678,11 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Duração e fixação:** 4 a 6 horas, com retoque no set. Primer de pálpebra, delineado à prova d'água e spray fixador; precisão de traço, porque a lente macro mostra tudo.
 
-**Para quem costuma favorecer:** Olhos com pálpebra móvel aparente favorecem o floating liner. Olhos encapuzados: desenhar o traço acima da dobra com os olhos abertos. Olhos asiáticos ou com pálpebra única: asa gráfica longa e mais grossa. Todos os tons de pele.
+**Para quem costuma favorecer:** Olhos com pálpebra móvel aparente favorecem o floating liner. Olhos encapuzados: desenhar o traço acima da dobra com os olhos abertos. Olhos sem dobra (pálpebra única): asa gráfica longa e mais grossa. Todos os tons de pele.
 
 **Variações por tom de pele**
 
-- **Clara:** pérola fria ![#F2ECE4](https://placehold.co/16x16/F2ECE4/F2ECE4.png) `#F2ECE4`, taupe frio ![#9B8273](https://placehold.co/16x16/9B8273/9B8273.png) `#9B8273`, boca nude rosado.
+- **Clara:** pérola fria ![#F2ECE4](https://placehold.co/16x16/F2ECE4/F2ECE4.png) `#F2ECE4`, taupe frio ![#8B8580](https://placehold.co/16x16/8B8580/8B8580.png) `#8B8580`, boca nude rosado.
 - **Média:** perolado champanhe dourado, dobra terrosa, boca nude caramelo ![#B9866E](https://placehold.co/16x16/B9866E/B9866E.png) `#B9866E`.
 - **Escura/retinta:** pálpebra ouro metálico ![#D4A562](https://placehold.co/16x16/D4A562/D4A562.png) `#D4A562` ou cobre; delineado preto ou azul cobalto ![#1F4FA3](https://placehold.co/16x16/1F4FA3/1F4FA3.png) `#1F4FA3` para contraste; boca chocolate acetinado ![#5A3A27](https://placehold.co/16x16/5A3A27/5A3A27.png) `#5A3A27`.
 
@@ -683,13 +696,15 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 250 a R$ 600 por make; diária de editorial de R$ 800 a R$ 2.500, conforme o portfólio.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Makeup looks for every bridal style and wedding aesthetic](https://thewed.com/magazine/makeup-looks-for-every-bridal-style-and-wedding-aesthetic) — The Wed · *estudo apenas (direitos reservados)*
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)*
 - [Bridal makeup trends to expect in 2026, according to a celebrity MUA](https://globalspaonline.com/beauty/trends/bridal-makeup-up-trends-to-expect-in-2026-according-to-a-celebrity-mua) — Global Spa · *estudo apenas (direitos reservados)*
 - [Olhar marcante é tendência em 2015](https://www.folhavitoria.com.br/geral/olhar-marcante-e-tendencia-em-2015/) — Folha Vitória (referência histórica) · *estudo apenas (direitos reservados)*
+- [Como fazer delineado em diferentes formatos](https://elle.com.br/?p=72579) — Elle Brasil · formatos de delineado, inclui o duplo dos anos 60 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Tendências de maquiagem das Semanas de Moda](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-das-semanas-de-moda-2/) — Beleza na Web, blog Loucas por Beleza (site de loja) · make de passarela · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -697,7 +712,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 Photorealistic editorial beauty photo of a fictional adult fashion model in her 20s (AI-generated person, not resembling any real person, model or celebrity). Head-and-shoulders framing, eye level, 85mm portrait lens, sharp focus on the eyes, real skin texture with visible pores, no airbrushing, no beauty filter.
 Setting: minimal fashion studio with a seamless light-grey backdrop; sculptural white top or structured blazer, no logos, no jewelry brands.
 Lighting: crisp studio strobe with a beauty dish, slightly hard light with defined but soft-edged shadows; high-fashion magazine aesthetic.
-Makeup: "graphic editorial eye". Polished satin skin with controlled glow only on high points; metallic pearl #F2ECE4 on the mobile lid; cool taupe #9B8273 blended in the crease; precise jet-black #151313 floating liner drawn just above the crease, clean and symmetrical, plus a thin lash-line liner; optional olive-green #6B6B3A touch in the outer corner; mascara and subtle 60s-style drawn lower lashes; laminated brushed-up brows; earthy blush #A8705A draped from cheeks to temples; satin nude lips #B9866E with a clean edge.
+Makeup: "graphic editorial eye". Polished satin skin with controlled glow only on high points; metallic pearl #F2ECE4 on the mobile lid; cool taupe #8B8580 blended in the crease; precise jet-black #151313 floating liner drawn just above the crease, clean and symmetrical, plus a thin lash-line liner; optional olive-green #6B6B3A touch in the outer corner; mascara and subtle 60s-style drawn lower lashes; laminated brushed-up brows; earthy blush #A8705A draped from cheeks to temples; satin nude lips #B9866E with a clean edge.
 Expression: neutral, strong editorial gaze straight into the lens.
 Generate 3 separate images with the same makeup, adapting only the shades to the skin tone:
   1) fair/light skin — cool pearl lid, cool taupe crease, nude-pink lips;
@@ -762,12 +777,14 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 200 a R$ 450, com cílios postiços às vezes cobrados à parte.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)*
 - [Mesmerizing Makeup Ideas For Bridesmaids](https://charlottetilbury.com/us/secrets/mesmerizing-makeup-ideas-bridesmaids) — Charlotte Tilbury (blog de marca) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [Bridesmaid makeup ideas](https://beaut.ie/beauty/bridesmaid-makeup-ideas-367389) — Beaut.ie · *estudo apenas (direitos reservados)*
 - [Bridesmaid Makeup Ideas](https://junebugweddings.com/wedding-blog/bridesmaid-makeup-ideas/) — Junebug Weddings · *estudo apenas (direitos reservados)*
+- [Event makeup that photographs beautifully: what professionals do differently](https://glamsquad.com/blog/event-makeup-that-photographs-beautifully-what-professionals-do-differently) — Glamsquad (blog de serviço de beleza, EUA) · base sem FPS para flash e contorno que o flash não apaga · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [3 dicas para caprichar na maquiagem para fotos](https://www.belezanaweb.com.br/loucas-por-beleza/3-dicas-para-caprichar-na-maquiagem-para-fotos) — Beleza na Web, blog Loucas por Beleza (site de loja) · make para foto: saber a luz, matte na zona T e glow nas maçãs · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -804,7 +821,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 - **Sobrancelha:** definida.
 - **Blush:** neutro e leve, porque a boca é a protagonista.
 - **Contorno/iluminador:** contorno suave; iluminador discreto.
-- **Boca:** lápis vermelho contornando e preenchendo toda a boca; batom vermelho matte ou cremoso aplicado com pincel; corretivo ao redor para a borda ficar nítida; selar com papel de seda e pó. Vermelho frio (azulado) deixa os dentes mais brancos; vermelho alaranjado aquece.
+- **Boca:** lápis vermelho contornando e preenchendo toda a boca; batom vermelho matte ou cremoso aplicado com pincel; corretivo ao redor para a borda ficar nítida; selar com lenço de papel e pó. Vermelho frio (azulado) deixa os dentes mais brancos; vermelho alaranjado aquece.
 - **Preto e branco:** o vermelho vira um tom escuro forte e dá contraste. Com flash, o matte evita reflexo.
 - **Evento corporativo:** versão contida, vermelho fechado ou tijolo, olho só com máscara.
 
@@ -821,7 +838,7 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Luz e horário ideais:** Noite, estúdio com flash, ensaio em preto e branco, interiores; de dia funciona com o vermelho certo para o subtom.
 
-**Duração e fixação:** 6 a 8 horas. Lápis em toda a boca, batom de longa duração, selagem com papel de seda e pó; retocar depois de comer.
+**Duração e fixação:** 6 a 8 horas. Lápis em toda a boca, batom de longa duração, selagem com lenço de papel e pó; retocar depois de comer.
 
 **Para quem costuma favorecer:** Todos os tons de pele: o segredo é o subtom do vermelho. Peles negras e retintas ficam lindas tanto em vermelho profundo quanto em vermelho alaranjado vibrante. Boca fina: lápis bem rente à borda natural (sem desenhar por fora demais), batom cremoso em vez de matte.
 
@@ -841,12 +858,13 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 150 a R$ 350.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Bridal makeup trends to expect in 2026, according to a celebrity MUA](https://globalspaonline.com/beauty/trends/bridal-makeup-up-trends-to-expect-in-2026-according-to-a-celebrity-mua) — Global Spa · *estudo apenas (direitos reservados)*
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)*
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust · *estudo apenas (direitos reservados)*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) — Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -917,12 +935,14 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 150 a R$ 300.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)*
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)*
+- [Latte makeup trend](https://amp.cnn.com/cnn/cnn-underscored/beauty/latte-makeup-trend) — CNN Underscored · o que é a latte makeup · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Latte makeup trend](https://www.thezoereport.com/beauty/latte-makeup-trend) — The Zoe Report · a tendência e como adaptar a cada tom de pele · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -995,12 +1015,13 @@ Vary hair texture naturally between the three models (straight, wavy, coily). No
 
 **Preço de mercado:** Estimativa de mercado, sem fonte nesta rodada (validar na região): R$ 150 a R$ 350.
 
-**Referências para estudo** (só o link; as fotos não são nossas; nenhuma é específica deste estilo, ver [Limites](#limites-desta-pesquisa))
+**Referências para estudo** (só o link; as fotos não são nossas; as sem a marca *novo* não são específicas deste estilo, ver [Limites](#limites-desta-pesquisa))
 
 - [Olhos esfumados e batons neutros dão charme à make das noivas](https://www.folhavitoria.com.br/geral/olhos-esfumados-e-batons-neutros-dao-charme-ao-make-das-noivas/) — Folha Vitória · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)*
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)*
 - [Mesmerizing Makeup Ideas For Bridesmaids](https://charlottetilbury.com/us/secrets/mesmerizing-makeup-ideas-bridesmaids) — Charlotte Tilbury (blog de marca) · *estudo apenas (direitos reservados) — site de marca; não citar a marca no app*
+- [Event makeup that photographs beautifully: what professionals do differently](https://glamsquad.com/blog/event-makeup-that-photographs-beautifully-what-professionals-do-differently) — Glamsquad (blog de serviço de beleza, EUA) · base sem FPS para flash e contorno que o flash não apaga · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Instrução para gerar imagem original com IA** (rotular no app como "Inspiração com IA")
 
@@ -1068,5 +1089,25 @@ Licença de todas: *estudo apenas (direitos reservados)*. Todas apareceram nas b
 - [Bridal Makeup 2026: Trends, Looks & How to Choose Your Wedding Day Style](https://paperlust.co/blog/?p=13407) — Paperlust. Guia 2026 de estilos de make de noiva e como escolher.
 
 Base técnica do app: `prototipo/js/catalogo.js` (momento *Ensaio ou evento* e papéis *Ensaio fotográfico*, *Evento corporativo* e *Evento social*).
+
+**Acrescentados na revisão de 07/10/2026** (conferidos na busca; a página não pôde ser aberta porque a rede bloqueia o acesso direto aos sites)
+
+- [3 dicas para caprichar na maquiagem para fotos](https://www.belezanaweb.com.br/loucas-por-beleza/3-dicas-para-caprichar-na-maquiagem-para-fotos) · Beleza na Web, blog Loucas por Beleza (site de loja) · make para foto: saber a luz, matte na zona T e glow nas maçãs
+- [How to Look Good in Your Professional Headshot](https://marieclaire.com/career-advice/tips/a8222/how-to-look-good-professional-headshot) · Marie Claire (EUA) · foto profissional: make mínima e sem filtro
+- [Event makeup that photographs beautifully: what professionals do differently](https://glamsquad.com/blog/event-makeup-that-photographs-beautifully-what-professionals-do-differently) · Glamsquad (blog de serviço de beleza, EUA) · base sem FPS para flash e contorno que o flash não apaga
+- [How to photograph well](https://fashionmagazine.com/beauty-grooming/how-to-photograph-well/) · Fashion Magazine (Canadá) · make para sair bem em foto
+- [Beleza na gestação: pode usar maquiagens e cosméticos?](https://www.drogasil.com.br/blog/maternidade/gestacao/beleza-na-gestacao-maquiagem-cosmeticos) · Drogasil (blog; site de loja) · make liberada; ácido retinoico, retinol e hidroquinona fora na gravidez
+- [Cuidados faciais na gravidez: o que usar e evitar](https://em.com.br/emfoco/2025/04/06/cuidados-faciais-na-gravidez-o-que-usar-e-evitar) · Estado de Minas (abr/2025) · o que usar e evitar na pele durante a gravidez
+- [Com cuidado, não podemos esquecer a vaidade e o bem-estar na gestação](https://www.correiobraziliense.com.br/revista-do-correio/2023/05/amp/5093275-com-cuidado-nao-podemos-esquecer-a-vaidade-e-o-bem-estar-na-gestacao.html) · Correio Braziliense, Revista do Correio (mai/2023) · beleza na gestação
+- [Guia em 6 passos para uma make jovem de debutante](https://qbydavinci.com/blog/your-6-step-guide-to-beautiful-youthful-quinceanera-makeup/) · Q by Davinci (blog de vestidos de XV años; site de marca) · make jovem para debutante, em inglês
+- [I have acne! Is it okay to wear makeup?](https://www.aad.org/public/diseases/acne/causes/makeup) · Academia Americana de Dermatologia (AAD) · make em pele com acne: produtos oil-free e não comedogênicos, pincéis limpos
+- [Orientações da Sociedade Brasileira de Pediatria sobre cosméticos para crianças e adolescentes, jul/2025](https://www.sbp.com.br/cosmeticos-para-criancas-e-adolescentes-conheca-as-orientacoes-da-sociedade-brasileira-de-pediatria/) · Sociedade Brasileira de Pediatria (SBP) · uso moderado, produtos próprios para a idade e hipoalergênicos
+- [Como fazer delineado em diferentes formatos](https://elle.com.br/?p=72579) · Elle Brasil · formatos de delineado, inclui o duplo dos anos 60
+- [Tendências de maquiagem das Semanas de Moda](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-das-semanas-de-moda-2/) · Beleza na Web, blog Loucas por Beleza (site de loja) · make de passarela
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) · Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura
+- [Latte makeup trend](https://amp.cnn.com/cnn/cnn-underscored/beauty/latte-makeup-trend) · CNN Underscored · o que é a latte makeup
+- [Latte makeup trend](https://www.thezoereport.com/beauty/latte-makeup-trend) · The Zoe Report · a tendência e como adaptar a cada tom de pele
+
+Quando a busca não trouxe um título legível, o texto do link é uma descrição curta do assunto.
 
 Os títulos das fontes estão como foram publicados (alguns em inglês usam "looks"; no app a palavra é sempre "make"). Quadradinhos de cor gerados por placehold.co, só para visualizar o hex; o código também aparece em texto ao lado.

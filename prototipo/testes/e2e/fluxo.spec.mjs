@@ -11,7 +11,7 @@ const telas = resolve(raiz, "testes/resultados/telas");
 async function abrir(page) {
   const erros = [];
   page.on("pageerror", (e) => erros.push(String(e)));
-  page.on("console", (m) => { if (m.type() === "error" && !/favicon|fonts\.g/.test(m.text())) erros.push(m.text()); });
+  page.on("console", (m) => { if (m.type() === "error" && !/favicon|fonts\.g|XNNPACK|TensorFlow Lite/.test(m.text())) erros.push(m.text()); });
   await page.goto("/");
   await expect(page.getByRole("heading", { level: 1 })).toContainText("A make certa");
   return erros;

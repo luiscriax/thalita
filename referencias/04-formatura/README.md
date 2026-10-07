@@ -4,7 +4,7 @@
 
 Pesquisa de outubro de 2026 · 9 estilos · categorias do app: Natural, Soft Glam, Glam, Olho marcante e Boca marcante.
 
-> **Atenção:** este grupo **não conseguiu fazer buscas próprias** (o limite de buscas da rodada já tinha acabado). As fichas são técnicas e prontas para uso, mas os links são emprestados das pesquisas de noiva e de convidadas e **nenhum é de formatura**. Detalhes em [Limites desta pesquisa](#limites-desta-pesquisa).
+> **Atenção:** na primeira rodada este grupo não conseguiu fazer buscas próprias. **Na revisão de 07/10/2026** cada estilo ganhou links **de formatura** (colação, beca e capelo, baile), marcados como *novo, conferido na busca de 07/10/2026*; os links antigos continuam como apoio. A rede ainda bloqueia a abertura dos sites: abrir cada link antes de usar no app. Detalhes em [Limites desta pesquisa](#limites-desta-pesquisa).
 
 ## Sumário
 
@@ -64,6 +64,8 @@ Para ser transparente sobre o que está verificado e o que falta:
 - **Preços:** são **estimativas** de mercado, sem fonte. Vale validar com 5 a 10 maquiadoras da região da Thalita.
 - **Cores de faixa:** variam por instituição. Os exemplos são os mais comuns, não uma regra.
 - **Faltou encontrar:** fotos e matérias **específicas de formatura** (revistas, Pinterest, Instagram), **maquiadoras brasileiras** de referência (em especial especialistas em pele negra e retinta), **bancos de imagem livres** (Unsplash, Pexels) e **tabelas de preço**. A seção [Termos para buscar mais imagens](#termos-para-buscar-mais-imagens) deixa as buscas prontas para a próxima rodada.
+
+- **Revisão de 07/10/2026:** a busca na web voltou e esta pasta ganhou **16 links novos**, distribuídos pelos 9 estilos (marcados como *novo, conferido na busca de 07/10/2026*). Todos apareceram em resultados de busca com o endereço exato; **nenhum foi inventado**. A rede deste ambiente continua bloqueando a abertura direta dos sites, então o que cada link diz vem do resumo da busca, não da leitura da página. **Falta olhar humano:** abrir cada link antes de usar no app, conferir se a página fala mesmo do estilo e trocar os de blog de loja ou de marca por fontes editoriais quando possível. Não foram encontradas fotos de banco livre (Unsplash, Pexels) com licença e autorização de modelo conferidas; preços continuam sem fonte.
 
 ## A formanda: o que ela espera
 
@@ -128,14 +130,14 @@ Para ser transparente sobre o que está verificado e o que falta:
 ### Baile: dança, calor e duração
 
 - O baile costuma ir até a madrugada, com dança e calor. **Tudo à prova d'água**, spray fixador entre as etapas, batom de longa duração.
-- **Kit de retoque** na bolsa: papel de seda, pó compacto com cor, batom e lápis, cotonete, cola de cílios.
+- **Kit de retoque** na bolsa: papel absorvente (papel de arroz), pó compacto com cor, batom e lápis, cotonete, cola de cílios.
 - **Luz baixa e cênica** achata o rosto: contorno e definição dos olhos um pouco mais marcados que de dia.
 - **Verão:** as formaturas se concentram no fim dos semestres, e as de dezembro a março pegam calor forte em boa parte do país. Primer controlador de oleosidade e camadas finas.
 
 ### Colação e baile no mesmo dia
 
 - Planejar a **transformação** já na primeira make: começar com uma base de longa duração e um olho que aceita ser intensificado.
-- No intervalo, **tirar o brilho** com papel de seda e refrescar com bruma, em vez de somar pó.
+- No intervalo, **tirar o brilho** com papel absorvente (papel de arroz) e refrescar com bruma, em vez de somar pó.
 - É uma boa oportunidade de serviço: **retoque ou troca de make para o baile** com a Thalita.
 
 ### Peles negras e retintas
@@ -289,12 +291,15 @@ Para mães e convidadas há mais estilos em `../02-casamento-convidadas/` (vári
 
 **Tendência ou clássico:** Tendência 2025–2026 (pele em primeiro lugar, textura real, menos cobertura) sobre um clássico de make social de dia.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)* · tendências gerais de make para 2026
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)* · tendências 2026: pele radiante, refinada e real
 - [Dicas para apostar na maquiagem natural e surpreender no dia do casamento](https://www.tribunapr.com.br/variedades/dicas-para-apostar-na-maquiagem-natural-e-surpreender-no-dia-do-casamento/) — Tribuna PR · *estudo apenas (direitos reservados)* · make natural para evento
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)* · make natural como tendência 2026 (em espanhol)
+- [Maquiagem para colação de grau](https://tribunademinas.com.br/acervo/carol-neves-e-marcela-menezes/16-05-2017/maquiagem-para-colacao-de-grau.html?amp=1) — Tribuna de Minas (2017) · com beca e capelo, a make é o que mais aparece; opções nude, rosada, esfumada e boca vermelha · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [7 graduation photo makeup tips that'll ensure you love your pictures for years to come](https://www.bustle.com/articles/161474-7-graduation-photo-makeup-tips-thatll-ensure-you-love-your-pictures-for-years-to-come) — Bustle · make para as fotos de formatura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Makeup that compliments your cap and gown](https://sundial.csun.edu/67708/arts-entertainment/makeup-that-compliments-your-cap-and-gown/) — Daily Sundial (jornal universitário, EUA) · make que combina com beca e capelo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem colação de grau; make formatura de dia; graduation makeup natural; graduation photoshoot makeup; #maquiagemformatura; #colacaodegrau
 
@@ -342,7 +347,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 - **Blush:** rosa-pêssego nas maçãs, esfumado em direção às têmporas.
 - **Contorno e iluminador:** contorno suave em creme selado com pó; iluminador champanhe no topo das maçãs e no arco do cupido.
 - **Boca:** rosa-chá acetinado com lápis do mesmo tom na colação.
-- **Troca para o baile (15 a 20 min):** tirar o brilho com papel de seda e refrescar com bruma (não somar camadas de pó); intensificar o canto externo com marrom-chocolate; alongar o gatinho em preto; acrescentar mais tufos ou uma tira leve de cílios; ponto de luz dourado no centro da pálpebra; trocar a boca para rosa-queimado de longa duração.
+- **Troca para o baile (15 a 20 min):** tirar o brilho com papel absorvente (papel de arroz) e refrescar com bruma (não somar camadas de pó); intensificar o canto externo com marrom-chocolate; alongar o gatinho em preto; acrescentar mais tufos ou uma tira leve de cílios; ponto de luz dourado no centro da pálpebra; trocar a boca para rosa-queimado de longa duração.
 
 **Paleta**
 
@@ -358,7 +363,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Luz e horário ideais:** Noite: colação em teatro ou centro de convenções (refletor, telão e flash) seguida do baile em salão com luz baixa. Também serve para colação e baile em dias diferentes.
 
-**Duração e fixação:** 10 a 12 horas. Base de longa duração em camadas finas, primer de pálpebra, máscara e delineado à prova d'água, spray fixador no fim de cada etapa. Kit de retoque com batom do baile, papel de seda, pó com cor e cotonete. Bom momento para oferecer o retoque com a Thalita entre a colação e o baile.
+**Duração e fixação:** 10 a 12 horas. Base de longa duração em camadas finas, primer de pálpebra, máscara e delineado à prova d'água, spray fixador no fim de cada etapa. Kit de retoque com batom do baile, papel absorvente (papel de arroz), pó com cor e cotonete. Bom momento para oferecer o retoque com a Thalita entre a colação e o baile.
 
 **Para quem costuma favorecer:** Formandas que fazem colação e baile no mesmo dia e querem um meio-termo entre leve e glam. Vai bem em todos os formatos de olho; em olhos encapuzados, esfumar acima da dobra e fazer o gatinho com a pálpebra aberta, seguindo a dobra.
 
@@ -374,12 +379,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Clássico (soft glam champanhe) com toques de 2025–2026: delineado esfumado no lugar do gráfico e brilho perolado.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Olhos esfumados e batons neutros dão charme à make das noivas](https://www.folhavitoria.com.br/geral/olhos-esfumados-e-batons-neutros-dao-charme-ao-make-das-noivas/) — Folha Vitória · *estudo apenas (direitos reservados)* · olhos esfumados com batons neutros
 - [Makeup looks for every bridal style and wedding aesthetic](https://thewed.com/magazine/makeup-looks-for-every-bridal-style-and-wedding-aesthetic) — The Wed · *estudo apenas (direitos reservados)* · make para cada estética (romântica, esfumada, praia, perolada e outras)
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)* · lista de 10 tendências de beleza para 2026
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)* · tendências gerais de make para 2026
+- [Em busca de maquiagem para formatura? Listamos 6 ideias para copiar em casa](https://elle.com.br/beleza/maquiagem-para-formatura-2) — Elle Brasil · ideias de make de formatura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [How to get graduation ready](https://www.ulta.com/discover/lifestyle/how-to-get-graduation-ready) — Ulta (site de loja) · primer, lip stain e papel absorvente para o dia da formatura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem formatura soft glam; make colação e baile; soft glam champagne graduation makeup; day to night makeup; #makeformatura
 
@@ -443,7 +450,7 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Luz e horário ideais:** Noite: salão com luz baixa, luz cênica colorida, flash e vídeo. É a make da pista.
 
-**Duração e fixação:** 8 a 10 horas de festa e dança. Tudo à prova d'água, primer de pálpebra, spray fixador e batom matte de longa duração. Kit de retoque: papel de seda, pó com cor, batom e lápis, cotonete e cola de cílios.
+**Duração e fixação:** 8 a 10 horas de festa e dança. Tudo à prova d'água, primer de pálpebra, spray fixador e batom matte de longa duração. Kit de retoque: papel absorvente (papel de arroz), pó com cor, batom e lápis, cotonete e cola de cílios.
 
 **Para quem costuma favorecer:** Quem quer ser protagonista na festa. Dourado e cobre realçam olhos castanhos e verdes e ficam lindos em peles médias, morenas, negras e retintas. Em olhos encapuzados, fazer um esfumado em halo e o gatinho seguindo a dobra; em olhos pequenos, iluminar bem o canto interno e não fechar a linha d'água.
 
@@ -459,12 +466,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Clássico atemporal: é a make de formatura mais pedida. A versão 2026 é mais esfumada e com a pele menos carregada.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)* · inspirações de make para madrinhas de casamento (make de festa)
 - [Mesmerizing Makeup Ideas For Bridesmaids](https://charlottetilbury.com/us/secrets/mesmerizing-makeup-ideas-bridesmaids) — Charlotte Tilbury (blog de marca) · *estudo apenas (direitos reservados)* · ideias de make para madrinhas (blog de marca; não citar marcas no app)
 - [Olhar marcante é tendência em 2015](https://www.folhavitoria.com.br/geral/olhar-marcante-e-tendencia-em-2015/) — Folha Vitória · *estudo apenas (direitos reservados)* · olhar marcante (2015): referência histórica do clássico
 - [Wedding Looks 2026: Save This for Your Big Day](https://boozyshop.com/blogs/blog/wedding-looks-2026-save-this-for-your-big-day) — Boozyshop · *estudo apenas (direitos reservados)* · makes de casamento 2026
+- [Maquiagem para formatura: 5 inspirações dignas de celebridade para brilhar na noite especial](https://elle.com.br/beleza/maquiagem-para-formatura-3) — Elle Brasil · makes de baile de formatura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [The 2026 Prom Makeup Looks Worth Screenshotting](https://www.davidsbridal.com/content/style-guides/7-stunning-prom-makeup-looks-to-slay-in-2026) — David's Bridal (guia de estilo; site de loja) · makes de baile de formatura 2026, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem formatura dourada; make baile de formatura; gold glam makeup prom; gold smokey eye graduation party; #maquiagemformatura; #bailedeformatura
 
@@ -543,12 +552,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Clássico (esfumado preto ou marrom) com cara de 2025–2026: kohl esfumado no lugar do delineado gráfico, ponto de luz em halo e cristais pontuais.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Olhar marcante é tendência em 2015](https://www.folhavitoria.com.br/geral/olhar-marcante-e-tendencia-em-2015/) — Folha Vitória · *estudo apenas (direitos reservados)* · olhar marcante (2015): referência histórica do clássico
 - [Olhos esfumados e batons neutros dão charme à make das noivas](https://www.folhavitoria.com.br/geral/olhos-esfumados-e-batons-neutros-dao-charme-ao-make-das-noivas/) — Folha Vitória · *estudo apenas (direitos reservados)* · olhos esfumados com batons neutros
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)* · inspirações de make para madrinhas de casamento (make de festa)
 - [Bridal makeup trends to expect in 2026, according to a celebrity MUA](https://globalspaonline.com/beauty/trends/bridal-makeup-up-trends-to-expect-in-2026-according-to-a-celebrity-mua) — Global Spa · *estudo apenas (direitos reservados)* · tendências 2026 segundo uma maquiadora de celebridades
+- [Das clássicas às coloridas: 6 inspirações de maquiagem para formaturas à noite](https://elle.com.br/?p=188844) — Elle Brasil · makes de formatura à noite, inclusive coloridas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Está buscando maquiagem para formatura? Te ajudamos com 7 inspirações](https://elle.com.br/?p=156967) — Elle Brasil · inspirações de make de formatura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem formatura olho esfumado preto; make baile esfumado; smoky eye prom makeup; halo smoky eye; smudged kohl liner; #esfumadopreto; #makeformatura
 
@@ -626,12 +637,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Clássico atemporal, com a volta das bocas de destaque em 2025–2026.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)* · tendências gerais de make para 2026
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) — Elle Brasil · *estudo apenas (direitos reservados)* · inspirações de make para madrinhas de casamento (make de festa)
 - [Bridesmaid makeup ideas](https://beaut.ie/beauty/bridesmaid-makeup-ideas-367389) — Beaut.ie · *estudo apenas (direitos reservados)* · ideias de make para madrinhas
 - [Tudo sobre maquiagem para casamento: noivas, madrinhas e convidadas](https://www.casamentos.com.br/artigos/tudo-sobre-maquiagem-para-casamento-noivas-madrinhas-e-convidadas--c10149) — Casamentos.com.br · *estudo apenas (direitos reservados)* · guia de make de casamento para noivas, madrinhas e convidadas
+- [Maquiagem para colação de grau](https://tribunademinas.com.br/acervo/carol-neves-e-marcela-menezes/16-05-2017/maquiagem-para-colacao-de-grau.html?amp=1) — Tribuna de Minas (2017) · com beca e capelo, a make é o que mais aparece; opções nude, rosada, esfumada e boca vermelha · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) — Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem formatura batom vermelho; make vermelha formatura; red lip graduation makeup; classic red lipstick evening makeup; #bocavermelha
 
@@ -709,12 +722,15 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Tendência 2025–2026: blush em destaque, pele real com viço, gloss e lip oil, sobrancelha penteada.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)* · tendências gerais de make para 2026
 - [2026 Bridal Makeup Trends: Radiant, Refined and Real](https://www.fancyface.ca/2026-bridal-makeup-trends-radiant-refined-and-real/) — Fancy Face (Canadá) · *estudo apenas (direitos reservados)* · tendências 2026: pele radiante, refinada e real
 - [Maquillaje de novia natural: la tendencia 2026 que redefine la belleza real](https://www.vistazo.com/amp/tendencias/bienestar/2026-07-28-maquillaje-natural-novia-tendencias-belleza-AC11133470) — Vistazo (Equador) · *estudo apenas (direitos reservados)* · make natural como tendência 2026 (em espanhol)
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)* · lista de 10 tendências de beleza para 2026
+- [Maquiagem simples para formatura: 4 boas sugestões para um visual de impacto](https://elle.com.br/beleza/maquiagem-simples-para-formatura) — Elle Brasil · makes simples de formatura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Graduation makeup looks](https://refinery29.com/en-us/graduation-makeup-looks) — Refinery29 · makes de formatura, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Viral beauty looks for prom 2026](https://globalnews.ca/the-curator/11870349/viral-beauty-looks-prom-2026/) — Global News, The Curator (Canadá) · baile de formatura 2026: sardas desenhadas, boca borrada, bochecha corada, soft glam anos 90 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem formatura ensino médio; make formatura terceirão; natural prom makeup; fresh glowy makeup teen; #formatura2026; #terceirao
 
@@ -794,12 +810,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Tendência 2025–2026: delineado colorido e cor pontual, com personalização (homenagem ao curso).
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)* · 2026: elegância leve, pele com textura real, tons terrosos, blush marcado; para ousar, lavanda, verde-oliva, vinho e brilho furta-cor
 - [Estas são as principais cores de vestido para madrinha de casamento de 2026](https://elle.com.br/moda/cores-vestido-para-madrinha-de-casamento-2026) — Elle Brasil · *estudo apenas (direitos reservados)* · cores de vestido de madrinha em alta em 2026 (ajuda a combinar o toque de cor com o traje)
 - [Top bridesmaids makeup trends for 2026 wedding season](https://www.vega.co.in/blog/post/top-bridesmaids-makeup-trends-for-2026-wedding-season.html) — Vega (blog, Índia) · *estudo apenas (direitos reservados)* · tendências de make de madrinhas para a temporada 2026
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)* · tendências gerais de make para 2026
+- [Das clássicas às coloridas: 6 inspirações de maquiagem para formaturas à noite](https://elle.com.br/?p=188844) — Elle Brasil · makes de formatura à noite, inclusive coloridas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Como adotar a tendência do delineado colorido?](https://elle.com.br/?p=22692) — Elle Brasil · como usar delineado colorido · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem formatura cor do curso; delineado colorido formatura; make formatura medicina verde; colored eyeliner graduation; graphic colored liner; #delineadocolorido
 
@@ -878,12 +896,14 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Tendência 2025–2026: pele bronzeada de sol, tons de terra e de café, pele com viço.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Makeup looks for every bridal style and wedding aesthetic](https://thewed.com/magazine/makeup-looks-for-every-bridal-style-and-wedding-aesthetic) — The Wed · *estudo apenas (direitos reservados)* · make para cada estética (romântica, esfumada, praia, perolada e outras)
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) — Correio Braziliense (Revista do Correio) · *estudo apenas (direitos reservados)* · 2026: elegância leve, pele com textura real, tons terrosos, blush marcado; para ousar, lavanda, verde-oliva, vinho e brilho furta-cor
 - [10 Major Bridal Beauty Trends for 2026](https://thewed.com/magazine/major-bridal-beauty-trends-for-2026) — The Wed · *estudo apenas (direitos reservados)* · lista de 10 tendências de beleza para 2026
 - [Tendências de maquiagem para 2026](https://www.belezanaweb.com.br/loucas-por-beleza/tendencias-de-maquiagem-para-2026/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)* · tendências gerais de make para 2026
+- [Graduation makeup looks](https://refinery29.com/en-us/graduation-makeup-looks) — Refinery29 · makes de formatura, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Está buscando maquiagem para formatura? Te ajudamos com 7 inspirações](https://elle.com.br/?p=156967) — Elle Brasil · inspirações de make de formatura · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem formatura verão; make bronzeada formatura; sun kissed makeup prom; bronze glam makeup summer; makeup que não derrete no calor; #makebronzeada
 
@@ -961,13 +981,15 @@ App note (do not render in the image): display this image labeled 'Inspiração 
 
 **Tendência ou clássico:** Clássico atemporal, com a pele mais leve e luminosa que as fontes de 2026 apontam.
 
-**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **não são de formatura**)
+**Referências para estudo** (só o link; as fotos não são nossas. São artigos de casamento, festa ou tendências que apareceram nas buscas dos grupos 01 e 02, com técnica parecida; **os sem a marca *novo* não são de formatura**)
 
 - [Maquiagem para mãe da noiva: 3 pontos essenciais](https://www.belezanaweb.com.br/loucas-por-beleza/maquiagem-para-mae-da-noiva-3-pontos-essenciais/) — Beleza na Web (blog Loucas por Beleza) · *estudo apenas (direitos reservados)* · make para mãe em evento: pele madura, olhos em marrom, nude ou dourado, bruma no lugar de muito pó
 - [6 dicas de maquiagem para pele madura](https://www.agazeta.com.br/revista-ag/moda-e-beleza/6-dicas-de-maquiagem-para-pele-madura-0720) — A Gazeta (Revista AG) · *estudo apenas (direitos reservados)* · dicas de make para pele madura
 - [7 dicas simples para a maquiagem perfeita em mulheres maduras](https://istoe.com.br/7-dicas-simples-para-a-maquiagem-perfeita-em-mulheres-maduras) — IstoÉ · *estudo apenas (direitos reservados)* · dicas de make para pele madura
 - [Especialista ensina truques para maquiar peles maduras](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/especialista-ensina-truques-para-maquiar-peles-maduras) — Instituto de Longevidade · *estudo apenas (direitos reservados)* · truques para maquiar pele madura
 - [Tudo sobre maquiagem para casamento: noivas, madrinhas e convidadas](https://www.casamentos.com.br/artigos/tudo-sobre-maquiagem-para-casamento-noivas-madrinhas-e-convidadas--c10149) — Casamentos.com.br · *estudo apenas (direitos reservados)* · guia de make de casamento para noivas, madrinhas e convidadas
+- [Como preparar a pele na maquiagem depois dos 50 anos](https://viva.com.br/estilo-de-vida/como-preparar-a-pele-na-maquiagem-depois-dos-50-anos.html) — Viva · hidratação e base leve depois dos 50 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Como escolher o acabamento da maquiagem para deixar o rosto mais leve depois dos 50](https://catracalivre.com.br/noticias/como-escolher-o-acabamento-da-maquiagem-para-deixar-o-rosto-mais-leve-depois-dos-50/) — Catraca Livre · acabamento acetinado em vez de matte seco · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 
 **Para achar referências de formatura (próxima rodada):** maquiagem mãe da formanda; make para formatura do filho; mature skin makeup evening; mother makeup graduation; #pelemadura; #makepelemadura
 
@@ -1041,5 +1063,26 @@ Licença de todas: *estudo apenas (direitos reservados)*. Todas apareceram nas b
 - [Especialista ensina truques para maquiar peles maduras](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/especialista-ensina-truques-para-maquiar-peles-maduras) — Instituto de Longevidade. Truques para maquiar pele madura.
 
 Base técnica do app: `prototipo/js/catalogo.js` (momento Formatura, papéis Formanda e Convidada ou família, make "Formatura Noite" e preços do protótipo).
+
+**Acrescentados na revisão de 07/10/2026** (conferidos na busca; a página não pôde ser aberta porque a rede bloqueia o acesso direto aos sites)
+
+- [Maquiagem para colação de grau](https://tribunademinas.com.br/acervo/carol-neves-e-marcela-menezes/16-05-2017/maquiagem-para-colacao-de-grau.html?amp=1) · Tribuna de Minas (2017) · com beca e capelo, a make é o que mais aparece; opções nude, rosada, esfumada e boca vermelha
+- [7 graduation photo makeup tips that'll ensure you love your pictures for years to come](https://www.bustle.com/articles/161474-7-graduation-photo-makeup-tips-thatll-ensure-you-love-your-pictures-for-years-to-come) · Bustle · make para as fotos de formatura
+- [Makeup that compliments your cap and gown](https://sundial.csun.edu/67708/arts-entertainment/makeup-that-compliments-your-cap-and-gown/) · Daily Sundial (jornal universitário, EUA) · make que combina com beca e capelo
+- [Em busca de maquiagem para formatura? Listamos 6 ideias para copiar em casa](https://elle.com.br/beleza/maquiagem-para-formatura-2) · Elle Brasil · ideias de make de formatura
+- [How to get graduation ready](https://www.ulta.com/discover/lifestyle/how-to-get-graduation-ready) · Ulta (site de loja) · primer, lip stain e papel absorvente para o dia da formatura
+- [Maquiagem para formatura: 5 inspirações dignas de celebridade para brilhar na noite especial](https://elle.com.br/beleza/maquiagem-para-formatura-3) · Elle Brasil · makes de baile de formatura
+- [The 2026 Prom Makeup Looks Worth Screenshotting](https://www.davidsbridal.com/content/style-guides/7-stunning-prom-makeup-looks-to-slay-in-2026) · David's Bridal (guia de estilo; site de loja) · makes de baile de formatura 2026, em inglês
+- [Das clássicas às coloridas: 6 inspirações de maquiagem para formaturas à noite](https://elle.com.br/?p=188844) · Elle Brasil · makes de formatura à noite, inclusive coloridas
+- [Está buscando maquiagem para formatura? Te ajudamos com 7 inspirações](https://elle.com.br/?p=156967) · Elle Brasil · inspirações de make de formatura
+- [Veja como escolher o batom perfeito para o seu tom de pele](https://www.tribunapr.com.br/variedades/veja-como-escolher-o-batom-perfeito-para-o-seu-tom-de-pele/) · Tribuna PR · vermelho pelo subtom: azulado em pele clara a média, alaranjado ou vinho em pele escura
+- [Maquiagem simples para formatura: 4 boas sugestões para um visual de impacto](https://elle.com.br/beleza/maquiagem-simples-para-formatura) · Elle Brasil · makes simples de formatura
+- [Graduation makeup looks](https://refinery29.com/en-us/graduation-makeup-looks) · Refinery29 · makes de formatura, em inglês
+- [Viral beauty looks for prom 2026](https://globalnews.ca/the-curator/11870349/viral-beauty-looks-prom-2026/) · Global News, The Curator (Canadá) · baile de formatura 2026: sardas desenhadas, boca borrada, bochecha corada, soft glam anos 90
+- [Como adotar a tendência do delineado colorido?](https://elle.com.br/?p=22692) · Elle Brasil · como usar delineado colorido
+- [Como preparar a pele na maquiagem depois dos 50 anos](https://viva.com.br/estilo-de-vida/como-preparar-a-pele-na-maquiagem-depois-dos-50-anos.html) · Viva · hidratação e base leve depois dos 50
+- [Como escolher o acabamento da maquiagem para deixar o rosto mais leve depois dos 50](https://catracalivre.com.br/noticias/como-escolher-o-acabamento-da-maquiagem-para-deixar-o-rosto-mais-leve-depois-dos-50/) · Catraca Livre · acabamento acetinado em vez de matte seco
+
+Quando a busca não trouxe um título legível, o texto do link é uma descrição curta do assunto.
 
 Os títulos das fontes estão como foram publicados (alguns em inglês usam "looks"; no app a palavra é sempre "make"). Quadradinhos de cor gerados por placehold.co, só para visualizar o hex.

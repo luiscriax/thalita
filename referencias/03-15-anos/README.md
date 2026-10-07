@@ -4,7 +4,7 @@
 
 Este grupo cobre o momento **15 anos**: a **debutante**, a **mãe da debutante**, a **madrinha** (adulta ou adolescente) e as **convidadas**, incluindo as amigas da corte. São 11 estilos, cada um com ficha técnica para a Thalita, paleta em hex, ajustes por tom de pele e uma instrução para gerar uma imagem original com IA.
 
-> **Leia antes:** nesta rodada, nenhuma busca na web deste grupo chegou a rodar (o limite compartilhado entre os agentes acabou antes) e a rede bloqueou o acesso direto aos sites. Por isso **não há links específicos de 15 anos** aqui. As fichas trazem técnica profissional consolidada e alguns links de apoio encontrados pelos grupos de noiva e de casamento, sempre marcados como tal. Detalhes em [Limites desta pesquisa](#limites-desta-pesquisa); as buscas prontas para a próxima rodada estão em [Próximas buscas](#proximas-buscas).
+> **Leia antes:** na primeira rodada nenhuma busca deste grupo chegou a rodar. **Na revisão de 07/10/2026 a busca voltou** e cada estilo ganhou links de debutante (*quinceañera*), baile de formatura, pele com acne e cuidados com adolescentes, marcados como *novo, conferido na busca de 07/10/2026*. A rede ainda bloqueia a abertura dos sites, então os links precisam ser abertos por uma pessoa antes de ir para o app. Detalhes em [Limites desta pesquisa](#limites-desta-pesquisa).
 
 ## Sumário
 
@@ -47,7 +47,7 @@ A dúvida mais comum ("uma make mais menina ou mais mulher?") vira uma régua. N
 | No meio, com boca marcante | [Boca framboesa](#8-debutante-boca-framboesa) | média (55%) |
 | Mais mulher | [Glam dourado](#4-debutante-glam-dourado) | alta (70%) |
 | Mais mulher, olhar intenso | [Esfumado chocolate](#5-debutante-esfumado-chocolate) | alta (75%) |
-| Divertida, de pista | [Neon na pista](#6-debutante-neon-na-pista) | alta (65%) |
+| Divertida, de pista | [Neon na pista](#6-debutante-neon-na-pista) | média (65%) |
 
 Para quem quer as duas coisas na mesma noite: [Da valsa à pista](#9-debutante-da-valsa-a-pista) (delicada na valsa, intensa na pista, sem recomeçar).
 
@@ -95,9 +95,10 @@ A debutante tem, em geral, 14 ou 15 anos; amigas da corte podem ser ainda mais n
 3. **A IA mostra a make, não muda o rosto.** Nada de afinar nariz, mudar o formato do rosto, clarear ou escurecer a pele ou aplicar filtro de beleza. Em adolescentes isso pesa ainda mais, por causa da autoimagem. A imagem continua com o selo **"Inspiração com IA"**.
 4. **Catálogo sem adolescente.** As imagens de inspiração do catálogo são geradas com **modelo fictícia adulta** (as instruções para IA abaixo pedem isso). Nada de gerar uma adolescente maquiada com IA.
 5. **Acervo:** foto de uma debutante atendida só entra no Acervo com autorização por escrito do responsável e com a concordância da própria adolescente.
-6. **Make adequada à idade, sem infantilizar nem sexualizar.** A régua acima mostra como chegar ao "mais mulher" com técnica leve. A Thalita orienta; a família e a debutante decidem.
-7. **Pele jovem:** pele adolescente costuma ser oleosa e ter acne. Produtos oil-free e não comedogênicos; corretivo só onde precisa, sem empilhar camadas sobre espinhas inflamadas; nunca espremer; glitter longe de lesões abertas.
-8. **Tratamentos:** quem toma **isotretinoína** fica com a pele seca e sensível: hidratar bem, evitar esfoliação e **não usar cera** na sobrancelha (só pinça). Quem usa ácidos ou retinoides na pele também fica mais sensível. Na dúvida, a família consulta o dermatologista antes.
+6. **Make adequada à idade, sem infantilizar nem sexualizar.** A régua acima mostra como chegar ao "mais mulher" com técnica leve. A Thalita orienta; a família e a debutante decidem. A Sociedade Brasileira de Pediatria orienta uso moderado, só em ocasiões especiais, com produtos próprios para a idade e de preferência hipoalergênicos ([SBP, jul/2025](https://www.sbp.com.br/cosmeticos-para-criancas-e-adolescentes-conheca-as-orientacoes-da-sociedade-brasileira-de-pediatria/)).
+   - **Responsável presente** durante o atendimento da menor (ou quem ele autorizar por escrito), e cílios postiços, cola e glitter só com o sim do responsável.
+7. **Pele jovem:** pele adolescente costuma ser oleosa e ter acne. Produtos oil-free e não comedogênicos ([Academia Americana de Dermatologia](https://www.aad.org/public/diseases/acne/causes/makeup)); corretivo só onde precisa, sem empilhar camadas sobre espinhas inflamadas; nunca espremer; glitter longe de lesões abertas.
+8. **Tratamentos:** quem toma **isotretinoína** fica com a pele seca e sensível: hidratar bem, evitar esfoliação e **não usar cera** na sobrancelha (só pinça), durante o tratamento e **até 6 meses depois** de parar ([UAI/Estado de Minas](https://www.uai.com.br/app/noticia/saude/2013/12/16/noticias-saude,193276/pele-lisa-no-verao-saiba-quais-sao-os-mitos-e-verdades-sobre-depilaca.shtml)). Quem usa ácidos ou retinoides na pele também fica mais sensível. Na dúvida, a família consulta o dermatologista antes.
 9. **Higiene:** aplicadores descartáveis para máscara, gloss e lápis; pincéis e esponjas limpos; nada de dividir make entre amigas. Teste de sensibilidade da cola de cílios antes do dia.
 10. **Produtos regularizados:** glitter, delineadores coloridos, pigmentos neon e cola de strass só se forem cosméticos regularizados na Anvisa e próprios para a área de uso (muitos pigmentos neon e de luz negra não são liberados para os olhos).
 
@@ -105,7 +106,7 @@ A debutante tem, em geral, 14 ou 15 anos; amigas da corte podem ser ainda mais n
 
 ## Preço de mercado
 
-A busca de preços **não rodou** nesta rodada. O que existe hoje:
+A busca de preços **não rodou** nesta rodada nem na revisão de 07/10/2026 (a prioridade foram os links de estilo). O que existe hoje:
 
 - **No protótipo do app** (valores a confirmar com a Thalita; o brief só cita os preços do casamento): Debutante **R$ 450**, Mãe da debutante **R$ 220**, Madrinha **R$ 220**, Convidada **R$ 180**.
 - **Estimativa de mercado, sem fonte, a validar** com maquiadoras da região: R$ 250 a R$ 800 só a make de debutante; pacotes com penteado costumam passar disso.
@@ -149,6 +150,8 @@ Para ser transparente sobre o que está verificado e o que falta:
 - **Preços:** estimativas sem fonte; validar com maquiadoras da região.
 - **Para continuar:** basta pedir uma nova rodada de pesquisa (ou aumentar o limite de buscas). As buscas prontas estão em [Próximas buscas](#proximas-buscas).
 
+- **Revisão de 07/10/2026:** a busca na web voltou e esta pasta ganhou **22 links novos**, distribuídos pelos 11 estilos (marcados como *novo, conferido na busca de 07/10/2026*). Todos apareceram em resultados de busca com o endereço exato; **nenhum foi inventado**. A rede deste ambiente continua bloqueando a abertura direta dos sites, então o que cada link diz vem do resumo da busca, não da leitura da página. **Falta olhar humano:** abrir cada link antes de usar no app, conferir se a página fala mesmo do estilo e trocar os de blog de loja ou de marca por fontes editoriais quando possível. Não foram encontradas fotos de banco livre (Unsplash, Pexels) com licença e autorização de modelo conferidas; preços continuam sem fonte. Também foram revistos os cuidados com menor de idade (isotretinoína e cera, orientação da Sociedade Brasileira de Pediatria, pele com acne) e a intensidade do *Neon na pista*.
+
 <a id="tabela-resumo"></a>
 
 ## Tabela-resumo
@@ -160,7 +163,7 @@ Para ser transparente sobre o que está verificado e o que falta:
 | 3 | [Brilho de valsa](#3-debutante-brilho-de-valsa) | Soft Glam | média (55%) | Noite, salão, valsa, pista, flash | Clássico (com toque 2026) |
 | 4 | [Glam dourado](#4-debutante-glam-dourado) | Glam | alta (70%) | Noite, salão, flash, telão | Clássico |
 | 5 | [Esfumado chocolate](#5-debutante-esfumado-chocolate) | Olho marcante | alta (75%) | Noite, pista, troca de vestido, estúdio | Clássico (com toque atual) |
-| 6 | [Neon na pista](#6-debutante-neon-na-pista) | Olho marcante | alta (65%) | Noite, pista com luz negra ou LED, flash | Tendência (percepção de mercado) |
+| 6 | [Neon na pista](#6-debutante-neon-na-pista) | Olho marcante | média (65%) | Noite, pista com luz negra ou LED, flash | Tendência (percepção de mercado) |
 | 7 | [No tom do vestido](#7-debutante-no-tom-do-vestido) | Soft Glam | média (50%) | Dia e noite (ajusta a intensidade) | Clássico (cores 2026) |
 | 8 | [Boca framboesa](#8-debutante-boca-framboesa) | Boca marcante | média (55%) | Noite e dia, salão, tema Paris, flash | Clássico |
 | 9 | [Da valsa à pista](#9-debutante-da-valsa-a-pista) | Soft Glam | média (50%) | Noite: valsa e depois pista | Tendência prática (percepção de mercado) |
@@ -194,7 +197,7 @@ Os nomes de categoria seguem o app: `natural`, `soft-glam`, `glam`, `olho-marcan
 - **Sobrancelha:** natural, penteada para cima com gel transparente; preencher falhas fio a fio.
 - **Blush:** rosa pétala (#E8A3A8) em creme nas maçãs, puxado levemente para cima.
 - **Contorno e iluminador:** contorno quase nenhum; iluminador rose gold (#EAC3B4) nas maçãs, no dorso do nariz e no arco do cupido.
-- **Boca:** lápis rosado próximo da cor natural da boca e gloss rosa bebê (#D98C93) não pegajoso, ou batom cremoso com gloss só no centro.
+- **Boca:** lápis rosado próximo da cor natural da boca e gloss rosa suave (#D98C93) não pegajoso, ou batom cremoso com gloss só no centro.
 
 ### Paleta
 
@@ -206,7 +209,7 @@ Os nomes de categoria seguem o app: `natural`, `soft-glam`, `glam`, `olho-marcan
 | ![#6E4A4A](https://placehold.co/16x16/6E4A4A/6E4A4A.png) | Marrom rosado | `#6E4A4A` | Delineado fino |
 | ![#E8A3A8](https://placehold.co/16x16/E8A3A8/E8A3A8.png) | Rosa pétala | `#E8A3A8` | Blush |
 | ![#EAC3B4](https://placehold.co/16x16/EAC3B4/EAC3B4.png) | Rose gold | `#EAC3B4` | Iluminador |
-| ![#D98C93](https://placehold.co/16x16/D98C93/D98C93.png) | Rosa bebê | `#D98C93` | Gloss |
+| ![#D98C93](https://placehold.co/16x16/D98C93/D98C93.png) | Rosa suave | `#D98C93` | Gloss |
 
 ### Luz, duração e para quem
 
@@ -232,7 +235,9 @@ Os nomes de categoria seguem o app: `natural`, `soft-glam`, `glam`, `olho-marcan
 
 ### Referências
 
-- Nenhum link nesta rodada (as buscas não rodaram; ver [Limites](#limites-desta-pesquisa)).
+- [Tips To Have A Perfect Makeup Look for Your Quinceanera](https://www.amarra.com/blogs/quinceanera-1/tips-to-have-a-perfect-makeup-look-for-your-quinceanera) · Amarra (blog de vestidos de XV años, EUA; site de marca) · make de debutante por cor do vestido; brilho champanhe, dourado ou rose gold no centro da pálpebra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Guia em 6 passos para uma make jovem de debutante](https://qbydavinci.com/blog/your-6-step-guide-to-beautiful-youthful-quinceanera-makeup/) · Q by Davinci (blog de vestidos de XV años; site de marca) · make jovem para debutante, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Stunning Quinceañera Makeup Ideas](https://pleasantdale.com/blog/stunning-quinceanera-makeup-ideas/) · Pleasantdale (blog de espaço de eventos, EUA) · ideias de make de debutante, do natural ao glam, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem debutante rosé", "make 15 anos princesa", "maquillaje XV años rosa", "quinceañera pink makeup".
 
 ### Instrução para gerar imagem original com IA
@@ -249,7 +254,7 @@ glitter); pale rosy champagne #F2D6CF on the inner corners; very thin rosy-brown
 upper lash line, no wing; curled lashes with waterproof black mascara and two or three short lash clusters on
 the outer corners; natural brushed-up brows set with clear gel; petal-pink #E8A3A8 cream blush on the apples,
 blended upward; almost no contour; rose-gold #EAC3B4 highlight on the cheekbones, nose bridge and cupid's bow;
-lips lined close to their natural color and finished with a sheer baby-pink gloss #D98C93. Expression: natural
+lips lined close to their natural color and finished with a sheer soft pink gloss #D98C93. Expression: natural
 and relaxed, soft genuine smile. Framing: head-and-shoulders, eyes in sharp focus, aspect ratio 4:5. Real skin
 texture with visible pores, no heavy retouching, no beauty filter, facial features unaltered (no slimming, no
 skin lightening or darkening). No brand logos, no product packaging, no text, no watermark. Fictional model
@@ -326,6 +331,10 @@ the interface (do not render any label inside the image).
 
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) · TNH1 (link encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://catracalivre.com.br/saude-bem-estar/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026/) · Catraca Livre (link encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
+- [Guia em 6 passos para uma make jovem de debutante](https://qbydavinci.com/blog/your-6-step-guide-to-beautiful-youthful-quinceanera-makeup/) · Q by Davinci (blog de vestidos de XV años; site de marca) · make jovem para debutante, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [I have acne! Is it okay to wear makeup?](https://www.aad.org/public/diseases/acne/causes/makeup) · Academia Americana de Dermatologia (AAD) · make em pele com acne: produtos oil-free e não comedogênicos, pincéis limpos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [12 tips for helping makeup and breakouts co-exist](https://www.makeup.com/product-and-reviews/all-products-and-reviews/12-tips-for-helping-makeup-and-breakouts-co-exist) · Makeup.com (site editorial de grupo de cosméticos) · make e espinhas, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) · Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem natural 15 anos", "make debutante leve", "maquillaje natural XV años", "teen glowy natural makeup acne-prone skin".
 
 ### Instrução para gerar imagem original com IA
@@ -416,6 +425,8 @@ lighting, framing and styling across the 3 variations. Note for the app team: la
 ### Referências
 
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) · Correio Braziliense, Revista do Correio, maio/2026 (link encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
+- [Tips To Have A Perfect Makeup Look for Your Quinceanera](https://www.amarra.com/blogs/quinceanera-1/tips-to-have-a-perfect-makeup-look-for-your-quinceanera) · Amarra (blog de vestidos de XV años, EUA; site de marca) · make de debutante por cor do vestido; brilho champanhe, dourado ou rose gold no centro da pálpebra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Stunning Quinceañera Makeup Ideas](https://pleasantdale.com/blog/stunning-quinceanera-makeup-ideas/) · Pleasantdale (blog de espaço de eventos, EUA) · ideias de make de debutante, do natural ao glam, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem 15 anos com glitter", "make debutante brilho", "maquillaje XV años glitter", "quinceañera glitter eye makeup".
 
 ### Instrução para gerar imagem original com IA
@@ -504,7 +515,9 @@ resulting image as 'Inspiração com IA' in the interface (do not render any lab
 
 ### Referências
 
-- Nenhum link nesta rodada (as buscas não rodaram; ver [Limites](#limites-desta-pesquisa)).
+- [Tips To Have A Perfect Makeup Look for Your Quinceanera](https://www.amarra.com/blogs/quinceanera-1/tips-to-have-a-perfect-makeup-look-for-your-quinceanera) · Amarra (blog de vestidos de XV años, EUA; site de marca) · make de debutante por cor do vestido; brilho champanhe, dourado ou rose gold no centro da pálpebra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [The 2026 Prom Makeup Looks Worth Screenshotting](https://www.davidsbridal.com/content/style-guides/7-stunning-prom-makeup-looks-to-slay-in-2026) · David's Bridal (guia de estilo; site de loja) · makes de baile de formatura 2026, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Viral beauty looks for prom 2026](https://globalnews.ca/the-curator/11870349/viral-beauty-looks-prom-2026/) · Global News, The Curator (Canadá) · baile de formatura 2026: sardas desenhadas, boca borrada, bochecha corada, soft glam anos 90 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem 15 anos dourada", "make debutante glam", "maquillaje XV años dorado", "quinceañera gold glam makeup".
 
 ### Instrução para gerar imagem original com IA
@@ -594,7 +607,9 @@ com IA' in the interface (do not render any label inside the image).
 
 ### Referências
 
-- Nenhum link nesta rodada (as buscas não rodaram; ver [Limites](#limites-desta-pesquisa)).
+- [The 2026 Prom Makeup Looks Worth Screenshotting](https://www.davidsbridal.com/content/style-guides/7-stunning-prom-makeup-looks-to-slay-in-2026) · David's Bridal (guia de estilo; site de loja) · makes de baile de formatura 2026, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Viral beauty looks for prom 2026](https://globalnews.ca/the-curator/11870349/viral-beauty-looks-prom-2026/) · Global News, The Curator (Canadá) · baile de formatura 2026: sardas desenhadas, boca borrada, bochecha corada, soft glam anos 90 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Truques de make para debutante, com 11 ideias](https://qbydavinci.com/blog/diy-master-makeup-tricks-11-looks-for-your-quinceanera/) · Q by Davinci (blog de vestidos de XV años; site de marca) · ideias de make para a festa de XV años, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem 15 anos esfumado marrom", "make debutante olho marcante", "maquillaje XV años smokey marrón", "brown smoky eye teen prom".
 
 ### Instrução para gerar imagem original com IA
@@ -629,7 +644,7 @@ every resulting image as 'Inspiração com IA' in the interface (do not render a
 
 ## 6. Neon na pista
 
-`debutante-neon-na-pista` · **Olho marcante** · intensidade **alta (65%)**
+`debutante-neon-na-pista` · **Olho marcante** · intensidade **média (65%)**
 
 > Delineado colorido na cor da festa, pele limpa e boca de gloss: pronta para a pista.
 
@@ -683,7 +698,9 @@ every resulting image as 'Inspiração com IA' in the interface (do not render a
 
 ### Referências
 
-- Nenhum link nesta rodada (as buscas não rodaram; ver [Limites](#limites-desta-pesquisa)).
+- [50 fotos de maquiagem para festa](https://www.purepeople.com.br/noticia/essas-50-fotos-de-maquiagem-para-festa-vao-garantir-o-seu-look_a275564/1) · Purepeople Brasil · galeria com sombra colorida, delineado neon e batom escuro · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Glitter no Carnaval: saiba como usar, cuidados e como retirar da pele](https://www.oliberal.com/variedades/glitter-no-carnaval-saiba-como-usar-cuidados-e-como-retirar-da-pele-1.1085364) · O Liberal (PA) · glitter cosmético aprovado pela Anvisa, longe das mucosas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Médicos alertam sobre riscos para a saúde ocular durante o Carnaval](https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/02/medicos-alertam-sobre-riscos-para-a-saude-ocular-durante-o-carnaval.html) · Diario de Pernambuco (fev/2024) · cola de cílios e glitter perto dos olhos; o que fazer se cair no olho · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem neon 15 anos", "make festa neon debutante", "maquillaje neon XV años", "neon graphic liner party makeup".
 
 ### Instrução para gerar imagem original com IA
@@ -773,6 +790,8 @@ lighting, framing and styling across the 3 variations. Note for the app team: la
 - [Madrinhas apostam em elegância leve e sofisticação em 2026](https://www.correiobraziliense.com.br/revista-do-correio/2026/05/amp/7428471-madrinhas-apostam-em-elegancia-leve-e-sofisticacao-em-2026.html) · Correio Braziliense, Revista do Correio, maio/2026 (link encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
 - [Estas são as principais cores de vestido para madrinha de casamento de 2026](https://elle.com.br/moda/cores-vestido-para-madrinha-de-casamento-2026) · Elle Brasil (link encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
 - [9 inspirações de maquiagem para madrinhas de casamento](https://elle.com.br/beleza/maquiagem-para-madrinhas-de-casamento) · Elle Brasil (link encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
+- [Tips To Have A Perfect Makeup Look for Your Quinceanera](https://www.amarra.com/blogs/quinceanera-1/tips-to-have-a-perfect-makeup-look-for-your-quinceanera) · Amarra (blog de vestidos de XV años, EUA; site de marca) · make de debutante por cor do vestido; brilho champanhe, dourado ou rose gold no centro da pálpebra · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiagem de convidada de casamento: maquiador indica cores neutras em vez de sombra da cor da roupa](https://www.purepeople.com.br/noticia/maquiagem-convidada-casamento-combinar-sombra-com-a-cor-da-roupa-e-muito-anos-200-melhor-optar-por-cores-neutras-diz-maquiador-profissional_a422033/1) · Purepeople Brasil · evitar sombra da mesma cor do vestido chamativo · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem para vestido lilás 15 anos", "maquiagem para vestido azul debutante", "maquillaje XV años según color del vestido", "quinceañera makeup to match dress color".
 
 ### Instrução para gerar imagem original com IA
@@ -858,7 +877,8 @@ the interface (do not render any label inside the image).
 
 ### Referências
 
-- Nenhum link nesta rodada (as buscas não rodaram; ver [Limites](#limites-desta-pesquisa)).
+- [Blurred lips: batom borrado é tendência](https://www.belezanaweb.com.br/loucas-por-beleza/blurred-lips-batom-borrado-e-tendencia/) · Beleza na Web, blog Loucas por Beleza (site de loja) · cor no centro e borda esfumada, inspiração coreana · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- ['Blurred lips': el maquillaje de labios efecto difuminado más rejuvenecedor](https://www.hola.com/belleza/20250321816584/blurred-lips-maquillaje-labios-difuminados-rejuvenecedor/) · Hola! Espanha (mar/2025) · boca borrada, em espanhol · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem 15 anos tema Paris", "make debutante boca rosa", "maquillaje XV años labios rosa frambuesa", "blurred berry lip teen".
 
 ### Instrução para gerar imagem original com IA
@@ -903,7 +923,7 @@ interface (do not render any label inside the image).
 
 - **Pele:** base de cobertura média e acabamento acetinado, feita para durar a noite toda; na troca, só retoque com pó fino e bruma.
 - **Olhos (fase 1, valsa):** champanhe (#E9D3BC) no canto interno; rosé (#D6A097) cintilante na pálpebra com bordas esfumadas.
-- **Olhos (fase 2, pista):** sem tirar nada: ameixa (#6E3A4A) no V externo, pigmento metálico dourado rosé (#D9A57B) pressionado no centro da pálpebra e um pouco de glitter fino se ela quiser.
+- **Olhos (fase 2, pista):** sem tirar nada: ameixa (#6E3A4A) no V externo, pigmento metálico dourado rosé (#D9A57B) pressionado no centro da pálpebra e um pouco de glitter fino se ela quiser (só glitter cosmético regularizado na Anvisa e próprio para a área dos olhos).
 - **Delineado:** fase 1, gatinho mínimo marrom; fase 2, gatinho mais longo em preto.
 - **Cílios:** fase 1, máscara; fase 2, tufos no terço externo.
 - **Sobrancelha:** natural e definida.
@@ -946,7 +966,8 @@ interface (do not render any label inside the image).
 
 ### Referências
 
-- Nenhum link nesta rodada (as buscas não rodaram; ver [Limites](#limites-desta-pesquisa)).
+- [Truques de make para debutante, com 11 ideias](https://qbydavinci.com/blog/diy-master-makeup-tricks-11-looks-for-your-quinceanera/) · Q by Davinci (blog de vestidos de XV años; site de marca) · ideias de make para a festa de XV años, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [The 2026 Prom Makeup Looks Worth Screenshotting](https://www.davidsbridal.com/content/style-guides/7-stunning-prom-makeup-looks-to-slay-in-2026) · David's Bridal (guia de estilo; site de loja) · makes de baile de formatura 2026, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "duas maquiagens festa de 15 anos troca de vestido", "maquiagem valsa e pista debutante", "maquillaje XV años cambio de vestido", "quinceañera makeup touch up dress change".
 
 ### Instrução para gerar imagem original com IA
@@ -1039,6 +1060,9 @@ inside the image).
 - [6 dicas de maquiagem para pele madura](https://www.agazeta.com.br/revista-ag/moda-e-beleza/6-dicas-de-maquiagem-para-pele-madura-0720) · A Gazeta, Revista AG (link encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
 - [Aprenda a fazer uma maquiagem ideal para pele madura](https://www.agazeta.com.br/colunas/aline-bretas/aprenda-a-fazer-uma-maquiagem-ideal-para-pele-madura-0720) · A Gazeta, coluna Aline Bretas (link encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
 - [Especialista ensina truques para maquiar peles maduras](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/especialista-ensina-truques-para-maquiar-peles-maduras) · Instituto de Longevidade (link encontrado pelo grupo 02 (casamento) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
+- [Mother of the bride makeup in 12 flawless steps](https://www.theweddingedition.co.uk/mother-of-the-bride-makeup-in-12-flawless-steps) · The Wedding Edition (Reino Unido) · make de mãe da noiva: pouco pó, primer de pálpebra, marrons em vez de preto · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Maquiadores espanhóis concordam: depois dos 50, a técnica de blush em creme é a melhor para devolver o viço ao rosto](https://catracalivre.com.br/saude-bem-estar/maquiadores-espanhois-concordam-depois-dos-50-a-tecnica-de-blush-em-creme-e-a-melhor-para-devolver-o-vico-ao-rosto/) · Catraca Livre · blush em creme não marca linhas · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) · Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem mãe da debutante", "make mãe 15 anos", "maquillaje mamá de la quinceañera", "mother of the quinceañera makeup".
 
 ### Instrução para gerar imagem original com IA
@@ -1086,7 +1110,7 @@ image).
 - **Pele:** hidratante com cor ou skin tint; corretivo pontual; sem pó pesado.
 - **Olhos:** uma única sombra cintilante espalhada com o dedo: lilás (#C9B3E0) ou pêssego claro (#F1C3AE); champanhe (#EDDCC6) no canto interno; dois pontinhos de strass no canto externo são opcionais.
 - **Delineado:** sem delineado, ou um traço colorido bem fino.
-- **Cílios:** máscara marrom-preta (#5E4438).
+- **Cílios:** máscara marrom (#5E4438) ou marrom-preta, uma camada só.
 - **Sobrancelha:** penteada com gel.
 - **Blush:** rosa claro (#EFA3B6) em creme.
 - **Contorno e iluminador:** sem contorno; champanhe nas maçãs.
@@ -1127,6 +1151,9 @@ image).
 ### Referências
 
 - [Bridal Glow: tendência de beleza luminosa para noivas em 2026](https://www.tnh1.com.br/noticia/nid/bridal-glow-tendencia-de-beleza-luminosa-para-noivas-em-2026-7033/) · TNH1 (link encontrado pelo grupo 01 (noiva) nesta rodada; não é específico de 15 anos) · *estudo apenas (direitos reservados)*
+- [Viral beauty looks for prom 2026](https://globalnews.ca/the-curator/11870349/viral-beauty-looks-prom-2026/) · Global News, The Curator (Canadá) · baile de formatura 2026: sardas desenhadas, boca borrada, bochecha corada, soft glam anos 90 · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [12 tips for helping makeup and breakouts co-exist](https://www.makeup.com/product-and-reviews/all-products-and-reviews/12-tips-for-helping-makeup-and-breakouts-co-exist) · Makeup.com (site editorial de grupo de cosméticos) · make e espinhas, em inglês · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
+- [5 dicas de especialistas para adolescentes cuidarem da pele](https://www.itatiaia.com.br/trends/5-dicas-de-especialistas-para-adolescentes-cuidarem-da-pele/) · Itatiaia · pele de adolescente e acne · *estudo apenas (direitos reservados)* · *novo, conferido na busca de 07/10/2026*
 - **Buscar na próxima rodada:** "maquiagem convidada festa de 15 anos", "make adolescente festa", "maquillaje para invitada XV años", "teen party makeup simple".
 
 ### Instrução para gerar imagem original com IA
@@ -1137,7 +1164,7 @@ cheerful guest at a Brazilian 15th-birthday party. Background: softly blurred pa
 string lights. Styling: half-up hair with a small claw clip, pastel satin dress. Lighting: soft key light with
 a light flash fill, cheerful and bright. Makeup (fresh playful glow, light intensity): sheer skin tint, spot
 concealer, no heavy powder; a single wash of shimmering lilac #C9B3E0 on the lids applied with fingertips;
-champagne #EDDCC6 on the inner corners and cheekbones; brown-black #5E4438 mascara; brushed-up brows with gel;
+champagne #EDDCC6 on the inner corners and cheekbones; brown #5E4438 mascara; brushed-up brows with gel;
 light pink #EFA3B6 cream blush; pink gloss #E7A0A8; two tiny rhinestones at the outer corner of one eye
 (optional). Expression: playful, joyful laugh. Framing: head-and-shoulders, eyes in sharp focus, aspect ratio
 4:5. Real skin texture with visible pores, no heavy retouching, no beauty filter, facial features unaltered
@@ -1171,7 +1198,7 @@ Para a próxima rodada: registrar só link, fonte, autor e licença, sem baixar 
 
 ## Fontes
 
-Todas com licença **estudo apenas (direitos reservados)**. Nenhuma imagem foi copiada para o repositório. Nenhuma é específica de 15 anos: todas foram encontradas pelos grupos 01 e 02 nesta rodada e servem de apoio.
+Todas com licença **estudo apenas (direitos reservados)**. Nenhuma imagem foi copiada para o repositório. As da primeira lista não são específicas de 15 anos (vieram dos grupos 01 e 02 e servem de apoio); as acrescentadas na revisão de 07/10/2026, no fim, são.
 
 **Pele luminosa e tendências de 2026** (grupo 01, noiva)
 
@@ -1194,5 +1221,32 @@ Todas com licença **estudo apenas (direitos reservados)**. Nenhuma imagem foi c
 - [Especialista ensina truques para maquiar peles maduras](https://institutodelongevidade.org/longevidade-e-comportamento/moda-e-beleza/especialista-ensina-truques-para-maquiar-peles-maduras) · Instituto de Longevidade
 
 *Tendências de maquiagem para 2026* (Beleza na Web) está aqui como leitura geral; nenhuma ficha atribui uma afirmação a ela, porque o conteúdo não pôde ser lido nesta rodada.
+
+**Acrescentados na revisão de 07/10/2026** (conferidos na busca; a página não pôde ser aberta porque a rede bloqueia o acesso direto aos sites)
+
+- [Tips To Have A Perfect Makeup Look for Your Quinceanera](https://www.amarra.com/blogs/quinceanera-1/tips-to-have-a-perfect-makeup-look-for-your-quinceanera) · Amarra (blog de vestidos de XV años, EUA; site de marca) · make de debutante por cor do vestido; brilho champanhe, dourado ou rose gold no centro da pálpebra
+- [Guia em 6 passos para uma make jovem de debutante](https://qbydavinci.com/blog/your-6-step-guide-to-beautiful-youthful-quinceanera-makeup/) · Q by Davinci (blog de vestidos de XV años; site de marca) · make jovem para debutante, em inglês
+- [Stunning Quinceañera Makeup Ideas](https://pleasantdale.com/blog/stunning-quinceanera-makeup-ideas/) · Pleasantdale (blog de espaço de eventos, EUA) · ideias de make de debutante, do natural ao glam, em inglês
+- [I have acne! Is it okay to wear makeup?](https://www.aad.org/public/diseases/acne/causes/makeup) · Academia Americana de Dermatologia (AAD) · make em pele com acne: produtos oil-free e não comedogênicos, pincéis limpos
+- [12 tips for helping makeup and breakouts co-exist](https://www.makeup.com/product-and-reviews/all-products-and-reviews/12-tips-for-helping-makeup-and-breakouts-co-exist) · Makeup.com (site editorial de grupo de cosméticos) · make e espinhas, em inglês
+- [O que esperar da maquiagem em 2026: cor, pele real e tecnologia](https://www.em.com.br/feminino-e-masculino/2026/01/7335801-o-que-esperar-da-maquiagem-em-2026-cor-pele-real-e-tecnologia.html) · Estado de Minas (jan/2026) · pele real, cor e olhos como protagonistas em 2026
+- [The 2026 Prom Makeup Looks Worth Screenshotting](https://www.davidsbridal.com/content/style-guides/7-stunning-prom-makeup-looks-to-slay-in-2026) · David's Bridal (guia de estilo; site de loja) · makes de baile de formatura 2026, em inglês
+- [Viral beauty looks for prom 2026](https://globalnews.ca/the-curator/11870349/viral-beauty-looks-prom-2026/) · Global News, The Curator (Canadá) · baile de formatura 2026: sardas desenhadas, boca borrada, bochecha corada, soft glam anos 90
+- [Truques de make para debutante, com 11 ideias](https://qbydavinci.com/blog/diy-master-makeup-tricks-11-looks-for-your-quinceanera/) · Q by Davinci (blog de vestidos de XV años; site de marca) · ideias de make para a festa de XV años, em inglês
+- [50 fotos de maquiagem para festa](https://www.purepeople.com.br/noticia/essas-50-fotos-de-maquiagem-para-festa-vao-garantir-o-seu-look_a275564/1) · Purepeople Brasil · galeria com sombra colorida, delineado neon e batom escuro
+- [Glitter no Carnaval: saiba como usar, cuidados e como retirar da pele](https://www.oliberal.com/variedades/glitter-no-carnaval-saiba-como-usar-cuidados-e-como-retirar-da-pele-1.1085364) · O Liberal (PA) · glitter cosmético aprovado pela Anvisa, longe das mucosas
+- [Médicos alertam sobre riscos para a saúde ocular durante o Carnaval](https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/02/medicos-alertam-sobre-riscos-para-a-saude-ocular-durante-o-carnaval.html) · Diario de Pernambuco (fev/2024) · cola de cílios e glitter perto dos olhos; o que fazer se cair no olho
+- [Maquiagem de convidada de casamento: maquiador indica cores neutras em vez de sombra da cor da roupa](https://www.purepeople.com.br/noticia/maquiagem-convidada-casamento-combinar-sombra-com-a-cor-da-roupa-e-muito-anos-200-melhor-optar-por-cores-neutras-diz-maquiador-profissional_a422033/1) · Purepeople Brasil · evitar sombra da mesma cor do vestido chamativo
+- [Blurred lips: batom borrado é tendência](https://www.belezanaweb.com.br/loucas-por-beleza/blurred-lips-batom-borrado-e-tendencia/) · Beleza na Web, blog Loucas por Beleza (site de loja) · cor no centro e borda esfumada, inspiração coreana
+- ['Blurred lips': el maquillaje de labios efecto difuminado más rejuvenecedor](https://www.hola.com/belleza/20250321816584/blurred-lips-maquillaje-labios-difuminados-rejuvenecedor/) · Hola! Espanha (mar/2025) · boca borrada, em espanhol
+- [Mother of the bride makeup in 12 flawless steps](https://www.theweddingedition.co.uk/mother-of-the-bride-makeup-in-12-flawless-steps) · The Wedding Edition (Reino Unido) · make de mãe da noiva: pouco pó, primer de pálpebra, marrons em vez de preto
+- [Maquiadores espanhóis concordam: depois dos 50, a técnica de blush em creme é a melhor para devolver o viço ao rosto](https://catracalivre.com.br/saude-bem-estar/maquiadores-espanhois-concordam-depois-dos-50-a-tecnica-de-blush-em-creme-e-a-melhor-para-devolver-o-vico-ao-rosto/) · Catraca Livre · blush em creme não marca linhas
+- [Técnica do corretivo em cinco pontos para pele madura](https://www.correiobraziliense.com.br/cbradar/tecnica-corretivo-cinco-pontos-pele-madura/) · Correio Braziliense (CB Radar) · corretivo em pequenos pontos, espalhado para cima, a partir dos 40 ou 50 anos
+- [5 dicas de especialistas para adolescentes cuidarem da pele](https://www.itatiaia.com.br/trends/5-dicas-de-especialistas-para-adolescentes-cuidarem-da-pele/) · Itatiaia · pele de adolescente e acne
+- [Orientações da Sociedade Brasileira de Pediatria sobre cosméticos para crianças e adolescentes, jul/2025](https://www.sbp.com.br/cosmeticos-para-criancas-e-adolescentes-conheca-as-orientacoes-da-sociedade-brasileira-de-pediatria/) · Sociedade Brasileira de Pediatria (SBP) · uso moderado, produtos próprios para a idade e hipoalergênicos
+- [Pele lisa no verão: saiba quais são os mitos e verdades sobre depilação](https://www.uai.com.br/app/noticia/saude/2013/12/16/noticias-saude,193276/pele-lisa-no-verao-saiba-quais-sao-os-mitos-e-verdades-sobre-depilaca.shtml) · UAI / Estado de Minas (2013) · não depilar com cera quem usou isotretinoína nos últimos 6 meses
+- [Crianças podem usar maquiagem? Médica explica](https://www.correiobraziliense.com.br/cbradar/criancas-podem-usar-maquiagem-medica-explica/) · Correio Braziliense (CB Radar) · make em crianças e adolescentes
+
+Quando a busca não trouxe um título legível, o texto do link é uma descrição curta do assunto.
 
 Os quadradinhos de cor são imagens geradas pelo serviço placehold.co a partir do código hex; o código também aparece em texto ao lado.

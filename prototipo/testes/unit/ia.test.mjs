@@ -108,6 +108,18 @@ describe("conferência da foto gerada", { skip: PULAR }, () => {
     assert.match(semMake.motivos.join(" "), /batom/);
   });
 
+  test("pele clareada pela IA é reprovada", () => {
+    const d = det("rosto-frontal"), r = raw("rosto-frontal");
+    const medidas = medir(d, amostra(r));
+    const receita = montarReceita({ makeId: "natural", momento: "casamento", papel: "madrinha" }, medidas);
+    const clara = { ...r, dados: r.dados.map((v) => Math.min(255, Math.round(v * 1.25 + 12))) };
+    const c = conferirResultado({ original: { deteccao: d, medidas }, gerada: { deteccao: d, amostrador: amostra(clara) }, receita });
+    assert.equal(c.aprovado, false);
+    assert.match(c.motivos.join(" "), /pele ficou mais clara/);
+    const igual = conferirResultado({ original: { deteccao: d, medidas }, gerada: { deteccao: d, amostrador: amostra(r) }, receita });
+    assert.ok(igual.cores.find((x) => x.categoria === "base")?.ok, JSON.stringify(igual.cores));
+  });
+
   test("sem rosto na foto gerada", () => {
     const c = conferirResultado({ original: { deteccao: det("rosto-frontal"), medidas: medidasFalsas() }, gerada: { deteccao: { pontos: [], rostos: 0 }, amostrador: null }, receita: {} });
     assert.equal(c.aprovado, false);

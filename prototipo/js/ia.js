@@ -17,7 +17,9 @@ import { OVAL, LABIOS_EXTERNO, LABIOS_INTERNO, OLHO_DIREITO, OLHO_ESQUERDO, PONT
 /** @typedef {import("./tipos.js").Medidas} Medidas */
 /** @typedef {import("./tipos.js").Deteccao} Deteccao */
 
-export const MODELO_PADRAO = "gemini-2.5-flash-image";
+// O gemini-2.5-flash-image ("Nano Banana") foi desligado em 02/10/2026 (pesquisa/09). Sucessor indicado:
+// Gemini 3.1 Flash Image ("Nano Banana 2"). Conferir o ID exato na página de modelos antes de ligar no app real.
+export const MODELO_PADRAO = "gemini-3.1-flash-image";
 
 /** Limites da conferência. ΔE2000 ≈ 2 é o limite do olho treinado; numa foto gerada, 12 já é "a cor certa". */
 export const LIMITES_CONFERENCIA = Object.freeze({
@@ -26,6 +28,8 @@ export const LIMITES_CONFERENCIA = Object.freeze({
   // É um filtro grosso (só geometria): no app real, somar um modelo de reconhecimento facial.
   identidade: 0.045,
   deltaE: { batom: 12, blush: 12, sombra: 15, base: 8 },
+  clareamento: 4, // quanto a claridade (L*) da pele pode subir na foto gerada
+
 });
 
 const NOMES = {
@@ -211,6 +215,14 @@ export function conferirResultado({ original, gerada, receita }) {
       const ok = dE <= LIMITES_CONFERENCIA.deltaE[cat] || (cat !== "base" && andou);
       cores.push({ categoria: cat, alvo: alvo.toUpperCase(), medido, esperado, deltaE: r1(dE), ok });
       if (!ok) motivos.push(`A cor de ${NOMES[cat]} ficou longe do pedido (ΔE ${r1(dE)}).`);
+      // a pele não pode clarear: princípio do app (a IA não "embranquece" ninguém)
+      if (cat === "base") {
+        const dL = hexParaLab(medido).L - hexParaLab(esperado).L;
+        if (dL > LIMITES_CONFERENCIA.clareamento) {
+          cores[cores.length - 1].ok = false;
+          motivos.push(`A pele ficou mais clara do que a da foto original (+${r1(dL)} de claridade).`);
+        }
+      }
     }
   }
   const aprovado = identidade.ok && !(detG.rostos > 1) && cores.every((c) => c.ok);
