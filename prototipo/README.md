@@ -13,7 +13,8 @@
 | **Sua make** | Antes e depois com controle deslizante, "mais suave / mais intenso", paleta, o porquê de cada adaptação, a instrução que iria para a IA e a **conferência automática** (mesmo rosto? cor certa? pele não clareou?) |
 | **Agendar → Pedido enviado** | Dia, horário, local, valor e sinal antes de se comprometer |
 | **O que a Thalita recebe** | Beauty Brief: face chart desenhado dos pontos do rosto, ordem de execução com % de intensidade, maleta, o que confirmar pessoalmente, botão para copiar a ficha para o WhatsApp |
-| **Espelho ao vivo** | A make pintada em tempo real na câmera, trocando cores por categoria |
+| **Espelho ao vivo** | A make pintada em tempo real na câmera. Começa sem make ("Sem make" zera), tem makes prontas e de época (anos 70 a 2026), cores da paleta e "Outra cor" (seletor do aparelho) |
+| **Copiar make de uma foto** | A partir do estilo ou do espelho: lê as cores da make de uma foto de referência (sem IA) e testa no seu rosto |
 | **Bastidores do motor** | Os números reais de cada etapa (para a gente conferir) |
 
 ## O que é real e o que ainda não é
@@ -38,12 +39,12 @@ A câmera só funciona em `localhost` ou num endereço `https` (como o GitHub Pa
 
 ```bash
 npm run fixtures      # baixa as fotos públicas de teste do MediaPipe e extrai os pontos reais (uma vez)
-npm test              # 156 testes de unidade
+npm test              # 161 testes de unidade
 python3 scripts/video-falso.py testes/fixtures/fotos/rosto-frontal.png testes/fixtures/camera-falsa.y4m
-npm run test:e2e      # 10 testes de ponta a ponta no Chromium (celular e computador, câmera falsa)
+npm run test:e2e      # 12 testes de ponta a ponta no Chromium (celular e computador, câmera falsa)
 ```
 
-**Resultado em 07/10/2026:** 156 de 156 testes de unidade e 10 de 10 de ponta a ponta passando. As capturas de cada tela ficam em `testes/resultados/telas/` (fora do git).
+**Resultado em 08/10/2026:** 161 de 161 testes de unidade e 12 de 12 de ponta a ponta passando. As capturas de cada tela ficam em `testes/resultados/telas/` (fora do git).
 
 Os testes cobrem, entre outras coisas:
 - **Foto maliciosa:** SVG com script disfarçado de .jpg, executável, PDF, "bomba" de dimensões gigantes, anexo escondido depois da imagem, GPS no EXIF.
@@ -59,7 +60,20 @@ O contrato entre as peças está em `js/tipos.js`. Cada peça pode ser trocada s
 foto ─► seguranca.js ─► rosto.js ─► medidas.js ─► receita.js (+ regras, catálogo) ─► pintura.js
                                                        ├─► brief.js (ficha da Thalita)
                                                        └─► ia.js (instrução, conferência, colar de volta)
+foto de referência ─► rosto.js ─► referencia.js ─► EstadoMake   ·   epocas.js ─► makes de época
 ```
+
+## Bancadas de qualidade (com fotos reais)
+
+Para medir e melhorar o motor com fotos de verdade (resultados e rodadas em `../pesquisa/13-bancada-copiar-make.md`):
+
+```bash
+node scripts/bancada.mjs v7               # 50 referências reais × 6 rostos sem make (comparar com a v6)
+node scripts/bancada-diversidade.mjs v3   # pontos do rosto em 126 fotos variadas + épocas × tons de pele
+node scripts/calibrar.mjs                 # procura os limites que mais acertam sem inventar produto
+```
+
+As fotos ficam em `testes/fixtures/bancada/` (fora do git; vêm dos exemplos públicos de repositórios de pesquisa listados na pesquisa 13).
 
 Como levar isso para o app real: `../pesquisa/12-engenharia-e-migracao.md` e a seção 12 de `../pesquisa/00-PLANO-MESTRE.md`.
 

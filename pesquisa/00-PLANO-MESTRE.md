@@ -158,7 +158,18 @@ Pix não tem chargeback como o cartão. Existe o MED, só para golpe. Na confirm
 3. **Telas:** o protótipo é HTML simples para testar ideias. As telas do app real continuam as do Next.js, usando o motor por baixo.
 4. **"Roubar como artista":** estudar tudo, copiar só o que a licença permite (MIT, Apache ou BSD, sempre com crédito em `LICENCAS.md`) e transformar em algo nosso. GPL, AGPL, "não comercial" e projetos sem licença ficam só para estudo. Atenção: código MIT não garante que os **pesos** do modelo sejam livres.
 
-## 13. Decisões que dependem de você e da Thalita
+## 13. Copiar make de uma foto e bancada com fotos reais (`13`)
+
+- **O motor lê a make de uma foto de referência sem IA**:
+  - boca copiada com diferença de cor 3,8 (quase imperceptível);
+  - sombra marcada achada em 29 de 30 fotos reais, sem inventar;
+  - blush achado em 20 de 23.
+- **Os 478 pontos do rosto caíram no lugar** em 122 de 126 fotos variadas: pele negra, idosos, barba, óculos, máscara, fotos borradas.
+- **Limite medido:** sombra marrom/nude, iluminador sutil e contorno se confundem com a luz da foto. Para esses, a IA de visão diz quais produtos existem e o motor mede as cores.
+- **Makes por época** (anos 70 a 2026) entraram no espelho e servem de teste.
+- **Para migrar tudo para o app real:** `../PROMPT-MIGRACAO.md`.
+
+## 14. Decisões que dependem de você e da Thalita
 
 1. Valor do sinal (sugestão: 30% para noiva e 50% para social) e prazo para pagar (sugestão: 24 horas depois de a Thalita aceitar).
 2. Tabela de preços por papel, com o que está incluso em cada um.

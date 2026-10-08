@@ -26,8 +26,14 @@ A regra do protótipo é "roubar como artista": estudar o que existe, usar o que
 - `js/brief.js` (Beauty Brief, face chart gerado dos pontos do rosto, maleta)
 - `js/ia.js` (instrução para a IA a partir da receita e conferência automática do resultado)
 - `js/seguranca.js` (blindagem da foto e do texto)
+- `js/referencia.js` (copiar a make de uma foto de referência)
+- `js/epocas.js` (makes por época; cores interpretadas a partir das fontes citadas no arquivo)
 - `js/app.js`, `index.html` (telas, seguindo a identidade visual do app real)
 
 ## Fotos de teste
 
 As fotos usadas nos testes automáticos são as imagens públicas de exemplo do próprio MediaPipe (`storage.googleapis.com/mediapipe-assets`). Elas são baixadas na hora pelo script `scripts/baixar-fixtures.sh`, ficam só na máquina de teste e **não vão para o git nem para o app** (pasta `testes/fixtures/` no `.gitignore`).
+
+## Fotos das bancadas de teste
+
+As bancadas (`scripts/bancada*.mjs`) usam fotos das pastas de exemplo de repositórios de pesquisa (BeautyGAN, PSGAN, EleGANt, Stable-Makeup, SSAT, CSD-MT, CPM, deepface, insightface, CodeFormer, face-parsing). Várias têm licença não comercial ou de pesquisa e há fotos de celebridades: ficam só em `testes/fixtures/bancada/` (fora do git), servem só como teste interno e **nunca** vão para o app. Lista e licenças: `../pesquisa/13-bancada-copiar-make.md`.
