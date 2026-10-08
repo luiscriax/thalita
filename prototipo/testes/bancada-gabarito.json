@@ -1,0 +1,404 @@
+{
+ "nota": "Gabarito anotado à mão olhando as fotos em 07/10/2026. Fotos dos exemplos públicos de repositórios de pesquisa (BeautyGAN, PSGAN, EleGANt, Stable-Makeup, SSAT, CSD-MT, CPM), em grande parte do conjunto MT (uso de pesquisa). Ficam só em testes/fixtures/bancada (fora do git) e servem apenas como teste interno. Revisado em 08/10/2026 olhando cada foto ampliada: sombra e blush em três níveis (nenhuma, leve, marcada), porque quase toda foto profissional tem algum dos dois.",
+ "referencias": [
+  {
+   "id": "00",
+   "arquivo": "Chenyu-Yang-2000__assets_images_makeup_reference_1.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "marcada",
+   "batom": "rosa-berry"
+  },
+  {
+   "id": "01",
+   "arquivo": "Chenyu-Yang-2000__assets_images_makeup_reference_2.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "coral"
+  },
+  {
+   "id": "02",
+   "arquivo": "Chenyu-Yang-2000__assets_images_makeup_reference_3.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "vermelho"
+  },
+  {
+   "id": "03",
+   "arquivo": "Honlan__imgs_makeup_XMY-014.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "vermelho"
+  },
+  {
+   "id": "04",
+   "arquivo": "Honlan__imgs_makeup_XMY-074.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "nenhuma",
+   "batom": "rosa"
+  },
+  {
+   "id": "05",
+   "arquivo": "Honlan__imgs_makeup_XMY-136.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "nenhuma",
+   "batom": "vermelho"
+  },
+  {
+   "id": "06",
+   "arquivo": "Honlan__imgs_makeup_XMY-266.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "coral"
+  },
+  {
+   "id": "07",
+   "arquivo": "Honlan__imgs_makeup_vFG112.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "coral"
+  },
+  {
+   "id": "08",
+   "arquivo": "Honlan__imgs_makeup_vFG137.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "berry"
+  },
+  {
+   "id": "09",
+   "arquivo": "Honlan__imgs_makeup_vFG56.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "rosa"
+  },
+  {
+   "id": "10",
+   "arquivo": "Honlan__imgs_makeup_vFG756.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "coral"
+  },
+  {
+   "id": "11",
+   "arquivo": "Honlan__imgs_makeup_vRX916.png",
+   "tipo": "social",
+   "sombra": "nenhuma",
+   "blush": "leve",
+   "batom": "coral"
+  },
+  {
+   "id": "12",
+   "arquivo": "Snowfallingplum__examples_images_makeup_31bdcd86ffa8cc91444ec6ca921e32e5.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "vermelho"
+  },
+  {
+   "id": "13",
+   "arquivo": "Snowfallingplum__examples_images_makeup_8ed6feb8f72b89632d02fbafcc2511a9.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "nenhuma",
+   "batom": "ameixa"
+  },
+  {
+   "id": "14",
+   "arquivo": "Snowfallingplum__examples_images_makeup_XMY-112.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "rosa"
+  },
+  {
+   "id": "15",
+   "arquivo": "Snowfallingplum__examples_images_makeup_XMY-434.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "nude-rosado"
+  },
+  {
+   "id": "16",
+   "arquivo": "Snowfallingplum__examples_images_makeup_XYH-109.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "ameixa"
+  },
+  {
+   "id": "17",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vFG293.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "nude"
+  },
+  {
+   "id": "18",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vFG374.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "vermelho"
+  },
+  {
+   "id": "19",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vFG506.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "malva"
+  },
+  {
+   "id": "20",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vFG511.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "vermelho"
+  },
+  {
+   "id": "21",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vFG549.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "rosa"
+  },
+  {
+   "id": "22",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vFG625.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "marcada",
+   "batom": "coral"
+  },
+  {
+   "id": "23",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vHX129.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "leve",
+   "batom": "magenta"
+  },
+  {
+   "id": "24",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vHX213.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "marcada",
+   "batom": "rosa"
+  },
+  {
+   "id": "25",
+   "arquivo": "Snowfallingplum__examples_images_makeup_vRX629.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "rosa"
+  },
+  {
+   "id": "26",
+   "arquivo": "Snowfallingplum__quick_start_examples_makeup_00012.jpg",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "vermelho"
+  },
+  {
+   "id": "27",
+   "arquivo": "Snowfallingplum__quick_start_examples_makeup_00013.jpg",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "nude"
+  },
+  {
+   "id": "28",
+   "arquivo": "Snowfallingplum__quick_start_examples_makeup_00014.jpg",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "rosa"
+  },
+  {
+   "id": "29",
+   "arquivo": "Snowfallingplum__quick_start_examples_makeup_00016.jpg",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "nude-rosado"
+  },
+  {
+   "id": "36",
+   "arquivo": "Snowfallingplum__quick_start_test_images_makeup_vFG157.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "rosa"
+  },
+  {
+   "id": "37",
+   "arquivo": "Snowfallingplum__quick_start_test_images_makeup_vFG251.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "marcada",
+   "batom": "coral"
+  },
+  {
+   "id": "38",
+   "arquivo": "Snowfallingplum__quick_start_test_images_makeup_vFG570.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "roxo"
+  },
+  {
+   "id": "39",
+   "arquivo": "Snowfallingplum__quick_start_test_images_makeup_vFG674.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "leve",
+   "batom": "vermelho"
+  },
+  {
+   "id": "40",
+   "arquivo": "Snowfallingplum__quick_start_test_images_makeup_vFG839.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "marcada",
+   "batom": "vermelho"
+  },
+  {
+   "id": "41",
+   "arquivo": "Snowfallingplum__quick_start_test_images_makeup_vHX743.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "marcada",
+   "batom": "rosa"
+  },
+  {
+   "id": "48",
+   "arquivo": "VinAIResearch__imgs_non-makeup.png",
+   "tipo": "social",
+   "sombra": "nenhuma",
+   "blush": "nenhuma",
+   "batom": "nude"
+  },
+  {
+   "id": "51",
+   "arquivo": "VinAIResearch__imgs_style-3.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "nenhuma",
+   "batom": "vinho"
+  },
+  {
+   "id": "52",
+   "arquivo": "VinAIResearch__imgs_style-4.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "leve",
+   "batom": "magenta"
+  },
+  {
+   "id": "53",
+   "arquivo": "VinAIResearch__imgs_style-5.png",
+   "tipo": "social",
+   "sombra": "marcada",
+   "blush": "nenhuma",
+   "batom": "vinho"
+  },
+  {
+   "id": "60",
+   "arquivo": "wtjiang98__assets_images_makeup_vFG586.png",
+   "tipo": "social",
+   "sombra": "leve",
+   "blush": "leve",
+   "batom": "vermelho"
+  },
+  {
+   "id": "30",
+   "arquivo": "Snowfallingplum__quick_start_examples_makeup_10038.jpg",
+   "tipo": "artistica"
+  },
+  {
+   "id": "31",
+   "arquivo": "Snowfallingplum__quick_start_examples_makeup_10063.jpg",
+   "tipo": "artistica"
+  },
+  {
+   "id": "32",
+   "arquivo": "Snowfallingplum__quick_start_examples_makeup_10081.jpg",
+   "tipo": "artistica"
+  },
+  {
+   "id": "50",
+   "arquivo": "VinAIResearch__imgs_style-1.png",
+   "tipo": "artistica"
+  },
+  {
+   "id": "54",
+   "arquivo": "VinAIResearch__imgs_style-6.png",
+   "tipo": "artistica"
+  },
+  {
+   "id": "56",
+   "arquivo": "Xiaojiu-z__test_imgs_makeup_1.jpg",
+   "tipo": "artistica"
+  },
+  {
+   "id": "57",
+   "arquivo": "Xiaojiu-z__test_imgs_makeup_2.jpg",
+   "tipo": "artistica"
+  },
+  {
+   "id": "58",
+   "arquivo": "Xiaojiu-z__test_imgs_makeup_3.jpg",
+   "tipo": "artistica"
+  },
+  {
+   "id": "59",
+   "arquivo": "Xiaojiu-z__test_imgs_makeup_4.png",
+   "tipo": "artistica"
+  }
+ ],
+ "clientes": [
+  {
+   "id": "01",
+   "arquivo": "Chenyu-Yang-2000__assets_images_non-makeup_source_2.png"
+  },
+  {
+   "id": "04",
+   "arquivo": "Honlan__imgs_no_makeup_vSYYZ306.png"
+  },
+  {
+   "id": "12",
+   "arquivo": "Honlan__imgs_no_makeup_xfsy_0503.png"
+  },
+  {
+   "id": "20",
+   "arquivo": "Snowfallingplum__examples_images_non-makeup_xfsy_0409.png"
+  },
+  {
+   "id": "28",
+   "arquivo": "Snowfallingplum__quick_start_examples_non_makeup_00434.jpg"
+  },
+  {
+   "id": "29",
+   "arquivo": "Snowfallingplum__quick_start_examples_non_makeup_00444.jpg"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "nota": "Rostos de exemplo públicos de repositórios de reconhecimento facial (deepface, insightface, CodeFormer, face-parsing), baixados para testes/fixtures/bancada/diversos (fora do git), uso só como teste interno. Categorias anotadas à mão olhando as fotos em 08/10/2026. Crianças ficam fora do teste de make.",
+ "categorias": {
+  "pele-negra": [
+   "000",
+   "040",
+   "118"
+  ],
+  "pele-morena-media": [
+   "071",
+   "072",
+   "122",
+   "028"
+  ],
+  "idosos": [
+   "001",
+   "043",
+   "050",
+   "051",
+   "052",
+   "120"
+  ],
+  "criancas": [
+   "003",
+   "041",
+   "047",
+   "048",
+   "049"
+  ],
+  "oculos": [
+   "033",
+   "034",
+   "043",
+   "048",
+   "050",
+   "052",
+   "071",
+   "072",
+   "121"
+  ],
+  "mascara": [
+   "016"
+  ],
+  "barba": [
+   "051",
+   "062",
+   "063",
+   "087",
+   "089",
+   "110",
+   "111",
+   "118"
+  ],
+  "baixa-resolucao-ou-borrada": [
+   "035",
+   "036",
+   "037",
+   "038",
+   "039",
+   "042",
+   "044",
+   "045",
+   "046"
+  ],
+  "girada-ou-de-lado": [
+   "010",
+   "020",
+   "021",
+   "022",
+   "027",
+   "032"
+  ],
+  "grupo": [
+   "004",
+   "018",
+   "053",
+   "116"
+  ],
+  "desenho-anime": [
+   "012",
+   "013",
+   "014",
+   "015",
+   "019"
+  ],
+  "sem-rosto-paisagem": [
+   "024"
+  ]
+ },
+ "rostosParaMake": [
+  {
+   "id": "negra-tranças",
+   "tom": "escuro",
+   "arquivo": "diversos/deepinsight__cpp-package_inspireface_test_res_data_attribute_1423.jpg"
+  },
+  {
+   "id": "homem-negro",
+   "tom": "escuro",
+   "arquivo": "diversos/yakhyo__assets_images_1112.jpg"
+  },
+  {
+   "id": "homem-indiano",
+   "tom": "medio-escuro",
+   "arquivo": "diversos/serengil__tests_unit_dataset_img25.jpg"
+  },
+  {
+   "id": "mulher-sul-asiatica",
+   "tom": "medio-escuro",
+   "arquivo": "sem-make/Snowfallingplum__quick_start_examples_non_makeup_00434.jpg"
+  },
+  {
+   "id": "mulher-morena",
+   "tom": "medio",
+   "arquivo": "diversos/yakhyo__assets_images_1333.jpg"
+  },
+  {
+   "id": "idosa",
+   "tom": "claro",
+   "arquivo": "diversos/deepinsight__cpp-package_inspireface_test_res_data_attribute_1561.jpg"
+  },
+  {
+   "id": "mulher-leste-asiatica",
+   "tom": "claro",
+   "arquivo": "diversos/deepinsight__cpp-package_inspireface_test_res_data_bulk_face_sample.png"
+  },
+  {
+   "id": "loira",
+   "tom": "claro",
+   "arquivo": "diversos/yakhyo__assets_images_1.jpg"
+  },
+  {
+   "id": "mulher-pele-clara",
+   "tom": "claro",
+   "arquivo": "diversos/serengil__tests_unit_dataset_img47.jpg"
+  },
+  {
+   "id": "senhora",
+   "tom": "claro",
+   "arquivo": "diversos/yakhyo__assets_images_1319.jpg"
+  }
+ ]
+}

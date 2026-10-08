@@ -103,6 +103,7 @@ test("foto com problema pede outra e arquivo perigoso é recusado", async ({ pag
 });
 
 test("espelho ao vivo com câmera: pinta, troca cor e tira foto", async ({ page }, info) => {
+  test.setTimeout(240_000); // câmera falsa + pintura a cada quadro em GPU emulada: lento só na máquina de teste
   const erros = await abrir(page);
   await page.getByRole("button", { name: /Espelho ao vivo/ }).click();
   await expect(page.locator("#estado-espelho")).toContainText("Ao vivo", { timeout: 60_000 });
@@ -160,5 +161,31 @@ test("bastidores e studio de exemplo abrem sem análise", async ({ page }, info)
   await expect(page.getByRole("heading", { name: "Bastidores do motor" })).toBeVisible();
   await expect(page.locator("#info-detector")).toContainText(/Carregado/, { timeout: 60_000 });
   await print(page, "16-bastidores", info);
+  expect(erros, erros.join("\n")).toEqual([]);
+});
+
+test("copiar make de uma foto: lê a referência e leva para o estudo e para o espelho", async ({ page }, info) => {
+  const erros = await abrir(page);
+  await page.getByRole("button", { name: /Testar uma make/ }).click();
+  await page.locator(".card-momento", { hasText: "Casamento" }).click();
+  await page.getByRole("button", { name: "Continuar" }).click();
+  await page.getByRole("radio", { name: /Madrinha/ }).click();
+  await page.getByRole("button", { name: "Continuar" }).click();
+  await page.getByRole("button", { name: /foto de referência/ }).click();
+  await expect(page.getByRole("heading", { name: "Copiar make de uma foto" })).toBeVisible();
+  // referência: foto real pintada com uma make conhecida (glam: sombra roxa, blush, iluminador, batom)
+  await page.locator("#arquivo-ref").setInputFiles(resolve(raiz, "testes/fixtures/maquiadas/rosto-frontal__glam.png"));
+  await expect(page.locator("#leituras")).toBeVisible({ timeout: 60_000 });
+  await expect(page.locator("#leituras li:not(.espera)", { hasText: "Batom" })).toBeVisible();
+  await expect(page.locator("#leituras li:not(.espera)", { hasText: "Sombra" })).toBeVisible();
+  await expect(page.locator("#leituras li", { hasText: "Base" })).toContainText("Não copiamos a base");
+  await print(page, "17-referencia", info);
+  const lido = await page.evaluate(() => Object.keys(window.__thalita.E.referencia.lido.estado));
+  expect(lido).toEqual(expect.arrayContaining(["batom", "sombra", "blush"]));
+  await page.getByRole("button", { name: "Testar no espelho ao vivo" }).click();
+  await expect(page.locator("#estado-espelho")).toContainText("Ao vivo", { timeout: 60_000 });
+  expect(await page.evaluate(() => !!window.__thalita.E.aoVivo.estado.sombra)).toBe(true);
+  await page.waitForTimeout(800);
+  await print(page, "18-referencia-no-espelho", info);
   expect(erros, erros.join("\n")).toEqual([]);
 });

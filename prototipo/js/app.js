@@ -11,6 +11,9 @@ import { prepararFoto, analisarTexto } from "./seguranca.js";
 import { PONTOS_PADRAO } from "./rosto-padrao.js";
 import { VARIACOES, PRECOS, MEDIDAS_PADRAO } from "./vitrine.js";
 import { ajustar } from "./cor.js";
+import { lerMakeDaFoto } from "./referencia.js";
+import { MAKES_EPOCAS } from "./epocas.js";
+const PRONTAS_E_EPOCAS = [...MAKES_PRONTAS, ...MAKES_EPOCAS];
 
 // ---------------------------------------------------------------- estado
 const E = {
@@ -282,6 +285,7 @@ TELAS.estilo = () => {
         ${MAKES.map((mk) => `<button class="chip" data-f="${mk.id}" aria-pressed="false">${esc(mk.nome.replace(" iluminada", ""))}</button>`).join("")}
       </div>
       <div class="carrossel" id="estilos" aria-label="Estilos"></div>
+      <button class="link" id="ir-referencia" style="align-self:flex-start">Tenho uma foto de referência: copiar a make dela</button>
       <p class="nota" style="text-align:left">Ilustração técnica de cada estilo (face chart). No app final aqui ficam as fotos "Inspiração com IA" geradas a partir da biblioteca de estilos.</p>`,
     botoes: `<button class="botao principal" id="continuar" ${E.variacaoId ? "" : "disabled"}>Ver em mim</button>`,
   });
@@ -308,6 +312,7 @@ TELAS.estilo = () => {
   }));
   desenhar();
   $("#continuar").addEventListener("click", () => ir("foto"));
+  $("#ir-referencia").addEventListener("click", () => { E.referencia = { origem: "estilo", ...(E.referencia ?? {}) }; E.referencia.origem = "estilo"; ir("referencia"); });
 };
 
 TELAS.foto = () => {
@@ -656,6 +661,66 @@ TELAS.resultado = () => {
   $("#ver-brief").addEventListener("click", () => ir("studio"));
 };
 
+// ---------------------------------------------------------------- copiar make de uma foto
+const NOMES_CAT = { batom: "Batom", sombra: "Sombra", delineado: "Delineado", mascara: "Máscara", blush: "Blush", contorno: "Contorno", iluminador: "Iluminador", sobrancelha: "Sobrancelha", base: "Base" };
+
+TELAS.referencia = () => {
+  const R = E.referencia ?? (E.referencia = { origem: "estilo" });
+  const lido = R.lido;
+  const amostras = (l) => (l.cores ?? [l.cor]).map((h) => `<i class="amostra" style="background:${h}"></i>`).join("");
+  montar({
+    progresso: R.origem === "estilo" ? 3 / 7 : null,
+    legenda: "A gente lê as cores da make da foto e testa no seu rosto.",
+    corpo: `
+      <div><h1>Copiar make de uma foto</h1>
+      <p class="apoio">Mande a foto de uma make que você gostou. O motor lê as cores de cada produto e aplica no <b>seu</b> rosto, com a base no seu tom. A foto de referência não é guardada.</p></div>
+      ${lido ? `
+        <div class="moldura-foto" style="aspect-ratio:auto;max-height:46vh"><img alt="Foto de referência" src="${R.url}" style="object-fit:contain;max-height:46vh"></div>
+        ${lido.avisos.length ? `<section class="aviso">${lido.avisos.map((a) => `<span>${esc(a)}</span>`).join("")}</section>` : ""}
+        <ul class="checks" id="leituras" aria-label="O que lemos na foto">
+          ${lido.leituras.map((l) => `<li class="${l.presente ? "" : "espera"}"><span><b>${NOMES_CAT[l.categoria] ?? esc(l.categoria)}</b> ${l.presente ? `${amostras(l)} <span class="tabular">${Math.round((l.intensidade ?? 0) * 100)}%</span>${l.parecida ? ` · parecida com ${esc(l.parecida)}` : ""}` : ""}<small>${esc(l.detalhe)}${l.presente ? ` Confiança ${Math.round(l.confianca * 100)}%.` : ""}</small></span></li>`).join("")}
+        </ul>
+        <p class="nota" style="text-align:left">Leitura feita no seu aparelho, sem IA. Contorno e sombras marrons se confundem com a luz da foto: ajuste no espelho se precisar.</p>` : `
+        <section class="aviso champanhe"><b>Funciona melhor com</b><span>Rosto de frente, inteiro, com luz do dia e sem filtro.</span></section>`}
+      <input type="file" id="arquivo-ref" accept="image/jpeg,image/png,image/webp" class="so-leitor">`,
+    botoes: lido
+      ? `<button class="botao principal" id="ref-usar">${R.origem === "aovivo" ? "Testar no espelho" : "Ver em mim"}</button><button class="link" id="ref-outra">${R.origem === "aovivo" ? "Escolher outra foto" : "Testar no espelho ao vivo"}</button>`
+      : `<button class="botao principal" id="ref-enviar">${ICONE.enviar} Escolher a foto de referência</button>`,
+  });
+  painelMalha("A gente lê as cores da make da foto e testa no seu rosto.");
+  $("#ref-enviar")?.addEventListener("click", () => $("#arquivo-ref").click());
+  $("#ref-outra")?.addEventListener("click", () => {
+    if (R.origem === "aovivo") $("#arquivo-ref").click();
+    else { E.aoVivo.estado = structuredClone(lido.estado); E.aoVivo.pronta = null; ir("aovivo"); }
+  });
+  $("#ref-usar")?.addEventListener("click", () => {
+    if (R.origem === "aovivo") { E.aoVivo.estado = structuredClone(lido.estado); E.aoVivo.pronta = null; voltar(); return; }
+    const est = lido.estado;
+    E.makeId = est.sombra || est.delineado ? (est.batom?.intensidade >= 0.8 ? "glam" : "olho-marcante") : est.batom?.intensidade >= 0.8 ? "boca-marcante" : "soft-glam";
+    E.variacaoId = null;
+    E.pedidoAnalise = { ajustes: structuredClone(est), entendidos: ["cores copiadas da foto de referência"], ignorados: [] };
+    ir("foto");
+  });
+  $("#arquivo-ref").addEventListener("change", async (ev) => {
+    const f = ev.target.files?.[0];
+    if (!f) return;
+    const r = await prepararFoto(f).catch((e) => ({ ok: false, checagens: [{ estado: "erro", titulo: "Não conseguimos abrir essa imagem", dica: String(e?.message ?? e) }] }));
+    if (!r.ok) { const e = r.checagens.find((c) => c.estado === "erro"); avisar(`${e?.titulo ?? "Foto recusada"}. ${e?.dica ?? ""}`, 4200); return; }
+    avisar("Lendo as cores da make…", 1600);
+    try {
+      const img = new Image(); img.src = r.url; await img.decode();
+      await carregarDetector();
+      const det = await detectarFoto(img);
+      const { amostrador } = await pixelsDe(img, det.largura, det.altura);
+      const res = lerMakeDaFoto(det, amostrador);
+      if (!res.ok) { avisar(res.avisos[0] ?? "Não conseguimos ler essa foto.", 4200); return; }
+      if (R.url) URL.revokeObjectURL(R.url);
+      R.url = r.url; R.lido = res;
+      ir("referencia", { substituir: true });
+    } catch (e) { avisar(`Não deu para ler a foto: ${e?.message ?? e}`, 4200); }
+  });
+};
+
 // ---------------------------------------------------------------- agendar
 TELAS.agendar = () => {
   const preco = PRECOS[E.papel] ?? PRECOS.padrao;
@@ -788,8 +853,8 @@ TELAS.aovivo = () => {
   montar({
     palco: true,
     corpo: `
-      <div style="display:flex;justify-content:space-between;align-items:center"><h2>Espelho ao vivo</h2><button class="link" id="trocar-fonte">Usar uma foto</button></div>
-      <div class="chips rolagem" id="prontas" aria-label="Makes prontas"><button class="chip" id="zerar" aria-pressed="${!Object.values(AV.estado).some(Boolean)}">Sem make</button>${MAKES_PRONTAS.map((p) => `<button class="chip" data-id="${p.id}" aria-pressed="${AV.pronta === p.id}">${esc(p.nome)}</button>`).join("")}</div>
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap"><h2>Espelho ao vivo</h2><span style="display:flex;gap:16px"><button class="link" id="copiar-ref">Copiar de uma foto</button><button class="link" id="trocar-fonte">Usar uma foto</button></span></div>
+      <div class="chips rolagem" id="prontas" aria-label="Makes prontas"><button class="chip" id="zerar" aria-pressed="${!Object.values(AV.estado).some(Boolean)}">Sem make</button>${PRONTAS_E_EPOCAS.map((p) => `<button class="chip" data-id="${p.id}" aria-pressed="${AV.pronta === p.id}" title="${esc(p.descricao ?? p.resumo ?? "")}">${esc(p.nome)}</button>`).join("")}</div>
       <div class="espelho" id="espelho">
         <video playsinline muted autoplay></video><canvas aria-label="Seu rosto com a make"></canvas>
         <span class="estado-espelho" id="estado-espelho">Abrindo a câmera…</span>
@@ -856,6 +921,7 @@ TELAS.aovivo = () => {
     desenhar();
   };
   $("#trocar-fonte").addEventListener("click", () => $("#arquivo-av").click());
+  $("#copiar-ref").addEventListener("click", () => { E.referencia = { ...(E.referencia ?? {}), origem: "aovivo" }; ir("referencia"); });
   $("#arquivo-av").addEventListener("change", async (ev) => {
     const f = ev.target.files?.[0]; if (!f) return;
     const r = await prepararFoto(f);
@@ -870,7 +936,7 @@ TELAS.aovivo = () => {
   ["pointerup", "pointerleave", "pointercancel"].forEach((ev) => segurar.addEventListener(ev, ligar(false)));
 
   $$("#prontas .chip").forEach((c) => c.addEventListener("click", () => {
-    const p = MAKES_PRONTAS.find((x) => x.id === c.dataset.id);
+    const p = PRONTAS_E_EPOCAS.find((x) => x.id === c.dataset.id);
     AV.estado = p ? structuredClone(p.estado) : {}; AV.pronta = p?.id ?? null; // "Sem make" zera tudo
     $$("#prontas .chip").forEach((x) => x.setAttribute("aria-pressed", x === c));
     renderControles(); desenhar();

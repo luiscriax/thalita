@@ -6,7 +6,7 @@
   "description": "Protótipo do motor de make da Thalita Mariano: leitura do rosto, receita, pintura e Beauty Brief.",
   "scripts": {
     "servir": "node scripts/servir.mjs",
-    "fixtures": "bash scripts/baixar-fixtures.sh && node scripts/extrair-pontos.mjs",
+    "fixtures": "bash scripts/baixar-fixtures.sh && node scripts/extrair-pontos.mjs && node scripts/pintar-fixtures.mjs",
     "test": "node --test \"testes/unit/*.test.mjs\"",
     "test:e2e": "playwright test --config testes/e2e/playwright.config.mjs",
     "artefato": "node scripts/artefato.mjs"
